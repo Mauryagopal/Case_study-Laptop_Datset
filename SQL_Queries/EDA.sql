@@ -1,0 +1,1 @@
+SELECT * FROM laptop.laptop_unique;

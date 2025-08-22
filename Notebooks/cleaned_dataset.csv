@@ -1,0 +1,1245 @@
+"id","Company","TypeName","Inches","resolution_width","resolution_height","touchscreen","cpu_brand","cpu_name","cpu_speed","ram","secondar_storage","primary_storage","memory_type","gpu_brand","gpu_name","OpSys","weight","Price"
+1,"Apple","Ultrabook",13.3,2560,1600,0,"Intel","Core i5",2.3,8,"0","128","SSD","Intel"," Iris Plus Graphics 640","macos",1.4,71379.0
+2,"Apple","Ultrabook",13.3,1440,900,0,"Intel","Core i5",1.8,8,"0","128","Flash Storage","Intel"," HD Graphics 6000","macos",1.3,47896.0
+3,"HP","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Nvidia"," GeForce MX150","windows",1.4,59620.0
+4,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","N/A",1.9,30636.0
+5,"Apple","Ultrabook",15.4,2880,1800,0,"Intel","Core i7",2.7,16,"0","512","SSD","AMD"," Radeon Pro 455","macos",1.8,135195.0
+6,"Apple","Ultrabook",13.3,2560,1600,0,"Intel","Core i5",3.1,8,"0","256","SSD","Intel"," Iris Plus Graphics 650","macos",1.4,96096.0
+7,"Microsoft","Ultrabook",13.5,2256,1504,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,71395.0
+8,"Acer","Notebook",15.6,1366,768,0,"AMD","A9-Series 9420",3.0,4,"0","500","HDD","AMD"," Radeon R5","windows",2.1,21312.0
+9,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,6,"0","256","SSD","Nvidia"," GeForce 940MX","windows",1.6,35112.0
+10,"Apple","Ultrabook",15.4,2880,1800,0,"Intel","Core i7",2.2,16,"0","256","Flash Storage","Intel"," Iris Pro Graphics","macos",2.0,114018.0
+11,"Apple","Ultrabook",13.3,1440,900,0,"Intel","Core i5",1.8,8,"0","256","Flash Storage","Intel"," HD Graphics 6000","macos",1.3,61736.0
+12,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","windows",1.9,22106.0
+13,"Asus","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Nvidia"," GeForce 940MX","windows",1.3,63563.0
+14,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.2,69211.0
+15,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.6,78854.0
+16,"Asus","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",1.8,16,"1024","256","Hybrid","Nvidia"," GeForce MX150","windows",1.5,67239.0
+17,"Dell","Workstation",15.6,3840,2160,0,"Intel","Xeon E3-1505M",3.0,16,"1024","256","Hybrid","Nvidia"," Quadro M1200","windows",2.8,162770.0
+18,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"0","512","SSD","Nvidia"," GeForce GTX 1060","N/A",2.4,74485.0
+19,"Dell","Notebook",15.6,1366,768,1,"Intel","Core i3",2.4,6,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.3,23390.0
+20,"Dell","Ultrabook",13.3,3840,2160,1,"Intel","Core i7",1.8,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.2,103843.0
+21,"Dell","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",0.0,77203.0
+22,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","linux",2.4,41505.0
+23,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.9,74965.0
+24,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","N/A",2.1,18595.0
+25,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","N/A",2.2,29251.0
+26,"Dell","Ultrabook",13.3,3200,1800,1,"Intel","Core i7",2.4,8,"0","256","SSD","Intel"," Iris Plus Graphics 640","windows",1.2,73473.0
+27,"Huawei","Ultrabook",13.0,2160,1440,0,"Intel","Core i7",2.7,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.1,79867.0
+28,"Lenovo","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,74539.0
+29,"Dell","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","AMD"," Radeon 530","windows",1.4,49651.0
+30,"HP","Notebook",14.0,1366,768,0,"Intel","Core i5",1.6,4,"0","500","HDD","Intel"," UHD Graphics 620","windows",1.6,38468.0
+31,"Lenovo","Notebook",17.3,1600,900,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Nvidia"," GeForce GTX 940MX","N/A",2.8,31382.0
+32,"Dell","Ultrabook",13.3,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.2,86793.0
+33,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Nvidia"," GeForce 930MX","windows",1.6,54932.0
+34,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i7",1.8,8,"0","512","SSD","Intel"," UHD Graphics 620","windows",1.6,57756.0
+35,"Dell","Ultrabook",14.0,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.6,61219.0
+36,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"1024","256","Hybrid","Nvidia"," GeForce 940MX","windows",2.2,60224.0
+37,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","2048","HDD","Nvidia"," GeForce 940MX","N/A",2.2,29251.0
+38,"Dell","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",1.8,16,"0","512","SSD","Intel"," UHD Graphics 620","windows",1.6,68145.0
+39,"Asus","Notebook",17.3,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Nvidia"," GeForce 920MX","windows",2.0,30050.0
+40,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Nvidia"," GeForce 940MX","windows",1.7,59567.0
+41,"Acer","Notebook",15.6,1920,1080,1,"Intel","Core i3",2.4,6,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.1,25521.0
+42,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"2048","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",1.8,119427.0
+43,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","AMD"," Radeon 520","linux",2.2,36089.0
+44,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce 940MX","N/A",2.2,33513.0
+45,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i7",1.8,16,"0","512","SSD","Nvidia"," GeForce 930MX ","windows",2.5,67719.0
+46,"Lenovo","2 in 1 Convertible",14.0,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.7,47899.0
+47,"Acer","Notebook",15.6,1366,768,0,"AMD","A9-Series 9420",3.0,4,"0","256","SSD","AMD"," Radeon R5","windows",2.1,24029.0
+48,"Toshiba","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.2,72621.0
+49,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.5,67399.0
+50,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",1.6,8,"0","1024","HDD","Intel"," UHD Graphics 620","windows",1.6,43263.0
+51,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.1,4,"0","1024","HDD","Intel"," HD Graphics 505","N/A",2.2,19180.0
+52,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"0","1024","HDD","Intel"," UHD Graphics 620","windows",2.1,42304.0
+53,"Asus","Notebook",14.0,1366,768,0,"AMD","E-Series 6110",1.5,4,"0","64","SSD","AMD"," Radeon R2","windows",1.7,14811.0
+54,"Dell","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",4.4,130874.0
+55,"Dell","Notebook",17.3,1920,1080,0,"Intel","Core i7",1.8,16,"2048","256","Hybrid","AMD"," Radeon 530","windows",2.8,74379.0
+56,"HP","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",2.8,16,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,105228.0
+57,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Nvidia"," GeForce 940MX","windows",2.2,44329.0
+58,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",2.5,49444.0
+59,"Dell","Notebook",15.6,1920,1080,1,"Intel","Core i7",2.7,16,"0","1024","HDD","AMD"," Radeon R7 M445","windows",2.3,45768.0
+60,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","1024","HDD","AMD"," Radeon R7 M445","windows",2.4,34045.0
+61,"Toshiba","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","Nvidia"," GeForce 930M","windows",2.2,55571.0
+62,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","AMD"," Radeon R5 M430","windows",2.2,23923.0
+63,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","Nvidia"," GeForce 940MX","windows",2.3,43636.0
+64,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce 920MX ","windows",2.0,40972.0
+65,"Asus","Notebook",17.3,1920,1080,0,"Intel","Core i5",2.5,8,"500","256","Hybrid","Nvidia"," GeForce GTX 950M","windows",2.7,47472.0
+66,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","windows",1.9,24988.0
+67,"Acer","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.6,47100.0
+68,"Lenovo","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.1,53227.0
+69,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","AMD"," FirePro W4190M ","windows",1.9,67612.0
+70,"Asus","Notebook",15.6,1366,768,0,"Intel","Core i3",2.4,4,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.4,21258.0
+71,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.7,4,"0","256","SSD","Nvidia"," GeForce MX130","windows",7.2,30476.0
+72,"HP","Notebook",15.6,1366,768,0,"AMD","E-Series 9000e",1.5,4,"0","500","HDD","AMD"," Radeon R2","windows",2.1,17582.0
+73,"HP","Notebook",15.6,1366,768,0,"Intel","Core i7",2.7,8,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.1,31861.0
+74,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.6,52641.0
+75,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",3.2,79867.0
+76,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","1024","HDD","Intel"," HD Graphics 500","N/A",1.9,13446.0
+77,"Dell","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.6,45768.0
+78,"Acer","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.6,36710.0
+79,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",3.0,49977.0
+80,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,16,"0","256","SSD","AMD"," Radeon R7 M445","linux",2.4,47899.0
+81,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","1024","HDD","Nvidia"," GeForce 920MX","N/A",2.2,26587.0
+82,"HP","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.5,4,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,37243.0
+83,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","linux",2.1,20779.0
+84,"Acer","Notebook",17.3,1920,1080,0,"Intel","Core i3",2.7,4,"0","1024","HDD","Nvidia"," GeForce MX130","windows",3.0,34898.0
+85,"Asus","Notebook",15.6,1920,1080,0,"AMD","A10-Series A10-9620P",2.5,4,"1024","128","Hybrid","AMD"," Radeon R5 M430","windows",2.2,30636.0
+86,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","AMD"," Radeon RX 550","windows",1.8,59462.0
+87,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.9,32,"1024","512","Hybrid","Nvidia"," GeForce GTX 1080","windows",4.7,207259.0
+88,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," GeForce GTX 1050M","N/A",2.4,46300.0
+89,"Acer","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce GTX 1050","windows",2.5,45075.0
+90,"Toshiba","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.1,32075.0
+91,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,8,"0","128","SSD","Intel"," HD Graphics 520","windows",7.2,31382.0
+92,"HP","Notebook",15.6,1366,768,0,"AMD","A6-Series 9220",2.5,4,"0","256","SSD","AMD"," Radeon R4 Graphics","windows",1.9,19660.0
+93,"Asus","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.3,58555.0
+94,"HP","Ultrabook",12.5,3840,2160,1,"Intel","Core M",1.2,8,"0","512","SSD","Intel"," HD Graphics 515","windows",1.0,107306.0
+95,"Asus","Notebook",17.3,1920,1080,0,"Intel","Core i7",1.8,8,"1024","128","Hybrid","Nvidia"," GeForce 150MX","windows",2.1,61006.0
+96,"Asus","Notebook",15.6,1920,1080,0,"Intel","Celeron Dual",1.1,4,"0","1024","HDD","Intel"," HD Graphics 500","windows",2.0,18328.0
+97,"Asus","Notebook",17.3,1920,1080,0,"Intel","Core i7",2.7,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 950M","N/A",2.7,47366.0
+98,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","windows",2.1,23816.0
+99,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce GTX 1050","windows",2.6,46833.0
+100,"Lenovo","2 in 1 Convertible",13.9,1920,1080,1,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,57489.0
+101,"Dell","Ultrabook",13.3,3840,2160,1,"Intel","Core i7",1.8,16,"0","1024","SSD","Intel"," UHD Graphics 620","windows",1.2,133147.0
+102,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"0","512","SSD","Nvidia"," GeForce GTX 1050","windows",2.6,66561.0
+103,"Asus","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",1.8,16,"0","512","SSD","Nvidia"," GeForce MX150","windows",1.3,79654.0
+104,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",2.8,111835.0
+105,"Acer","Notebook",15.6,1920,1080,0,"AMD","A8-Series 7410",2.2,8,"0","256","SSD","AMD"," Radeon R5","windows",2.2,24988.0
+106,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.6,47899.0
+107,"Asus","2 in 1 Convertible",11.6,1366,768,1,"Intel","Celeron Dual",1.1,2,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.1,14652.0
+108,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","128","SSD","Intel"," HD Graphics 620","windows",1.9,26533.0
+109,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.8,100699.0
+110,"Acer","Ultrabook",14.0,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.6,41026.0
+111,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"2048","128","Hybrid","AMD"," Radeon 530","windows",2.2,52481.0
+112,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","N/A",1.9,20987.0
+113,"HP","Notebook",15.6,1366,768,1,"Intel","Core i5",2.5,8,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.0,29784.0
+114,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","N/A",1.9,18381.0
+115,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.9,16,"0","256","SSD","Nvidia"," GeForce GTX 1080","windows",3.6,159787.0
+116,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"1024","128","Hybrid","AMD"," Radeon 530","windows",2.3,44968.0
+117,"HP","Notebook",13.3,1920,1080,0,"Intel","Core i5",1.6,4,"0","500","HDD","Intel"," UHD Graphics 620","windows",1.5,35964.0
+118,"Apple","Ultrabook",15.4,2880,1800,0,"Intel","Core i7",2.8,16,"0","256","SSD","AMD"," Radeon Pro 555","macos",1.8,130002.0
+119,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","256","SSD","AMD"," Radeon R5 M430","windows",2.2,26581.0
+120,"Apple","Ultrabook",13.3,2560,1600,0,"Intel","Core i5",3.1,8,"0","512","SSD","Intel"," Iris Plus Graphics 650","macos",1.4,108691.0
+121,"HP","2 in 1 Convertible",13.3,3840,2160,1,"Intel","Core i7",1.8,16,"0","1024","SSD","Intel"," UHD Graphics 620","windows",1.3,130483.0
+122,"Apple","Ultrabook",12.0,2304,1440,0,"Intel","Core M",1.2,8,"0","256","SSD","Intel"," HD Graphics 615","macos",0.9,67261.0
+123,"Apple","Ultrabook",13.3,2560,1600,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," Iris Plus Graphics 640","macos",1.4,80908.0
+124,"Lenovo","Notebook",13.3,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","16","Flash Storage","Intel"," HD Graphics 510","other",1.5,24503.0
+125,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,52214.0
+126,"Dell","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i7",1.8,8,"0","1024","HDD","Intel"," UHD Graphics 620","windows",2.1,43636.0
+127,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 980M","windows",4.3,95851.0
+128,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","AMD"," Radeon R5 M430","windows",2.2,39694.0
+129,"Asus","Notebook",15.6,1366,768,0,"AMD","A9-Series 9420",3.0,4,"0","1024","HDD","AMD"," Radeon R5 M420","windows",1.7,24988.0
+130,"Apple","Ultrabook",15.4,2880,1800,0,"Intel","Core i7",2.9,16,"0","512","SSD","AMD"," Radeon Pro 560","macos",1.8,152274.0
+131,"Acer","Notebook",11.6,1366,768,0,"Intel","Pentium Quad",1.6,4,"0","128","Flash Storage","Intel"," HD Graphics 405","windows",1.4,25841.0
+132,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.5,68838.0
+133,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.4,8,"0","1024","HDD","Nvidia"," GeForce 940MX","N/A",2.2,26587.0
+134,"Dell","Ultrabook",13.3,1920,1080,1,"Intel","Core i5",1.6,8,"0","128","SSD","Intel"," UHD Graphics 620","windows",1.2,52161.0
+135,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.5,53227.0
+136,"HP","Notebook",15.6,1366,768,0,"AMD","E-Series E2-9000e",1.5,4,"0","500","HDD","AMD"," Radeon R2","N/A",1.9,13746.0
+137,"Lenovo","Notebook",17.3,1600,900,0,"Intel","Core i5",2.5,4,"0","1024","HDD","Nvidia"," GeForce 920MX","windows",2.8,31382.0
+138,"Asus","Notebook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,58288.0
+139,"Dell","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.6,43636.0
+140,"HP","Ultrabook",14.0,1920,1080,0,"Intel","Core i5",2.7,4,"0","256","SSD","Intel"," HD Graphics 620","windows",1.5,57649.0
+141,"HP","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.9,35112.0
+142,"HP","Notebook",15.6,1366,768,0,"Intel","Core i7",1.8,8,"0","1024","HDD","Intel"," UHD Graphics 620","windows",2.1,48059.0
+143,"Acer","Notebook",15.6,1366,768,0,"AMD","A12-Series 9720P",2.7,8,"0","256","SSD","AMD"," Radeon RX 540","windows",2.2,35112.0
+144,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","windows",2.3,22305.0
+145,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,6,"0","256","SSD","AMD"," Radeon 520","windows",1.9,32980.0
+146,"Apple","Ultrabook",13.3,1440,900,0,"Intel","Core i5",1.6,8,"0","128","Flash Storage","Intel"," HD Graphics 6000","macos",1.4,58555.0
+147,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","AMD"," Radeon 530","windows",2.2,42624.0
+148,"Lenovo","2 in 1 Convertible",14.0,1920,1080,1,"Intel","Core i3",2.4,4,"0","256","SSD","Intel"," HD Graphics 620","windows",1.7,33513.0
+149,"Lenovo","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.4,15558.0
+150,"Asus","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.1,70063.0
+151,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,6,"0","1024","HDD","Intel"," HD Graphics 620","windows",8.2,29251.0
+152,"Dell","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",1.9,8,"256","256","SSD","Intel"," UHD Graphics 620","windows",1.9,69157.0
+153,"Dell","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i7",1.8,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.6,55891.0
+154,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i5",1.6,8,"0","1024","HDD","Nvidia"," GeForce 930MX","windows",2.5,47739.0
+155,"Asus","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Nvidia"," GeForce 940MX","windows",1.7,55939.0
+156,"Chuwi","Notebook",15.6,1920,1080,0,"Intel","Atom x5-Z8300",1.4,4,"0","64","Flash Storage","Intel"," HD Graphics","windows",1.9,13053.0
+157,"Toshiba","Notebook",15.6,1366,768,0,"Intel","Core i3",2.2,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.1,23816.0
+158,"Asus","Notebook",14.0,1366,768,0,"AMD","E-Series E2-6110",1.5,2,"0","32","Flash Storage","AMD"," Radeon R2","windows",1.7,10603.0
+159,"HP","Ultrabook",12.5,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,71129.0
+160,"Dell","Notebook",15.6,3840,2160,1,"Intel","Core i7",2.8,32,"0","1024","SSD","Nvidia"," GeForce GTX 1050","windows",2.1,140606.0
+161,"HP","Notebook",17.3,1920,1080,0,"AMD","A6-Series 9220",2.5,4,"0","500","HDD","AMD"," Radeon 530","windows",2.7,23390.0
+162,"Asus","Notebook",15.6,1366,768,0,"AMD","A9-Series 9420",3.0,4,"0","1024","HDD","AMD"," Radeon R5 M420","windows",2.0,21472.0
+163,"Acer","Notebook",17.3,1920,1080,0,"Intel","Core i5",1.6,4,"0","256","SSD","Nvidia"," GeForce MX150","windows",3.0,42890.0
+164,"Dell","Ultrabook",13.3,3200,1800,1,"Intel","Core i7",1.8,16,"0","512","SSD","Intel"," UHD Graphics 620","windows",1.2,99580.0
+165,"Apple","Ultrabook",13.3,1440,900,0,"Intel","Core i5",1.6,8,"0","256","Flash Storage","Intel"," HD Graphics 6000","macos",1.4,53173.0
+166,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,8,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.7,63883.0
+167,"Lenovo","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","64","Flash Storage","Intel"," HD Graphics 500","windows",1.4,13267.0
+168,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i3",2.7,4,"0","1024","HDD","Intel"," HD Graphics 620","linux",2.1,19554.0
+169,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","AMD"," Radeon 520","windows",2.1,38788.0
+170,"Toshiba","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,50243.0
+171,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"0","256","SSD","Nvidia"," GeForce GTX 1050 Ti","windows",2.5,57489.0
+172,"Asus","Notebook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"1024","256","Hybrid","Intel"," HD Graphics 620","windows",2.0,71076.0
+173,"Dell","Notebook",17.3,1920,1080,0,"Intel","Core i5",1.6,8,"1024","128","Hybrid","AMD"," Radeon 530","windows",2.8,52161.0
+174,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","windows",1.9,23923.0
+175,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","1024","HDD","Intel"," HD Graphics 620","windows",1.9,26037.0
+176,"Acer","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","1024","HDD","Intel"," HD Graphics 500","windows",2.1,18541.0
+177,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Nvidia"," GeForce 930MX ","windows",2.1,46833.0
+178,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 620","linux",2.0,20726.0
+179,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.4,95851.0
+180,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," GeForce GTX 1050","windows",2.5,53227.0
+181,"Acer","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.1,4,"0","1024","HDD","Intel"," HD Graphics 505","windows",2.1,19368.0
+182,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.7,79867.0
+183,"Asus","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Nvidia"," GeForce 940MX","linux",2.3,27865.0
+184,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.6,56503.0
+185,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.6,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.5,67559.0
+186,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,4,"0","256","SSD","Intel"," UHD Graphics 620","windows",2.2,36337.0
+187,"Acer","Notebook",17.3,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Nvidia"," GeForce MX150","windows",3.0,45501.0
+188,"Dell","2 in 1 Convertible",17.3,1920,1080,1,"Intel","Core i5",1.6,12,"0","1024","HDD","Nvidia"," GeForce 150MX","windows",2.8,53227.0
+189,"Apple","Ultrabook",13.3,2560,1600,0,"Intel","Core i5",2.0,8,"0","256","SSD","Intel"," Iris Graphics 540","macos",1.4,75604.0
+190,"HP","Notebook",13.3,1920,1080,0,"Intel","Core i5",1.6,4,"0","500","HDD","Intel"," UHD Graphics 620","windows",1.5,40173.0
+191,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.8,60952.0
+192,"Asus","Gaming",17.3,1920,1080,0,"AMD","Ryzen 1700",3.0,8,"1024","256","Hybrid","AMD"," Radeon RX 580","windows",3.2,69211.0
+193,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","256","SSD","AMD"," Radeon R5 M430","windows",2.3,34046.0
+194,"Asus","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","1024","HDD","Intel"," HD Graphics 500","linux",2.0,14651.0
+195,"Asus","Notebook",17.3,1366,768,0,"Intel","Pentium Quad",1.1,4,"0","1024","HDD","Nvidia"," GeForce 920MX","windows",2.8,24828.0
+196,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Nvidia"," GeForce 940MX","windows",2.0,60886.0
+197,"Huawei","Ultrabook",13.0,2160,1440,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.1,71875.0
+198,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i5",2.5,6,"0","2048","HDD","AMD"," Radeon 520","windows",2.7,37243.0
+199,"Lenovo","2 in 1 Convertible",13.9,1920,1080,1,"Intel","Core i7",1.8,8,"0","512","SSD","Intel"," UHD Graphics 620","windows",1.4,98515.0
+200,"Lenovo","Notebook",15.6,1366,768,0,"AMD","A6-Series 9220",2.9,4,"0","500","HDD","AMD"," Radeon R4 Graphics","N/A",2.2,16464.0
+201,"Dell","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","500","HDD","Intel"," HD Graphics","linux",2.2,14647.0
+202,"Lenovo","Notebook",15.6,1920,1080,0,"AMD","A12-Series 9720P",3.6,12,"0","2048","HDD","AMD"," Radeon 530","windows",2.2,47899.0
+203,"Toshiba","Notebook",15.6,1366,768,0,"Intel","Core i3",2.4,4,"0","500","HDD","Intel"," HD Graphics 620","windows",5.4,26054.0
+204,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.4,8,"0","1024","HDD","Nvidia"," GeForce 930MX ","windows",2.1,38148.0
+205,"Acer","Notebook",17.3,1920,1080,0,"Intel","Core i3",2.7,4,"0","256","SSD","Nvidia"," GeForce MX130","windows",3.0,37403.0
+206,"Lenovo","2 in 1 Convertible",13.9,3840,2160,1,"Intel","Core i7",1.8,16,"0","512","SSD","Intel"," UHD Graphics 620","windows",1.4,111835.0
+207,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Nvidia"," GeForce 930MX","windows",2.5,49177.0
+208,"Dell","Ultrabook",13.3,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.4,50563.0
+209,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.4,8,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.3,24456.0
+210,"HP","Notebook",15.6,1366,768,0,"AMD","A6-Series A6-9220",2.5,8,"0","128","SSD","AMD"," Radeon R4 Graphics","windows",1.9,23758.0
+211,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","128","SSD","Intel"," HD Graphics 520","windows",2.1,23923.0
+212,"MSI","Gaming",18.4,1920,1080,0,"Intel","Core i7",2.9,32,"1024","512","Hybrid","Nvidia"," GTX 980 SLI","windows",4.4,149131.0
+213,"Dell","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.2,84129.0
+214,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Nvidia"," GeForce MX150","windows",2.2,44808.0
+215,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i7",1.8,16,"0","1024","HDD","Nvidia"," GeForce MX150","windows",2.9,56424.0
+216,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"2048","256","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.4,60153.0
+217,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","512","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.1,133147.0
+218,"HP","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.6,2,"0","32","Flash Storage","Intel"," HD Graphics 400","windows",1.4,14865.0
+219,"Dell","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",1.9,16,"256","512","SSD","Intel"," UHD Graphics 620","windows",1.9,85672.0
+220,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","AMD"," R17M-M1-70","windows",1.9,43317.0
+221,"HP","2 in 1 Convertible",13.3,3840,2160,1,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.3,79867.0
+222,"Lenovo","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i7",2.8,8,"0","512","SSD","Nvidia"," GeForce GTX 1050M","windows",2.0,90523.0
+223,"Asus","2 in 1 Convertible",11.6,1366,768,1,"Intel","Celeron Dual",1.1,4,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.5,19980.0
+224,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,16,"2048","256","Hybrid","AMD"," Radeon 530","linux",2.0,55891.0
+225,"Dell","Notebook",17.3,1920,1080,0,"Intel","Core i7",1.8,8,"1024","128","Hybrid","AMD"," Radeon 530","windows",2.8,60846.0
+226,"Dell","Ultrabook",13.3,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.2,74539.0
+227,"Dell","Ultrabook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"0","1024","HDD","AMD"," Radeon 530","windows",0.0,35325.0
+228,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.8,69477.0
+229,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","256","SSD","Intel"," HD Graphics 520","N/A",2.2,23656.0
+230,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.7,75072.0
+231,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.1,38468.0
+232,"HP","Notebook",15.6,1920,1080,0,"AMD","A6-Series 9220",2.5,4,"0","256","SSD","AMD"," Radeon R4 Graphics","windows",1.9,21232.0
+233,"HP","Notebook",13.3,1920,1080,0,"Intel","Core i7",1.8,8,"0","512","SSD","Intel"," UHD Graphics 620","windows",1.5,58768.0
+234,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i3",2.4,4,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.4,20460.0
+235,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","AMD"," Radeon 520","windows",2.1,40908.0
+236,"Lenovo","2 in 1 Convertible",13.9,3840,2160,1,"Intel","Core i7",1.8,16,"0","512","SSD","Intel"," UHD Graphics 620","windows",1.4,98515.0
+237,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","128","SSD","Intel"," HD Graphics 520","windows",1.9,23390.0
+238,"Toshiba","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","128","SSD","Intel"," HD Graphics 620","windows",2.0,42251.0
+239,"Xiaomi","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Nvidia"," GeForce MX150","N/A",2.0,63883.0
+240,"Asus","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,31232.0
+241,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"2048","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",2.4,130483.0
+242,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.2,35005.0
+243,"Dell","Notebook",17.3,1920,1080,1,"Intel","Core i7",1.8,16,"0","512","SSD","Nvidia"," GeForce 150MX","windows",2.8,82531.0
+244,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","AMD"," Radeon R5 M430","windows",2.2,30103.0
+245,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","256","SSD","Intel"," HD Graphics 520","linux",2.0,22111.0
+246,"Dell","Notebook",15.6,3840,2160,1,"Intel","Core i7",2.8,16,"0","512","SSD","Nvidia"," GeForce GTX 1050","windows",2.1,127712.0
+247,"Dell","Notebook",17.3,1920,1080,0,"Intel","Core i7",1.8,16,"2048","256","Hybrid","AMD"," Radeon 530","windows",2.8,69211.0
+248,"Dell","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",2.7,42571.0
+249,"Asus","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",1.8,8,"512","512","SSD","Intel"," UHD Graphics 620","windows",4.1,79867.0
+250,"Dell","Ultrabook",14.0,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.7,46833.0
+251,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i3",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","N/A",1.7,31915.0
+252,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i7",1.8,8,"0","1024","HDD","Nvidia"," GeForce 930MX ","windows",2.5,54239.0
+253,"Asus","Notebook",14.0,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.4,50136.0
+254,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.9,36763.0
+255,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce GTX 1050","N/A",2.4,41505.0
+256,"Asus","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"0","512","SSD","Nvidia"," GeForce GTX 1050 Ti","windows",1.8,105654.0
+257,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",2.1,46886.0
+258,"Acer","Ultrabook",13.3,1920,1080,0,"Intel","Core i5",1.2,8,"0","256","SSD","Intel"," HD Graphics 615","windows",1.1,52694.0
+259,"HP","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","500","HDD","AMD"," Radeon 520","windows",1.9,23373.0
+260,"HP","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," Quadro M1200","windows",2.6,92615.0
+261,"Dell","Notebook",17.3,1920,1080,0,"Intel","Core i7",1.8,8,"1024","128","Hybrid","AMD"," Radeon 530","windows",2.8,57809.0
+262,"Apple","Ultrabook",13.3,2560,1600,0,"Intel","Core i5",2.9,8,"0","512","SSD","Intel"," Iris Graphics 550","macos",1.4,104370.0
+263,"HP","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","32","SSD","Intel"," HD Graphics 400","windows",1.4,12201.0
+264,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","1024","HDD","Intel"," HD Graphics 620","windows",1.9,29251.0
+265,"Asus","Gaming",17.3,1920,1080,0,"AMD","Ryzen 1700",3.0,16,"1024","256","Hybrid","AMD"," Radeon RX 580","windows",3.2,82531.0
+266,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,12,"0","1024","HDD","Nvidia"," GeForce GTX 1050 Ti","linux",3.0,50563.0
+267,"Toshiba","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.5,16,"0","512","SSD","Nvidia"," GeForce 930M","windows",2.4,74752.0
+268,"Vero","Notebook",14.0,1920,1080,0,"Intel","Celeron Dual",1.1,4,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.3,13853.0
+269,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","AMD"," Radeon 520","linux",2.1,39165.0
+270,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"2048","128","Hybrid","AMD"," Radeon 530","windows",2.0,51730.0
+271,"Microsoft","Ultrabook",13.5,2256,1504,1,"Intel","Core i5",2.5,4,"0","128","SSD","Intel"," HD Graphics 620","windows",1.3,58022.0
+272,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","1024","HDD","Intel"," HD Graphics 500","N/A",2.2,17156.0
+273,"Xiaomi","Ultrabook",13.3,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce MX150","N/A",1.3,53275.0
+274,"Dell","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",1.8,64,"0","256","SSD","AMD"," Radeon 530","windows",1.4,50882.0
+275,"Lenovo","2 in 1 Convertible",14.0,2560,1440,1,"Intel","Core i7",2.6,16,"0","512","SSD","Intel"," HD Graphics 520","windows",1.4,133147.0
+276,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","AMD"," Radeon 530","windows",2.2,46354.0
+277,"Lenovo","Notebook",17.3,1600,900,0,"Intel","Core i5",1.6,8,"0","256","SSD","Nvidia"," GeForce MX150","N/A",2.8,37189.0
+278,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.7,58342.0
+279,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","windows",2.7,53227.0
+280,"Acer","Notebook",14.0,1366,768,0,"Intel","Core i3",2.0,8,"0","1024","HDD","Intel"," HD Graphics 520","windows",2.1,20726.0
+281,"Dell","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",1.8,8,"0","1024","HDD","Intel"," UHD Graphics 620","windows",1.6,44702.0
+282,"Toshiba","Notebook",15.6,1366,768,0,"Intel","Core i7",2.5,8,"0","500","HDD","Nvidia"," GeForce 930M","windows",2.2,43263.0
+283,"Dell","Notebook",15.6,1366,768,1,"Intel","Core i5",2.5,8,"0","2048","HDD","Intel"," HD Graphics 620","windows",2.4,29697.0
+284,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i7",2.7,12,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.3,37992.0
+285,"Dell","Notebook",17.3,1920,1080,0,"Intel","Core i7",1.8,8,"1024","128","Hybrid","AMD"," Radeon 530","linux",2.8,58555.0
+286,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","windows",2.2,50563.0
+287,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i5",1.6,8,"0","1024","HDD","Nvidia"," GeForce 930MX","windows",2.5,48698.0
+288,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","1024","HDD","Nvidia"," GeForce MX130","windows",2.2,39694.0
+289,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","2048","HDD","Intel"," HD Graphics 620","N/A",2.2,27652.0
+290,"Dell","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.6,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,76031.0
+291,"Razer","Gaming",17.3,3840,2160,1,"Intel","Core i7",2.9,32,"0","1024","SSD","Nvidia"," GeForce GTX 1080","windows",3.5,324955.0
+292,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"1024","128","Hybrid","Intel"," UHD Graphics 620","windows",2.0,45554.0
+293,"HP","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","windows",1.9,23390.0
+294,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.7,4,"0","1024","HDD","Nvidia"," GeForce MX130","windows",2.2,28238.0
+295,"Lenovo","Notebook",17.3,1600,900,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","windows",2.8,26054.0
+296,"Asus","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,50350.0
+297,"Lenovo","Notebook",17.3,1920,1080,0,"Intel","Core i7",1.8,8,"0","2048","HDD","Nvidia"," GeForce MX150","N/A",2.8,45235.0
+298,"Lenovo","Notebook",17.3,1600,900,0,"Intel","Core i5",2.5,6,"1024","128","Hybrid","Nvidia"," GeForce GTX 940MX","windows",2.8,38308.0
+299,"Lenovo","Notebook",17.3,1600,900,0,"Intel","Core i7",2.7,6,"1024","128","Hybrid","Nvidia"," GeForce 940MX","windows",2.8,45768.0
+300,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","AMD"," Radeon R5 M430","linux",2.3,22804.0
+301,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Intel"," HD Graphics 620","windows",1.9,34046.0
+302,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,8,"0","256","SSD","Nvidia"," GeForce 920MX ","N/A",2.2,26587.0
+303,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce GTX 1050","windows",2.5,44169.0
+304,"HP","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.6,8,"0","2048","HDD","Intel"," HD Graphics 405","windows",2.0,20726.0
+305,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,6,"0","256","SSD","Intel"," HD Graphics 620","windows",2.2,30849.0
+306,"Dell","Notebook",17.3,1920,1080,0,"Intel","Core i5",1.6,8,"1024","128","Hybrid","AMD"," Radeon 530","windows",2.8,57809.0
+307,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Nvidia"," GeForce MX150","windows",3.0,50669.0
+308,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","N/A",2.4,43104.0
+309,"Acer","Notebook",15.6,1920,1080,1,"Intel","Core i7",2.7,12,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.2,35112.0
+310,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","AMD"," Radeon R7 M445","windows",2.3,47899.0
+311,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 630","windows",2.0,58448.0
+312,"HP","Notebook",13.3,1920,1080,0,"Intel","Core i5",1.6,8,"0","512","SSD","Intel"," UHD Graphics 620","windows",1.5,51096.0
+313,"HP","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050","windows",3.4,73473.0
+314,"HP","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,93240.0
+315,"Asus","Ultrabook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce 940MX","windows",1.7,52055.0
+316,"Asus","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i7",2.7,12,"2048","512","Hybrid","Nvidia"," GeForce GT 940MX","windows",2.3,58555.0
+317,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.5,62817.0
+318,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Nvidia"," GeForce 930MX ","windows",2.5,55678.0
+319,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i5",1.6,8,"1024","128","Hybrid","Nvidia"," GeForce 930MX","windows",2.5,52055.0
+320,"Acer","Notebook",15.6,1366,768,0,"AMD","A9-Series 9420",3.0,4,"0","128","SSD","AMD"," Radeon R5","windows",2.1,22697.0
+321,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","Nvidia"," GeForce 940MX","N/A",2.2,35112.0
+322,"Dell","Gaming",15.6,3840,2160,0,"Intel","Core i7",2.8,16,"1024","512","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.7,98302.0
+323,"Dell","Ultrabook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.9,58403.0
+324,"Apple","Ultrabook",12.0,2304,1440,0,"Intel","Core i5",1.3,8,"0","512","SSD","Intel"," HD Graphics 615","macos",0.9,80453.0
+325,"Asus","Gaming",17.3,1920,1080,0,"AMD","Ryzen 1700",3.0,16,"1024","256","Hybrid","AMD"," Radeon RX 580","windows",3.3,117163.0
+326,"Acer","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.5,2,"0","16","SSD","Intel"," HD Graphics","other",2.2,10603.0
+327,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","128","SSD","Intel"," HD Graphics 520","windows",2.1,26267.0
+328,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.6,45821.0
+329,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","Nvidia"," GeForce 940MX","windows",2.2,39534.0
+330,"Lenovo","Notebook",17.3,1600,900,0,"AMD","A8-Series 7410",2.2,4,"0","128","SSD","AMD"," Radeon R5","windows",2.6,26054.0
+331,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","windows",3.0,63243.0
+332,"Dell","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",1.8,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.6,46301.0
+333,"HP","Notebook",17.3,1600,900,0,"Intel","Core i3",2.0,8,"0","1024","HDD","Intel"," HD Graphics 520","windows",2.5,26054.0
+334,"HP","Notebook",15.6,1920,1080,0,"AMD","A9-Series 9420",3.0,4,"0","256","SSD","AMD"," Radeon R5","windows",1.9,26053.0
+335,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","512","Hybrid","Nvidia"," GeForce GTX 1060","windows",3.2,93187.0
+336,"Lenovo","Notebook",15.6,1920,1080,0,"AMD","A6-Series 9220",2.5,4,"0","128","SSD","AMD"," R4 Graphics","windows",2.2,21259.0
+337,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," GeForce GTX 1050","windows",2.0,97449.0
+338,"Lenovo","Netbook",11.6,1366,768,0,"Intel","Celeron Quad",1.1,4,"0","128","SSD","Intel"," HD Graphics 500","windows",1.6,29464.0
+339,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",2.1,39374.0
+340,"Acer","Notebook",15.6,1366,768,0,"AMD","A9-Series 9420",3.0,4,"0","1024","HDD","AMD"," Radeon R5","windows",2.1,21046.0
+341,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","HDD","Nvidia"," GeForce GTX 1060","windows",3.2,69211.0
+342,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.7,71875.0
+343,"Dell","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","500","HDD","Intel"," HD Graphics 400","windows",1.8,16464.0
+344,"HP","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Nvidia"," GeForce GTX 940MX","windows",1.8,37243.0
+345,"Asus","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.5,15238.0
+346,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","linux",2.4,45075.0
+347,"HP","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",3.4,63456.0
+348,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","128","SSD","Intel"," HD Graphics 520","N/A",1.9,21498.0
+349,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,31914.0
+350,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.3,88178.0
+351,"Lenovo","Notebook",25.6,1920,1080,0,"Intel","Core i5",1.6,8,"1024","256","Hybrid","AMD"," Radeon RX 550","windows",2.1,60979.0
+352,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce 940MX","windows",1.5,58555.0
+353,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," GeForce GTX 1050","linux",2.5,46833.0
+354,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.2,77203.0
+355,"Asus","Ultrabook",13.3,1920,1080,1,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.1,93181.0
+356,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",2.8,119827.0
+357,"Asus","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.1,99793.0
+358,"Toshiba","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",2.5,16,"0","512","SSD","Intel"," HD Graphics 520","windows",1.2,93080.0
+359,"Dell","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.2,87859.0
+360,"Lenovo","Ultrabook",14.0,2560,1440,0,"Intel","Core i7",2.7,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.1,121585.0
+361,"Dell","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.8,8,"0","512","SSD","Intel"," HD Graphics","windows",1.4,89510.0
+362,"Asus","Gaming",15.6,1920,1080,0,"AMD","FX 9830P",3.0,8,"0","1024","HDD","AMD"," Radeon RX 560","windows",2.5,37243.0
+363,"Lenovo","Notebook",35.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.2,21792.0
+364,"Lenovo","Notebook",11.6,1366,768,0,"Intel","Celeron Dual",1.1,2,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.2,16221.0
+365,"Lenovo","Notebook",13.3,1920,1080,0,"Intel","Core i3",2.4,4,"0","128","SSD","Intel"," HD Graphics 620","windows",1.5,29251.0
+366,"Lenovo","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","512","SSD","Nvidia"," Quadro M1200","windows",2.7,102564.0
+367,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,2,"0","1024","HDD","Nvidia"," GeForce MX150","windows",2.2,36710.0
+368,"Dell","Workstation",15.6,1920,1080,0,"Intel","Core i5",2.6,8,"0","500","HDD","AMD"," FirePro W5130M","windows",2.2,72940.0
+369,"Lenovo","Ultrabook",14.0,2560,1440,0,"Intel","Core i7",2.8,8,"0","512","SSD","Nvidia"," GeForce GT 940MX","windows",1.7,103523.0
+370,"HP","Notebook",13.3,1920,1080,0,"Intel","Core i7",1.8,16,"0","512","SSD","Intel"," UHD Graphics 620","windows",1.5,63776.0
+371,"Dell","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Nvidia"," Quadro M1200","windows",2.0,113753.0
+372,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","AMD"," Radeon 520","windows",2.1,24988.0
+373,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," GeForce GTX 1050 Ti","linux",2.5,52161.0
+374,"Dell","Workstation",17.3,1920,1080,0,"Intel","Core i7",2.9,16,"0","256","SSD","Nvidia"," Quadro M1200","windows",3.4,153705.0
+375,"Acer","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.6,42038.0
+376,"Lenovo","2 in 1 Convertible",14.0,2560,1440,1,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.4,133680.0
+377,"Asus","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,49444.0
+378,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","256","SSD","AMD"," Radeon R5 M430","linux",2.3,31909.0
+379,"Lenovo","Notebook",15.6,1920,1080,0,"AMD","A10-Series 9600P",2.4,6,"0","1024","HDD","AMD"," Radeon R5 430","windows",2.4,26587.0
+380,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","windows",3.0,55358.0
+381,"Dell","Notebook",13.3,1366,768,0,"Intel","Core i3",2.0,4,"0","128","SSD","Intel"," HD Graphics 520","windows",1.7,36710.0
+382,"Asus","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",2.7,16,"0","512","SSD","Nvidia"," GeForce 940MX","windows",1.6,78215.0
+383,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",3.0,84768.0
+384,"HP","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.4,79920.0
+385,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i5",1.6,12,"0","1024","HDD","Nvidia"," GeForce MX130","windows",2.2,36976.0
+386,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.1,28769.0
+387,"Asus","Notebook",14.0,1366,768,0,"Intel","Core i3",2.4,4,"0","128","SSD","Intel"," HD Graphics 620","windows",1.3,27120.0
+388,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","AMD"," Radeon RX 550","windows",1.8,64755.0
+389,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",2.9,113060.0
+390,"Lenovo","2 in 1 Convertible",15.6,3840,2160,1,"Intel","Core i7",2.8,16,"0","512","SSD","Nvidia"," GeForce GTX 1050","windows",2.0,101179.0
+391,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," GeForce GTX 1050 Ti","windows",2.7,71875.0
+392,"Chuwi","Notebook",12.3,2736,1824,0,"Intel","Celeron Quad",1.1,6,"0","64","Flash Storage","Intel"," HD Graphics 500","windows",1.4,23923.0
+393,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","AMD"," Radeon R7 M445","linux",2.3,41498.0
+394,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.9,8,"0","256","SSD","Intel"," HD Graphics 630","windows",2.3,76031.0
+395,"Lenovo","Notebook",17.3,1600,900,0,"Intel","Core i5",2.5,6,"0","1024","HDD","Nvidia"," GeForce GTX 940M","windows",5.8,34579.0
+396,"Asus","Notebook",35.6,1920,1080,0,"Intel","Core i3",2.4,8,"0","1024","HDD","Nvidia"," GeForce 940MX","linux",2.3,31808.0
+397,"Dell","Gaming",27.3,2560,1440,0,"Intel","Core i7",2.9,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.4,149131.0
+398,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.6,61752.0
+399,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"2048","256","Hybrid","AMD"," Radeon 530","windows",2.0,60867.0
+400,"Dell","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Intel"," HD Graphics 620","linux",1.6,58555.0
+401,"HP","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,12,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",3.4,106507.0
+402,"Mediacom","2 in 1 Convertible",11.6,1920,1080,1,"Intel","Celeron Dual",1.1,4,"0","32","SSD","Intel"," HD Graphics 500","windows",1.2,15931.0
+403,"Samsung","Netbook",11.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","16","Flash Storage","Intel"," HD Graphics 400","other",1.2,14332.0
+404,"Lenovo","Notebook",13.3,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,53813.0
+405,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i3",2.7,4,"0","128","SSD","Intel"," HD Graphics 620","windows",1.7,31915.0
+406,"Lenovo","Workstation",15.6,3840,2160,0,"Intel","Core i7",2.8,16,"0","512","SSD","Nvidia"," GeForce 940MX","windows",2.3,130270.0
+407,"Asus","Netbook",11.6,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","64","Flash Storage","Intel"," HD Graphics 500","windows",1.2,18115.0
+408,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.9,16,"0","512","SSD","Nvidia"," Quadro M2200M","windows",2.5,130483.0
+409,"Asus","Gaming",17.3,1920,1080,0,"AMD","Ryzen 1600",3.2,8,"1024","256","Hybrid","AMD"," Radeon RX 580","windows",3.2,90310.0
+410,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","256","SSD","AMD"," Radeon 520","windows",1.9,32980.0
+411,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce GTX 1060","windows",2.7,63670.0
+412,"HP","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","500","HDD","Intel"," HD Graphics 400","windows",2.1,18488.0
+413,"Lenovo","2 in 1 Convertible",13.9,1920,1080,1,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.4,85195.0
+414,"Asus","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,55891.0
+415,"Google","Ultrabook",12.3,2400,1600,1,"Intel","Core i7",1.3,16,"0","512","SSD","Intel"," HD Graphics 615","other",1.1,117163.0
+416,"Lenovo","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","500","HDD","Intel"," HD Graphics 500","windows",2.1,15931.0
+417,"Lenovo","Ultrabook",24.0,2560,1440,0,"Intel","Core i7",2.7,24,"0","512","SSD","Intel"," HD Graphics 620","windows",1.3,126913.0
+418,"Lenovo","Netbook",11.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","16","SSD","Intel"," HD Graphics 400","other",1.3,14119.0
+419,"Acer","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.5,45128.0
+420,"Lenovo","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,50563.0
+421,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","256","SSD","Intel"," HD Graphics 620","linux",2.0,29784.0
+422,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"1024","256","Hybrid","Intel"," HD Graphics 620","windows",2.0,65215.0
+423,"Lenovo","Notebook",17.3,1600,900,0,"AMD","A6-Series 9220",2.5,8,"0","1024","HDD","AMD"," Radeon R4","windows",2.8,27652.0
+424,"HP","Ultrabook",15.6,1920,1080,0,"AMD","A9-Series 9420",3.0,4,"0","256","SSD","AMD"," Radeon 520","windows",1.9,26587.0
+425,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,4,"0","1024","HDD","Nvidia"," GeForce MX150","windows",2.2,32661.0
+426,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,4,"0","256","SSD","AMD"," Radeon 530","windows",2.2,39907.0
+427,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","AMD"," Radeon RX 550","windows",2.1,65511.0
+428,"HP","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",2.7,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.3,70489.0
+429,"Lenovo","Ultrabook",12.5,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,76137.0
+430,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","N/A",2.4,61219.0
+431,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Pentium Quad",1.1,4,"0","128","SSD","Intel"," HD Graphics 505","windows",2.2,18595.0
+432,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.9,49977.0
+433,"Dell","Ultrabook",13.3,1920,1080,1,"Intel","Core i5",2.5,8,"0","128","SSD","Intel"," HD Graphics 620","windows",1.3,47899.0
+434,"HP","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.2,58555.0
+435,"Dell","Workstation",15.6,3840,2160,1,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," Quadro M1200","windows",1.8,144495.0
+436,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,4,"0","500","HDD","Nvidia"," GeForce 940MX","windows",2.2,34046.0
+437,"Dell","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.8,8,"0","256","SSD","Nvidia"," GeForce 930MX","windows",1.6,62817.0
+438,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.2,44542.0
+439,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","linux",2.4,23539.0
+440,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","AMD"," Radeon R5 M430","linux",2.2,31963.0
+441,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,16,"2048","256","Hybrid","AMD"," Radeon 530","windows",2.2,64961.0
+442,"Lenovo","Ultrabook",14.0,2560,1440,0,"Intel","Core i7",2.7,16,"0","1024","SSD","Intel"," HD Graphics 620","windows",1.1,139860.0
+443,"Dell","Workstation",15.6,1920,1080,0,"Intel","Xeon E3-1505M",3.0,8,"1024","64","HDD","Nvidia"," Quadro M620","windows",2.2,106187.0
+444,"Xiaomi","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,16,"0","256","SSD","Nvidia"," GeForce MX150","N/A",2.0,74589.0
+445,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","1024","HDD","Intel"," HD Graphics 500","windows",2.2,16304.0
+446,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce GTX 1050","windows",2.2,54758.0
+447,"Asus","Netbook",11.6,1366,768,0,"Intel","Celeron Dual",1.1,2,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.1,13054.0
+448,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","256","SSD","AMD"," Radeon R5 M430","linux",2.2,25841.0
+449,"HP","Notebook",15.6,1366,768,1,"Intel","Core i5",1.6,4,"0","1024","HDD","Intel"," UHD Graphics 620","windows",2.0,27784.0
+450,"Microsoft","Ultrabook",13.5,2256,1504,1,"Intel","Core i7",2.5,16,"0","512","SSD","Intel"," Iris Plus Graphics 640","windows",1.3,137942.0
+451,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.9,81465.0
+452,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.4,6,"0","256","SSD","Nvidia"," GeForce 920M","windows",2.0,30743.0
+453,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,24,"0","512","SSD","Nvidia"," GeForce GTX1080","windows",2.2,158135.0
+454,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","128","SSD","Intel"," HD Graphics 620","windows",1.9,31382.0
+455,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce 930MX","windows",2.0,47366.0
+456,"Dell","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.7,16,"0","256","SSD","Nvidia"," Quadro M620","windows",2.2,105228.0
+457,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX1050 Ti","windows",3.0,80133.0
+458,"HP","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.9,8,"0","512","SSD","Intel"," HD Graphics 620","windows",2.3,81732.0
+459,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",3.2,74539.0
+460,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.7,71662.0
+461,"HP","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,12,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.6,66547.0
+462,"HP","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,74539.0
+463,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","AMD"," Radeon 530","windows",1.9,38308.0
+464,"Dell","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.6,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.6,68184.0
+465,"HP","Notebook",15.6,1920,1080,0,"AMD","E-Series E2-9000e",1.5,4,"0","500","HDD","AMD"," Radeon R2","windows",2.1,18595.0
+466,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"1024","128","Hybrid","AMD"," Radeon 530","windows",2.4,52161.0
+467,"HP","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","128","SSD","Intel"," HD Graphics 520","windows",1.6,36710.0
+468,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"0","1024","HDD","AMD"," Radeon 520","linux",2.2,34472.0
+469,"Dell","2 in 1 Convertible",11.6,1366,768,1,"Intel","Pentium Quad",1.6,4,"0","500","HDD","Intel"," HD Graphics 405","windows",1.5,25521.0
+470,"Dell","Notebook",17.3,1920,1080,0,"Intel","Core i5",1.6,8,"1024","128","Hybrid","AMD"," Radeon 530","linux",2.8,47366.0
+471,"Dell","Notebook",17.3,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","Nvidia"," GeForce GTX 1060","windows",4.4,109011.0
+472,"Lenovo","Notebook",24.0,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",2.0,71395.0
+473,"Microsoft","Ultrabook",13.5,2256,1504,1,"Intel","Core M",2.2,4,"0","128","SSD","Intel"," HD Graphics 615","windows",1.3,52694.0
+474,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,4,"0","1024","HDD","Nvidia"," GeForce 920MX","windows",2.2,42571.0
+475,"Dell","2 in 1 Convertible",12.5,1920,1080,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,88978.0
+476,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,8,"0","2048","HDD","Nvidia"," GeForce 920MX ","N/A",2.2,24456.0
+477,"Dell","Workstation",15.6,1920,1080,1,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," Quadro M620","windows",2.1,93933.0
+478,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","500","HDD","AMD"," Radeon R5 M430","windows",2.3,31169.0
+479,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.8,64948.0
+480,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.8,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.9,73367.0
+481,"Microsoft","Ultrabook",33.5,2256,1504,1,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," Iris Plus Graphics 640","windows",1.3,95851.0
+482,"HP","Notebook",15.6,1366,768,0,"Intel","Core i3",2.4,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.1,35617.0
+483,"Dell","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.4,160520.0
+484,"HP","Notebook",17.3,1600,900,0,"Intel","Core i3",2.0,8,"0","256","SSD","Intel"," HD Graphics 520","windows",2.5,34094.0
+485,"Acer","Notebook",14.0,1920,1080,0,"Intel","Celeron Quad",1.1,4,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.6,17529.0
+486,"Toshiba","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","500","HDD","Intel"," HD Graphics 620","windows",2.0,45821.0
+487,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Nvidia"," GeForce 940MX","windows",2.2,28984.0
+488,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.7,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 970M","windows",4.1,117163.0
+489,"Asus","Notebook",15.6,3840,2160,0,"Intel","Core i7",2.7,8,"1024","256","Hybrid","Nvidia"," GeForce GTX 960M","windows",2.0,69211.0
+490,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","AMD"," Radeon R5 M420","linux",2.2,24775.0
+491,"Acer","Netbook",11.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","128","SSD","Intel"," HD Graphics 400","windows",1.4,23177.0
+492,"Mediacom","Notebook",13.3,1920,1080,0,"Intel","Celeron Quad",1.1,4,"0","32","SSD","Intel"," HD Graphics 500","windows",1.2,19660.0
+493,"MSI","Gaming",15.6,3840,2160,0,"Intel","Core i7",2.8,16,"2048","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",1.8,122491.0
+494,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.3,87859.0
+495,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","windows",2.6,43636.0
+496,"Toshiba","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",2.2,74539.0
+497,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," GeForce 930MX","windows",1.9,72940.0
+498,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,6,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.4,30050.0
+499,"Lenovo","Notebook",15.6,1920,1080,0,"AMD","A9-Series 9420",2.9,4,"0","256","SSD","AMD"," Radeon 530","windows",2.2,21259.0
+500,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","AMD"," Radeon 530","windows",2.2,42486.0
+501,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.4,39907.0
+502,"Lenovo","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i7",2.8,8,"0","256","SSD","Intel"," HD Graphics 630","windows",2.0,69211.0
+503,"HP","Notebook",15.6,1920,1080,0,"Intel","Pentium Quad",1.6,4,"0","256","SSD","Intel"," HD Graphics 405","windows",1.9,21258.0
+504,"Lenovo","Notebook",15.6,1366,768,0,"AMD","A12-Series 9720P",3.6,8,"0","1024","HDD","AMD"," Radeon R7","windows",2.2,22857.0
+505,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","512","SSD","AMD"," Radeon R7 M460","N/A",1.5,42571.0
+506,"Acer","Notebook",14.0,1366,768,0,"Intel","Pentium Quad",1.6,4,"0","128","Flash Storage","Intel"," HD Graphics 405","windows",1.6,18595.0
+507,"HP","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,12,"0","1024","HDD","Nvidia"," GeForce GTX 1060","windows",2.6,95851.0
+508,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.9,8,"0","256","SSD","Nvidia"," Quadro M2200M","windows",2.7,111355.0
+509,"Lenovo","Notebook",15.6,3840,2160,0,"Intel","Xeon E3-1535M",3.1,32,"0","1024","SSD","Nvidia"," Quadro M2200M","windows",2.5,261019.0
+510,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Nvidia"," GeForce 940MX","windows",1.9,45768.0
+511,"Asus","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.1,4,"0","500","HDD","Intel"," HD Graphics 500","windows",2.0,16197.0
+512,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,16,"0","1024","HDD","Nvidia"," GeForce GTX 960<U+039C>","windows",2.6,46834.0
+513,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"1024","1024","HDD","Intel"," HD Graphics 620","windows",2.1,33111.0
+514,"Dell","Ultrabook",13.3,3200,1800,1,"Intel","Core i7",1.8,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.2,74539.0
+515,"Dell","Notebook",14.0,1920,1080,0,"Intel","Core i3",2.0,4,"0","128","SSD","Intel"," HD Graphics 520","windows",1.6,39207.0
+516,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","N/A",1.9,23976.0
+517,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","500","HDD","Nvidia"," GeForce GTX 940MX","windows",2.2,24988.0
+518,"HP","Ultrabook",13.3,3200,1800,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,61006.0
+519,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.2,42358.0
+520,"Acer","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","linux",2.4,42517.0
+521,"Acer","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",1.6,1,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.6,53227.0
+522,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","linux",2.2,23651.0
+523,"Asus","Notebook",15.6,1366,768,0,"AMD","E-Series 7110",1.8,4,"0","500","HDD","AMD"," Radeon R2 Graphics","windows",2.0,18595.0
+524,"Lenovo","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.5,16,"0","512","SSD","Nvidia"," Quadro M520M","windows",2.2,98834.0
+525,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","linux",2.3,19128.0
+526,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.4,4,"0","128","SSD","Intel"," HD Graphics 620","windows",2.1,37589.0
+527,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,8,"0","2048","HDD","AMD"," Radeon 530","windows",2.0,40440.0
+528,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.6,4,"0","500","HDD","Intel"," HD Graphics 620","linux",1.9,46300.0
+529,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",1.9,41825.0
+530,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.8,63456.0
+531,"HP","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,12,"0","1024","HDD","Nvidia"," GeForce GTX 1060","windows",3.8,90523.0
+532,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",3.0,62231.0
+533,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.3,4,"0","1024","HDD","Intel"," HD Graphics 520","N/A",2.2,24634.0
+534,"HP","Notebook",17.3,1920,1080,0,"AMD","A10-Series 9620P",2.5,6,"0","2048","HDD","AMD"," Radeon 530","windows",2.7,34899.0
+535,"HP","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.8,74006.0
+536,"Lenovo","Ultrabook",14.0,2560,1440,0,"Intel","Core i7",2.6,12,"0","256","SSD","Intel"," HD Graphics 520","windows",1.4,98994.0
+537,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","windows",1.9,21152.0
+538,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.5,66547.0
+539,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",2.9,120832.0
+540,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","512","SSD","Intel"," HD Graphics 620","windows",2.0,92121.0
+541,"Dell","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.8,8,"0","256","SSD","Nvidia"," GeForce 930MX","linux",1.6,58022.0
+542,"Acer","2 in 1 Convertible",11.6,1366,768,1,"Intel","Celeron Quad",1.6,4,"0","32","Flash Storage","Intel"," HD Graphics 400","other",1.3,20193.0
+543,"HP","2 in 1 Convertible",13.3,3840,2160,1,"Intel","Core i7",1.8,8,"0","512","SSD","Intel"," UHD Graphics 620","windows",1.3,106507.0
+544,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","128","SSD","Intel"," HD Graphics 520","windows",2.2,26587.0
+545,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Intel"," HD Graphics 620","linux",2.0,38681.0
+546,"HP","Notebook",14.0,1366,768,0,"Intel","Core i5",2.6,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.3,59887.0
+547,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.9,59513.0
+548,"Asus","Notebook",14.0,1920,1080,0,"Intel","Celeron Dual",1.1,4,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.5,15877.0
+549,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.7,78055.0
+550,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.6,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.9,76012.0
+551,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","500","HDD","AMD"," FirePro W4190M ","windows",1.9,61485.0
+552,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,4,"0","1024","HDD","AMD"," Radeon 530","windows",2.2,41345.0
+553,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce 920MX","windows",1.9,45665.0
+554,"Dell","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.4,143803.0
+555,"Google","Ultrabook",12.3,2400,1600,1,"Intel","Core i5",1.2,8,"0","128","SSD","Intel"," HD Graphics 615","other",1.1,67932.0
+556,"Fujitsu","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.2,42571.0
+557,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.6,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.9,62817.0
+558,"HP","Notebook",17.3,1600,900,0,"Intel","Core i3",2.0,8,"0","1024","HDD","Intel"," HD Graphics 520","windows",2.7,28992.0
+559,"Dell","Ultrabook",13.3,1920,1080,1,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.4,98134.0
+560,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",1.9,49657.0
+561,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","Nvidia"," GeForce 930MX","windows",2.6,68198.0
+562,"Mediacom","Notebook",14.0,1920,1080,0,"Intel","Atom x5-Z8350",1.4,2,"0","32","Flash Storage","Intel"," HD Graphics","windows",1.4,12734.0
+563,"Asus","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","500","HDD","Intel"," HD Graphics 500","linux",2.0,11935.0
+564,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","128","SSD","Intel"," HD Graphics 620","N/A",2.2,24935.0
+565,"Asus","Notebook",15.6,3840,2160,0,"Intel","Core i7",2.6,12,"1024","128","Hybrid","Intel"," HD Graphics 530","windows",2.1,69211.0
+566,"Asus","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",2.5,6,"0","1024","HDD","Intel"," HD Graphics 620","windows",1.5,34046.0
+567,"Dell","Notebook",14.0,1366,768,0,"Intel","Core i3",2.3,8,"0","128","SSD","Intel"," HD Graphics 520","windows",1.8,39427.0
+568,"Asus","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",11.1,101232.0
+569,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.6,78801.0
+570,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,4,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.8,44169.0
+571,"Mediacom","Notebook",13.3,1920,1080,0,"Intel","Atom x5-Z8350",1.4,4,"0","32","Flash Storage","Intel"," HD Graphics","windows",1.4,13586.0
+572,"Dell","Workstation",0.0,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," Quadro M1200","windows",1.8,128298.0
+573,"Lenovo","Notebook",15.6,1366,768,0,"AMD","A6-Series 7310",2.0,4,"0","500","HDD","AMD"," Radeon R4","windows",2.2,15877.0
+574,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Nvidia"," GeForce 920MX ","windows",2.2,30849.0
+575,"Lenovo","Notebook",17.3,1600,900,0,"Intel","Core i7",2.7,6,"1024","128","Hybrid","Nvidia"," GeForce 940MX","windows",2.8,50563.0
+576,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","180","SSD","Intel"," HD Graphics 620","windows",1.7,72674.0
+577,"Mediacom","Notebook",14.0,1920,1200,0,"Intel","Atom Z8350",1.9,4,"0","32","HDD","Intel"," HD Graphics 400","windows",1.4,14119.0
+578,"HP","Notebook",15.6,1920,1080,0,"AMD","A10-Series A10-9620P",2.5,6,"0","128","SSD","AMD"," Radeon 530","windows",1.9,30311.0
+579,"Asus","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.1,8,"0","1024","HDD","Intel"," HD Graphics 500","windows",2.0,21259.0
+580,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Nvidia"," GeForce 930MX","windows",2.6,63936.0
+581,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","AMD"," Radeon R5 M420","windows",2.2,32922.0
+582,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","windows",2.0,48305.0
+583,"Toshiba","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.1,89084.0
+584,"Lenovo","Ultrabook",14.0,2560,1440,0,"Intel","Core i7",2.5,64,"0","512","SSD","Intel"," HD Graphics 520","windows",1.2,89864.0
+585,"Dell","Ultrabook",13.3,3200,1800,1,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.2,99580.0
+586,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","512","SSD","Nvidia"," GeForce 940MX","windows",2.2,67239.0
+587,"HP","2 in 1 Convertible",13.3,1366,768,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.6,44574.0
+588,"Lenovo","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.6,2,"0","32","Flash Storage","Intel"," HD Graphics 400","windows",1.4,13267.0
+589,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,79867.0
+590,"Lenovo","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,93635.0
+591,"Acer","2 in 1 Convertible",11.6,1920,1080,1,"Intel","Celeron Dual",2.0,4,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.3,18595.0
+592,"Dell","Gaming",17.3,3840,2160,0,"Intel","Core i7",2.8,32,"1024","1024","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.4,194973.0
+593,"Dell","Notebook",15.6,3840,2160,1,"Intel","Core i7",2.8,16,"0","1024","SSD","Nvidia"," GeForce GTX 1050","windows",2.1,127819.0
+594,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.4,4,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.2,31254.0
+595,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.7,4,"0","128","SSD","Intel"," HD Graphics 620","windows",2.1,33566.0
+596,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050M","windows",2.5,59088.0
+597,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.7,71847.0
+598,"HP","Notebook",13.3,1920,1080,0,"Intel","Core i5",1.6,4,"0","128","SSD","Intel"," UHD Graphics 620","windows",1.5,38681.0
+599,"HP","Ultrabook",13.3,3200,1800,1,"Intel","Core M",1.2,16,"0","512","SSD","Intel"," HD Graphics 515","windows",1.2,104695.0
+600,"HP","Notebook",17.0,1600,900,0,"AMD","A9-Series 9420",3.0,8,"0","1024","HDD","AMD"," Radeon R5","windows",2.6,27754.0
+601,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","1024","HDD","Intel"," HD Graphics 620","N/A",1.9,26102.0
+602,"Lenovo","Notebook",17.3,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," Quadro M620M","windows",3.4,159787.0
+603,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.1,130536.0
+604,"Dell","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i3",2.4,4,"0","1024","HDD","Intel"," HD Graphics 620","windows",1.7,34579.0
+605,"Chuwi","Notebook",15.6,1920,1080,0,"Intel","Atom x5-Z8350",1.4,4,"0","64","Flash Storage","Intel"," HD Graphics","windows",1.9,13261.0
+606,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050 Ti","N/A",2.5,62284.0
+607,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","1024","HDD","AMD"," Radeon R7 M445","linux",2.3,31410.0
+608,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.4,23976.0
+609,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","128","SSD","Intel"," HD Graphics 520","windows",2.3,30103.0
+610,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.5,44702.0
+611,"HP","Notebook",15.6,1920,1080,0,"AMD","A9-Series 9420",3.0,4,"0","1024","HDD","AMD"," Radeon 520","windows",2.1,26054.0
+612,"Lenovo","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","32","Flash Storage","Intel"," HD Graphics","windows",1.4,14599.0
+613,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.8,55891.0
+614,"Acer","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.6,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",4.2,103097.0
+615,"Acer","Ultrabook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," Graphics 620","windows",1.8,48964.0
+616,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,12,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.3,34579.0
+617,"Razer","Gaming",14.0,1920,1080,0,"Intel","Core i7",2.8,16,"0","256","SSD","Nvidia"," GeForce GTX 1060","windows",2.0,138475.0
+618,"Dell","Ultrabook",13.3,3840,2160,1,"Intel","Core i5",1.6,8,"0","128","SSD","Intel"," UHD Graphics 620","windows",1.2,85195.0
+619,"HP","Notebook",15.6,1920,1080,0,"AMD","A9-Series A9-9420",3.0,6,"1024","128","Hybrid","AMD"," Radeon 520","windows",2.1,34632.0
+620,"Dell","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.7,16,"0","512","SSD","Nvidia"," Quadro M620","windows",2.2,124569.0
+621,"Toshiba","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.2,64629.0
+622,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.6,4,"0","500","HDD","Intel"," HD Graphics 620","windows",1.9,51096.0
+623,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.4,29784.0
+624,"Lenovo","Ultrabook",12.5,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,84396.0
+625,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Pentium Quad",1.1,4,"0","500","HDD","Intel"," HD Graphics 505","windows",2.2,18328.0
+626,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"0","512","SSD","Nvidia"," GeForce GTX 1050","windows",2.1,101179.0
+627,"Lenovo","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,51149.0
+628,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.7,32,"0","512","SSD","Nvidia"," GeForce GTX 1080","windows",3.8,149131.0
+629,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,4,"0","1024","HDD","Intel"," HD Graphics 620","windows",1.9,41505.0
+630,"Lenovo","Ultrabook",12.5,1920,1080,0,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.4,95797.0
+631,"Acer","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","linux",2.4,37776.0
+632,"Lenovo","Notebook",14.0,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.0,52747.0
+633,"HP","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"0","256","SSD","Nvidia"," Quadro M2200","windows",2.6,128884.0
+634,"Dell","Ultrabook",13.3,1920,1080,0,"Intel","Core i5",1.6,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",1.2,77251.0
+635,"Asus","Ultrabook",12.5,1920,1080,0,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",0.9,103896.0
+636,"Dell","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",1.6,8,"0","1024","HDD","Intel"," UHD Graphics 620","windows",1.6,35112.0
+637,"HP","Workstation",17.3,1600,900,0,"Intel","Core i5",2.8,8,"0","500","HDD","Nvidia"," Quadro M1200","windows",3.1,99154.0
+638,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",1.8,111594.0
+639,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.2,63499.0
+640,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce 940MX","windows",2.3,53919.0
+641,"HP","Notebook",14.0,1366,768,0,"Intel","Pentium Quad",1.6,8,"0","2048","HDD","Intel"," HD Graphics 405","windows",1.9,20726.0
+642,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.4,21887.0
+643,"HP","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","N/A",1.9,19442.0
+644,"HP","Notebook",15.6,1920,1080,0,"AMD","A9-Series A9-9420",3.0,6,"0","256","SSD","AMD"," Radeon 530","windows",2.0,34579.0
+645,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"1024","128","Hybrid","Nvidia"," GeForce 940MX","windows",2.0,64309.0
+646,"Toshiba","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","500","HDD","Intel"," HD Graphics 620","windows",2.0,56690.0
+647,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,8,"0","256","SSD","Intel"," HD Graphics 520","windows",2.0,35431.0
+648,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","AMD"," Radeon 530","windows",6.2,48964.0
+649,"Toshiba","Notebook",14.0,1920,1080,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,81785.0
+650,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.3,44222.0
+651,"Lenovo","2 in 1 Convertible",14.0,1920,1080,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.7,53227.0
+652,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",1.6,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.1,36497.0
+653,"Lenovo","Workstation",15.6,3840,2160,0,"Intel","Core i7",2.8,16,"0","1024","SSD","Nvidia"," Quadro M520M","windows",2.5,175771.0
+654,"Acer","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.6,2,"0","32","Flash Storage","Intel"," HD Graphics 400","other",1.7,17582.0
+655,"Mediacom","Notebook",14.0,1920,1080,0,"Intel","Atom x5-Z8350",1.4,4,"0","32","SSD","Intel"," HD Graphics","windows",1.4,13267.0
+656,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,16,"2048","256","Hybrid","AMD"," Radeon 530","windows",2.2,60473.0
+657,"Samsung","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",2.7,16,"0","256","SSD","Intel"," HD Graphics 620","windows",0.8,87859.0
+658,"Toshiba","Ultrabook",14.0,1920,1080,1,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.2,99367.0
+659,"Dell","Notebook",14.0,1366,768,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.6,60031.0
+660,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 960","windows",3.3,63723.0
+661,"HP","Workstation",17.3,1920,1080,0,"Intel","Xeon E3-1535M",2.9,16,"0","256","SSD","Nvidia"," Quadro M2000M","windows",3.0,233846.0
+662,"Dell","Gaming",17.3,3840,2160,0,"Intel","Core i7",2.8,32,"1024","512","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.4,167692.0
+663,"Dell","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.4,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.6,65481.0
+664,"Lenovo","Netbook",11.6,1366,768,1,"Intel","Celeron Dual",1.6,4,"0","128","SSD","Intel"," HD Graphics 400","windows",1.4,25308.0
+665,"Lenovo","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.7,32,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.6,141885.0
+666,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.4,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.8,101232.0
+667,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.9,16,"1024","512","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.1,145401.0
+668,"Asus","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","1024","HDD","Nvidia"," GeForce GTX 950M","N/A",2.5,30849.0
+669,"Asus","Notebook",15.6,1366,768,0,"Intel","Core i7",2.7,4,"0","256","SSD","Intel"," HD Graphics 620","windows",2.4,45283.0
+670,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","AMD"," Radeon R5 M430","linux",2.2,39907.0
+671,"Lenovo","2 in 1 Convertible",13.3,3200,1800,1,"Intel","Core i5",1.8,8,"0","256","SSD","Intel"," HD Graphics 540","windows",1.3,63883.0
+672,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","500","HDD","Intel"," HD Graphics 500","windows",2.2,22324.0
+673,"Mediacom","Notebook",14.0,1920,1080,0,"Intel","Celeron Quad",1.1,4,"0","32","SSD","Intel"," HD Graphics 500","windows",1.5,20726.0
+674,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.2,58555.0
+675,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.2,28505.0
+676,"HP","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.6,8,"0","256","SSD","Nvidia"," Quadro M1000M","windows",2.6,83170.0
+677,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,6,"0","1024","HDD","AMD"," Radeon R5 M430","windows",2.0,28718.0
+678,"Toshiba","Ultrabook",13.3,1920,1080,1,"Intel","Core i7",2.7,32,"0","512","SSD","Intel"," HD Graphics 620","windows",1.1,149131.0
+679,"Dell","Gaming",15.6,3840,2160,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.4,152860.0
+680,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.7,79215.0
+681,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.6,8,"0","500","HDD","Intel"," HD Graphics 620","windows",1.9,53734.0
+682,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.0,71928.0
+683,"HP","Notebook",13.3,1920,1080,0,"Intel","Core i3",2.4,4,"0","128","SSD","Intel"," HD Graphics 620","windows",1.5,38308.0
+684,"Acer","Notebook",15.6,1366,768,0,"AMD","A10-Series 9620P",2.5,8,"0","1024","HDD","AMD"," Radeon RX 540","windows",2.2,30849.0
+685,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"0","256","SSD","Nvidia"," GeForce 930MX","windows",1.9,81912.0
+686,"Toshiba","Notebook",15.6,1366,768,0,"Intel","Core i3",2.1,4,"0","128","SSD","Intel"," HD Graphics 520","windows",2.1,26533.0
+687,"Asus","Gaming",17.3,1920,1080,1,"Intel","Core i7",2.6,24,"1024","256","Hybrid","Nvidia"," GeForce GTX 965M","windows",4.3,67612.0
+688,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","256","SSD","Intel"," HD Graphics 620","windows",2.1,31915.0
+689,"Dell","Netbook",11.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","16","Flash Storage","Intel"," HD Graphics 400","other",1.3,15718.0
+690,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","AMD"," Radeon 530","windows",2.1,39694.0
+691,"Toshiba","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,67026.0
+692,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.5,55837.0
+693,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.7,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 980M","windows",4.5,125155.0
+694,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","128","SSD","Intel"," HD Graphics 520","linux",2.1,21951.0
+695,"Lenovo","Ultrabook",12.5,1366,768,0,"Intel","Core i5",2.3,8,"0","180","SSD","Intel"," HD Graphics 520","windows",1.3,58555.0
+696,"Dell","Ultrabook",12.5,1920,1080,0,"Intel","Core i7",2.8,16,"0","256","SSD","Intel"," HD Graphics 620","windows",1.2,99048.0
+697,"HP","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050","windows",3.8,79813.0
+698,"Google","Ultrabook",12.3,2400,1600,1,"Intel","Core i5",1.2,8,"0","256","SSD","Intel"," HD Graphics 615","other",1.1,83064.0
+699,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","256","SSD","Intel"," UHD Graphics 620","windows",2.2,47893.0
+700,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.6,12,"0","256","SSD","Intel"," HD Graphics 520","windows",8.4,89137.0
+701,"Microsoft","Ultrabook",13.5,2256,1504,1,"Intel","Core i7",2.8,8,"0","256","SSD","Intel"," Iris Plus Graphics 640","windows",1.3,99519.0
+702,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","SSD","Intel"," HD Graphics 620","windows",1.5,93187.0
+703,"Lenovo","Notebook",13.3,1920,1080,0,"Intel","Core i3",2.4,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,50563.0
+704,"Lenovo","Notebook",15.6,1366,768,1,"Intel","Core i7",1.8,12,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.2,32448.0
+705,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","AMD"," Radeon R5 M430","windows",1.9,43580.0
+706,"Asus","Ultrabook",13.3,3200,1800,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.2,60153.0
+707,"Lenovo","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,55092.0
+708,"Dell","Notebook",13.3,1366,768,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","windows",1.7,45235.0
+709,"Lenovo","Notebook",35.6,1366,768,0,"AMD","E-Series E2-9000",2.2,4,"0","128","SSD","AMD"," Radeon R2 Graphics","windows",2.2,18595.0
+710,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.3,48538.0
+711,"Acer","Notebook",13.3,1366,768,0,"Intel","Core i5",2.3,4,"0","128","SSD","Intel"," HD Graphics 520","windows",1.6,34898.0
+712,"HP","2 in 1 Convertible",14.0,1920,1080,1,"Intel","Core i3",2.4,4,"0","128","SSD","Nvidia"," GeForce 940MX","windows",1.6,37243.0
+713,"Asus","Notebook",17.3,1366,768,0,"Intel","Pentium Quad",1.1,4,"0","1024","HDD","Nvidia"," GeForce 920MX","windows",2.8,25060.0
+714,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.4,68944.0
+715,"Dell","Gaming",15.6,3840,2160,1,"Intel","Core i7",2.6,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 960M","windows",2.7,58555.0
+716,"HP","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," Quadro M2200","windows",3.1,110018.0
+717,"Samsung","Ultrabook",13.3,1920,1080,1,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,85195.0
+718,"Asus","Ultrabook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.1,60473.0
+719,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.4,58555.0
+720,"HP","2 in 1 Convertible",11.6,1366,768,1,"Intel","Celeron Dual",1.1,8,"0","64","Flash Storage","Intel"," HD Graphics 500","other",1.4,26374.0
+721,"Dell","Ultrabook",13.3,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,79867.0
+722,"Acer","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.1,4,"0","1024","HDD","Intel"," HD Graphics 505","linux",2.1,15877.0
+723,"Dell","Notebook",15.6,3840,2160,1,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce GTX 1050","windows",2.1,93187.0
+724,"LG","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",1.8,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.1,122491.0
+725,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,16,"0","","","AMD"," Radeon R7 M445","windows",2.3,62938.0
+726,"Dell","Netbook",11.6,1366,768,0,"Intel","Pentium Quad",1.1,4,"0","128","SSD","Intel"," HD Graphics 505","windows",1.6,39640.0
+727,"Acer","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,16,"0","256","SSD","Nvidia"," GeForce GTX 1050 Ti","windows",2.5,69211.0
+728,"HP","Netbook",12.5,1366,768,0,"Intel","Core i5",2.6,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,74006.0
+729,"Toshiba","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.1,41558.0
+730,"Samsung","2 in 1 Convertible",15.0,1920,1080,1,"Intel","Core i7",2.7,16,"0","256","SSD","AMD"," Radeon 540","windows",1.7,95851.0
+731,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce GTX 1050","windows",2.2,53168.0
+732,"HP","Notebook",15.6,1366,768,0,"AMD","A12-Series 9700P",2.5,8,"0","2048","HDD","AMD"," Radeon R7 Graphics","windows",2.0,33513.0
+733,"Toshiba","Notebook",14.0,1366,768,0,"Intel","Core i5",2.3,4,"0","128","SSD","Intel"," HD Graphics 520","windows",1.8,54346.0
+734,"Asus","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","128","SSD","Intel"," HD Graphics 500","windows",1.9,22324.0
+735,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","windows",2.6,58555.0
+736,"Dell","Gaming",15.6,3840,2160,0,"Intel","Core i7",2.8,16,"0","512","SSD","Nvidia"," GeForce GTX 1050 Ti","windows",2.6,89457.0
+737,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","1024","HDD","Nvidia"," GeForce 920M","windows",2.4,32448.0
+738,"HP","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,12,"0","1024","HDD","AMD"," Radeon RX 580","windows",3.7,93187.0
+739,"Asus","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i7",2.7,12,"0","2048","HDD","Nvidia"," GeForce 940MX","windows",2.3,44702.0
+740,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",3.2,109277.0
+741,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","512","Hybrid","Nvidia"," GeForce GTX 1070","windows",2.9,128671.0
+742,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i3",2.0,4,"0","256","SSD","AMD"," Radeon R5 520","windows",2.5,37243.0
+743,"Samsung","Ultrabook",13.3,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",0.8,79867.0
+744,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.7,94306.0
+745,"Lenovo","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",1.8,8,"0","512","SSD","Intel"," UHD Graphics 620","windows",1.2,79867.0
+746,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","Nvidia"," GeForce GT 940MX","windows",2.0,51202.0
+747,"Asus","2 in 1 Convertible",15.6,1366,768,1,"Intel","Core i5",2.5,8,"0","1024","HDD","Intel"," HD Graphics 520","windows",2.2,39374.0
+748,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","AMD"," Radeon R5 M420","windows",2.2,42081.0
+749,"Lenovo","Notebook",15.6,1920,1080,0,"AMD","A12-Series 9720P",3.6,12,"0","512","SSD","AMD"," Radeon 530","windows",2.2,50563.0
+750,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,99048.0
+751,"Dell","2 in 1 Convertible",31.6,1366,768,1,"Intel","Core M",1.0,4,"0","128","SSD","Intel"," HD Graphics 615","windows",1.4,32128.0
+752,"Lenovo","Notebook",15.6,3840,2160,0,"Intel","Core i7",2.7,16,"0","512","SSD","Nvidia"," Quadro M2000M","windows",2.5,126274.0
+753,"Razer","Ultrabook",12.5,3840,2160,1,"Intel","Core i7",2.5,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.3,95851.0
+754,"Acer","Notebook",14.0,1920,1080,0,"Intel","Core i3",2.4,4,"0","128","SSD","Intel"," HD Graphics 620","windows",1.8,33886.0
+755,"HP","Netbook",11.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","16","Flash Storage","Intel"," HD Graphics 400","other",1.2,20513.0
+756,"Razer","Gaming",14.0,1920,1080,0,"Intel","Core i7",2.8,16,"0","512","SSD","Nvidia"," GeForce GTX 1060","windows",2.0,154459.0
+757,"Dell","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",4.4,133467.0
+758,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.9,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",3.5,149917.0
+759,"Dell","Notebook",14.0,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",1.8,40226.0
+760,"Samsung","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.5,90523.0
+761,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.1,26102.0
+762,"Lenovo","Notebook",17.3,1920,1080,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","N/A",2.8,28185.0
+763,"Toshiba","Ultrabook",14.0,1366,768,0,"Intel","Core i5",2.5,4,"0","128","SSD","Intel"," HD Graphics 620","windows",1.3,58075.0
+764,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i3",2.3,8,"0","1024","HDD","Intel"," HD Graphics 520","windows",2.3,24456.0
+765,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","AMD"," Radeon 520","windows",1.9,32640.0
+766,"Asus","Notebook",15.6,1920,1080,0,"Intel","Pentium Dual",1.1,8,"0","128","SSD","Intel"," HD Graphics 505","windows",2.0,31004.0
+767,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.1,133147.0
+768,"Lenovo","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",2.7,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.4,107892.0
+769,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","AMD"," Radeon R5 M430","windows",2.2,29073.0
+770,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce GTX 1050","windows",2.4,63883.0
+771,"HP","Notebook",17.3,1920,1080,0,"AMD","A10-Series 9600P",2.4,6,"0","2048","HDD","AMD"," Radeon R7 M440","windows",2.7,30316.0
+772,"Dell","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,32,"1024","1024","Hybrid","Nvidia"," GeForce GTX 1070M","windows",4.4,191211.0
+773,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","Flash Storage","Intel"," HD Graphics 620","windows",1.1,99900.0
+774,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.6,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.3,125208.0
+775,"Toshiba","Notebook",14.0,1366,768,0,"Intel","Pentium Dual",2.1,4,"0","128","SSD","Intel"," HD Graphics 510","windows",1.8,26587.0
+776,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","500","HDD","Intel"," HD Graphics 510","windows",2.1,16943.0
+777,"Toshiba","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.6,16,"0","512","SSD","Nvidia"," GeForce 930M","windows",1.5,93986.0
+778,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 630","windows",1.7,78535.0
+779,"Asus","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.1,72354.0
+780,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Celeron Quad",1.6,8,"0","1024","HDD","Intel"," HD Graphics 405","N/A",2.2,17529.0
+781,"Dell","Notebook",14.0,1366,768,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","windows",1.8,31169.0
+782,"Acer","Netbook",11.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","32","Flash Storage","Intel"," HD Graphics 400","other",1.4,18914.0
+783,"Acer","Notebook",14.0,1920,1080,0,"Intel","Core i3",2.4,8,"0","128","SSD","Intel"," HD Graphics 620","windows",1.5,32980.0
+784,"Razer","Gaming",17.3,3840,2160,1,"Intel","Core i7",2.9,32,"0","512","SSD","Nvidia"," GeForce GTX 1080","windows",3.5,292987.0
+785,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.7,122491.0
+786,"Lenovo","Ultrabook",14.0,2560,1440,0,"Intel","Core i7",2.6,16,"0","512","SSD","Intel"," HD Graphics 520","windows",1.1,111835.0
+787,"MSI","Gaming",14.0,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",1.6,100752.0
+788,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050Ti","linux",2.6,49497.0
+789,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","1024","HDD","Nvidia"," GeForce 920","linux",2.1,27652.0
+790,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.2,58022.0
+791,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","Nvidia"," GeForce 930MX","windows",2.0,47952.0
+792,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.7,63190.0
+793,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,4,"0","1024","HDD","Nvidia"," GeForce GTX 1050","windows",2.4,53227.0
+794,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","AMD"," Radeon R5 M420X","windows",2.2,32714.0
+795,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.6,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,87912.0
+796,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.6,8,"0","500","HDD","Intel"," HD Graphics 620","windows",1.9,49817.0
+797,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",3.2,147832.0
+798,"Dell","2 in 1 Convertible",13.3,3200,1800,1,"Intel","Core i7",1.3,8,"0","512","SSD","Intel"," HD Graphics 615","windows",1.2,107258.0
+799,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",2.9,128884.0
+800,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.7,32,"256","256","SSD","Nvidia"," GeForce GTX 980M","windows",3.6,68145.0
+801,"Acer","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",4.2,122491.0
+802,"Toshiba","Notebook",15.6,1366,768,0,"Intel","Core i3",2.4,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.0,35644.0
+803,"Dell","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",1.3,16,"0","256","SSD","Intel"," HD Graphics 615","windows",1.2,87859.0
+804,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce GTX 1050","windows",2.6,52481.0
+805,"Lenovo","Notebook",14.0,1366,768,0,"Intel","Celeron Quad",1.6,4,"0","16","Flash Storage","Intel"," HD Graphics 400","other",1.5,17316.0
+806,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","Flash Storage","Intel"," HD Graphics 620","windows",1.1,109171.0
+807,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX1060","windows",2.2,71342.0
+808,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","128","HDD","Intel"," HD Graphics 620","windows",2.3,31435.0
+809,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","512","SSD","Intel"," HD Graphics 620","windows",2.0,104588.0
+810,"Vero","Notebook",14.0,1920,1080,0,"Intel","Celeron Dual",1.1,4,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.2,10811.0
+811,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.6,16,"1024","512","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.7,95851.0
+812,"LG","Ultrabook",15.6,1920,1080,1,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.1,111835.0
+813,"Dell","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,32,"1024","512","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.4,163724.0
+814,"HP","Netbook",12.5,1920,1080,0,"Intel","Core i7",2.7,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.3,79014.0
+815,"Acer","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","32","Flash Storage","Intel"," HD Graphics 510","other",1.5,19980.0
+816,"HP","Notebook",17.3,1600,900,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Nvidia"," GeForce 930MX","windows",2.6,48485.0
+817,"Acer","Notebook",15.6,1920,1080,0,"Intel","Celeron Dual",1.5,4,"0","16","Flash Storage","Intel"," HD Graphics","other",2.2,19128.0
+818,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,4,"0","256","SSD","Intel"," HD Graphics 620","windows",1.7,37243.0
+819,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","128","SSD","Intel"," HD Graphics 620","windows",2.2,38041.0
+820,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.3,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 960M","windows",2.6,42038.0
+821,"HP","Workstation",17.3,1920,1080,0,"Intel","Core i7",2.8,8,"0","500","HDD","Nvidia"," Quadro M1200","windows",3.1,101658.0
+822,"HP","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.5,8,"0","512","SSD","Intel"," HD Graphics 520","windows",1.5,99634.0
+823,"LG","Ultrabook",14.0,1920,1080,1,"Intel","Core i7",2.7,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.0,101179.0
+824,"Lenovo","2 in 1 Convertible",14.0,2560,1440,1,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,137995.0
+825,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,4,"0","256","SSD","AMD"," Radeon R5 M420","windows",2.2,39374.0
+826,"Dell","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.8,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.6,64202.0
+827,"HP","2 in 1 Convertible",11.6,1366,768,1,"Intel","Celeron Dual",1.1,4,"0","32","Flash Storage","Intel"," HD Graphics 500","other",1.4,32767.0
+828,"HP","Ultrabook",12.5,3840,2160,1,"Intel","Core M",1.2,8,"0","240","SSD","Intel"," HD Graphics 515","windows",1.1,165168.0
+829,"Asus","Ultrabook",13.3,1920,1080,0,"Intel","Core i5",2.3,8,"0","512","SSD","Nvidia"," GeForce 940M","windows",1.5,54665.0
+830,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,6,"0","256","SSD","Nvidia"," GeForce 940MX","windows",2.2,42038.0
+831,"HP","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,121319.0
+832,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Nvidia"," GeForce 930MX","windows",2.0,54292.0
+833,"HP","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.5,8,"0","512","SSD","Intel"," HD Graphics 520","windows",1.5,78215.0
+834,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.4,4,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.4,26587.0
+835,"HP","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","128","SSD","Intel"," HD Graphics 400","N/A",1.9,15931.0
+836,"Lenovo","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.5,4,"0","128","SSD","Intel"," HD Graphics 620","windows",1.4,46940.0
+837,"Toshiba","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.5,51841.0
+838,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.1,101179.0
+839,"HP","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.5,51149.0
+840,"Acer","Netbook",11.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","32","Flash Storage","Intel"," HD Graphics","windows",1.4,14332.0
+841,"Dell","Notebook",17.3,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","AMD"," Radeon R7 M445","linux",2.8,46087.0
+842,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.7,85195.0
+843,"Lenovo","2 in 1 Convertible",14.0,1920,1080,1,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.4,93187.0
+844,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.6,71875.0
+845,"Asus","2 in 1 Convertible",12.5,1920,1080,1,"Intel","Core M",0.9,4,"0","64","Flash Storage","Intel"," HD Graphics 515","other",1.2,35644.0
+846,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.2,59669.0
+847,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Nvidia"," GeForce GT 940MX","windows",2.0,101392.0
+848,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","1024","HDD","AMD"," Radeon R5 M420","windows",2.2,36496.0
+849,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Nvidia"," GeForce GTX 930MX","windows",2.3,41931.0
+850,"HP","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","AMD"," Radeon R7 M365X","windows",1.8,69104.0
+851,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","128","SSD","Intel"," HD Graphics 620","windows",1.9,50350.0
+852,"Lenovo","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",2.5,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.4,97236.0
+853,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.0,38889.0
+854,"Lenovo","Ultrabook",12.5,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,87912.0
+855,"Lenovo","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",2.7,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.4,104962.0
+856,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",2.3,62071.0
+857,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.2,37725.0
+858,"HP","Notebook",14.0,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.0,61219.0
+859,"Toshiba","Ultrabook",13.3,1920,1080,1,"Intel","Core i7",2.5,16,"0","512","SSD","Intel"," HD Graphics 520","windows",1.4,100007.0
+860,"Asus","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.1,4,"0","1024","HDD","Intel"," HD Graphics 505","windows",2.0,23923.0
+861,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.1,4,"0","1024","HDD","Intel"," HD Graphics 505","windows",2.2,16464.0
+862,"HP","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",2.8,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,136344.0
+863,"HP","Ultrabook",12.5,1920,1080,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",1.3,84129.0
+864,"HP","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","1024","HDD","Intel"," HD Graphics 400","N/A",1.9,15393.0
+865,"Lenovo","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i5",2.5,8,"0","256","SSD","AMD"," Radeon R7 M460","windows",2.1,51096.0
+866,"Lenovo","2 in 1 Convertible",13.3,3200,1800,1,"Intel","Core i7",2.2,16,"0","1024","SSD","Intel"," Iris Graphics 540","windows",1.3,95851.0
+867,"Dell","Notebook",13.3,1920,1080,1,"Intel","Core i5",2.3,8,"0","1024","HDD","Intel"," HD Graphics 520","windows",1.6,34579.0
+868,"Apple","Ultrabook",12.0,2304,1440,0,"Intel","Core M",1.2,8,"0","512","Flash Storage","Intel"," HD Graphics 5300","macos",0.9,62071.0
+869,"Toshiba","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,4,"0","128","SSD","Intel"," HD Graphics 520","windows",1.5,58874.0
+870,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","N/A",2.2,24988.0
+871,"Lenovo","2 in 1 Convertible",14.0,2560,1440,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,124142.0
+872,"HP","Netbook",12.5,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.3,88924.0
+873,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.5,95851.0
+874,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","windows",2.2,29762.0
+875,"HP","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.5,111302.0
+876,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.3,45323.0
+877,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.2,63883.0
+878,"Acer","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.7,67133.0
+879,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.6,8,"0","256","SSD","AMD"," Radeon R7 M465","windows",1.8,71875.0
+880,"Dell","Gaming",17.3,2560,1440,0,"Intel","Core i7",2.7,16,"1024","512","Hybrid","Nvidia"," GeForce GTX 1080","windows",4.4,146946.0
+881,"HP","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,63350.0
+882,"HP","Gaming",17.3,1920,1080,0,"Intel","Core i5",2.3,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 965M","windows",2.8,74539.0
+883,"Asus","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.6,15931.0
+884,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.4,4,"0","128","SSD","Intel"," HD Graphics 620","windows",2.2,29144.0
+885,"Asus","Notebook",17.3,1600,900,0,"Intel","Pentium Quad",1.6,4,"0","1024","HDD","Nvidia"," GeForce 920MX","windows",2.8,28238.0
+886,"HP","Notebook",14.0,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",1.6,41505.0
+887,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.2,32980.0
+888,"Toshiba","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.3,4,"0","128","SSD","Intel"," HD Graphics 520","windows",1.2,63670.0
+889,"Toshiba","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",2.2,59620.0
+890,"Toshiba","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.5,4,"0","128","SSD","Intel"," HD Graphics 620","windows",1.1,68465.0
+891,"HP","Notebook",14.0,1366,768,0,"Intel","Core i5",2.4,4,"0","256","SSD","Intel"," HD Graphics 520","windows",1.5,58607.0
+892,"Lenovo","2 in 1 Convertible",11.3,1920,1080,1,"Intel","Core M",1.2,8,"0","256","SSD","Intel"," HD Graphics 515","windows",1.1,69211.0
+893,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","128","SSD","Intel"," HD Graphics 620","windows",2.0,43157.0
+894,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","N/A",2.5,54186.0
+895,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,4,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,64202.0
+896,"Lenovo","Gaming",15.6,1920,1080,0,"AMD","FX 8800P",2.1,16,"1024","512","Hybrid","AMD"," Radeon R9 M385","windows",2.5,53227.0
+897,"Lenovo","2 in 1 Convertible",13.9,1920,1080,1,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,71875.0
+898,"HP","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.6,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.4,77203.0
+899,"Dell","Ultrabook",12.5,1920,1080,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics","windows",1.4,78439.0
+900,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,8,"0","256","SSD","AMD"," Radeon R5 M420X","windows",2.0,39374.0
+901,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce 930MX","windows",1.6,55905.0
+902,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","Nvidia"," GeForce 920MX","N/A",2.2,36497.0
+903,"HP","Notebook",14.0,1366,768,0,"Intel","Core i3",2.4,4,"0","500","HDD","Intel"," HD Graphics 620","windows",1.6,36444.0
+904,"Dell","Notebook",17.3,1600,900,0,"Intel","Core i3",2.0,4,"0","1024","HDD","AMD"," Radeon R7 M445","windows",2.4,35112.0
+905,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.7,50563.0
+906,"Acer","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","32","Flash Storage","Intel"," HD Graphics 400","other",1.7,18595.0
+907,"Dell","Ultrabook",13.3,3200,1800,1,"Intel","Core i7",2.5,16,"0","512","SSD","Intel"," Iris Plus Graphics 640","windows",1.3,119347.0
+908,"HP","Ultrabook",12.5,1920,1080,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",1.3,81998.0
+909,"HP","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","8","SSD","Nvidia"," Quadro M1000M","windows",2.0,119827.0
+910,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,4,"0","256","SSD","Intel"," HD Graphics 620","windows",1.5,84715.0
+911,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.1,48485.0
+912,"Dell","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,94572.0
+913,"HP","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.5,100551.0
+914,"Toshiba","Ultrabook",13.3,1366,768,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.2,58342.0
+915,"HP","Notebook",13.3,1366,768,0,"Intel","Core i3",2.4,4,"0","500","HDD","Intel"," HD Graphics 620","windows",1.5,42624.0
+916,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.6,8,"0","256","SSD","Nvidia"," GeForce GTX 965M","windows",2.6,85195.0
+917,"Toshiba","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.2,77789.0
+918,"Toshiba","Notebook",13.3,1366,768,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.5,64469.0
+919,"HP","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.6,4,"0","1024","HDD","Intel"," HD Graphics 405","windows",2.0,26640.0
+920,"Lenovo","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,103896.0
+921,"Asus","2 in 1 Convertible",12.5,1920,1080,0,"Intel","Core M",1.2,8,"0","64","Flash Storage","Intel"," HD Graphics 515","other",1.2,61752.0
+922,"HP","Notebook",15.6,1366,768,0,"Intel","Core i3",2.4,4,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,41025.0
+923,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.6,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 980M","windows",4.3,122491.0
+924,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.6,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.7,79333.0
+925,"Lenovo","Notebook",17.3,3840,2160,0,"Intel","Core i7",2.7,16,"0","512","SSD","Nvidia"," Quadro 3000M","windows",2.4,158135.0
+926,"Dell","Ultrabook",12.5,1366,768,0,"Intel","Core i3",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",1.5,60481.0
+927,"Toshiba","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.5,79387.0
+928,"Dell","Ultrabook",12.5,1366,768,0,"Intel","Core i3",2.3,4,"0","128","SSD","Intel"," HD Graphics 520","windows",1.5,62176.0
+929,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.4,118761.0
+930,"Acer","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.5,4,"0","16","SSD","Intel"," HD Graphics","other",2.2,11136.0
+931,"Acer","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.6,48059.0
+932,"Dell","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i3",2.3,4,"0","1024","HDD","Intel"," HD Graphics 520","windows",2.1,42410.0
+933,"Dell","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","HDD","Nvidia"," Quadro M620","windows",2.2,94732.0
+934,"HP","Workstation",17.3,1920,1080,0,"Intel","Core i7",2.6,8,"0","1024","HDD","AMD"," FirePro W6150M","windows",3.0,154459.0
+935,"Toshiba","Ultrabook",13.3,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.2,84715.0
+936,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"0","512","SSD","Nvidia"," GeForce GTX 1050 Ti","windows",2.4,63883.0
+937,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.4,56210.0
+938,"Dell","Gaming",17.3,3840,2160,0,"Intel","Core i7",2.8,16,"1024","512","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.4,168045.0
+939,"HP","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.1,61219.0
+940,"Dell","Ultrabook",12.5,1366,768,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.5,75290.0
+941,"Dell","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",1.2,8,"0","256","SSD","Intel"," HD Graphics 615","windows",1.2,101179.0
+942,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Nvidia"," GeForce 930MX","windows",1.6,63160.0
+943,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.6,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 960M","windows",2.9,80516.0
+944,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.4,8,"0","500","HDD","Intel"," HD Graphics 520","windows",2.1,55754.0
+945,"Lenovo","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i5",2.3,4,"0","256","SSD","Intel"," HD Graphics 520","windows",2.1,46194.0
+946,"HP","Ultrabook",12.5,1366,768,0,"Intel","Core i5",2.5,4,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,83064.0
+947,"HP","Notebook",15.6,1920,1080,0,"AMD","A6-Series 9220",2.5,4,"0","1024","HDD","AMD"," Radeon R4","windows",2.1,21205.0
+948,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","AMD"," Radeon R5 M430","N/A",2.2,25521.0
+949,"HP","Notebook",14.0,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.3,63350.0
+950,"HP","2 in 1 Convertible",11.6,1366,768,1,"Intel","Pentium Quad",1.1,4,"0","256","SSD","Intel"," HD Graphics 505","windows",1.5,41292.0
+951,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 960M","windows",2.6,71342.0
+952,"HP","Notebook",14.0,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.0,56477.0
+953,"Dell","Ultrabook",13.3,3200,1800,0,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.3,67559.0
+954,"HP","Notebook",13.3,3200,1800,1,"Intel","Core M",1.1,8,"0","256","SSD","Intel"," HD Graphics 515","windows",1.2,90523.0
+955,"Dell","Ultrabook",13.3,3200,1800,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,86527.0
+956,"Toshiba","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,73953.0
+957,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","AMD"," Radeon R5 M315","windows",2.2,40980.0
+958,"HP","Notebook",17.3,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Nvidia"," GeForce 930MX","windows",2.6,57542.0
+959,"Lenovo","Notebook",13.3,1920,1080,0,"Intel","Core i3",2.4,4,"0","180","SSD","Intel"," HD Graphics 620","windows",1.4,39161.0
+960,"Acer","2 in 1 Convertible",11.6,1366,768,1,"Intel","Celeron Dual",1.6,4,"0","32","Flash Storage","Intel"," HD Graphics 400","other",1.3,20726.0
+961,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","128","SSD","Intel"," HD Graphics 520","windows",2.1,22857.0
+962,"HP","Notebook",14.0,1366,768,0,"Intel","Core i5",2.5,4,"0","256","SSD","Intel"," HD Graphics 620","windows",1.6,51841.0
+963,"Samsung","Ultrabook",15.0,1920,1080,0,"Intel","Core i7",2.7,16,"0","256","SSD","Nvidia"," GeForce 940MX","windows",1.2,98515.0
+964,"Toshiba","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.4,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.2,81785.0
+965,"HP","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",2.5,8,"0","512","SSD","Intel"," HD Graphics 520","windows",1.2,104908.0
+966,"Acer","Notebook",15.6,1366,768,0,"AMD","A9-Series 9420",3.0,6,"0","1024","HDD","AMD"," Radeon R5","windows",2.1,21792.0
+967,"Dell","Ultrabook",12.5,1920,1080,0,"Intel","Core i7",2.8,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.6,90043.0
+968,"Lenovo","2 in 1 Convertible",10.1,1920,1200,1,"Intel","Atom x5-Z8550",1.4,4,"0","64","Flash Storage","Intel"," HD Graphics 400","other",0.7,29251.0
+969,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.7,63499.0
+970,"Lenovo","Ultrabook",12.5,1920,1080,0,"Intel","Core i5",2.6,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,93773.0
+971,"Dell","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",2.4,8,"0","256","SSD","Intel"," Iris Plus Graphics 640","windows",1.2,73473.0
+972,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",2.0,63670.0
+973,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,12,"1024","128","Hybrid","Nvidia"," GeForce GTX 950M","windows",2.4,53760.0
+974,"Lenovo","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.7,16,"1024","256","SSD","Nvidia"," GeForce GTX 980M","windows",4.6,146519.0
+975,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.8,65481.0
+976,"Razer","Ultrabook",12.5,3840,2160,1,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.3,54825.0
+977,"HP","Ultrabook",12.5,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.3,71875.0
+978,"Toshiba","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.1,118601.0
+979,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.0,39534.0
+980,"Toshiba","Ultrabook",12.5,1920,1080,1,"Intel","Core i7",2.7,8,"0","512","SSD","Intel"," HD Graphics 620","windows",1.1,95371.0
+981,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.6,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 960M","windows",3.5,69929.0
+982,"Toshiba","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.6,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.5,91908.0
+983,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Nvidia"," GeForce 930MX","windows",2.0,45102.0
+984,"Vero","Notebook",13.3,1920,1080,0,"Intel","Atom X5-Z8350",1.4,4,"0","32","Flash Storage","Intel"," HD Graphics 400","windows",1.4,10443.0
+985,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.4,8,"0","256","SSD","Intel"," HD Graphics 520","windows",2.1,56634.0
+986,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","AMD"," Radeon R5 M430","linux",2.3,24808.0
+987,"HP","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.2,90043.0
+988,"Asus","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.1,4,"0","1024","HDD","Intel"," HD Graphics 505","linux",2.0,21258.0
+989,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.6,53840.0
+990,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.4,80613.0
+991,"Lenovo","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i7",2.5,4,"0","256","SSD","Intel"," HD Graphics 520","windows",1.8,45128.0
+992,"Xiaomi","Ultrabook",13.3,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Nvidia"," GeForce 940MX","windows",1.3,49817.0
+993,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","linux",2.1,27899.0
+994,"Vero","Notebook",14.0,1366,768,0,"Intel","Atom X5-Z8350",1.4,2,"0","32","Flash Storage","Intel"," HD Graphics 400","windows",1.5,11231.0
+995,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"1024","128","Hybrid","Nvidia"," GeForce 940MX","windows",2.2,48618.0
+996,"Asus","Notebook",15.6,1366,768,0,"Intel","Core i3",2.4,4,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.0,23177.0
+997,"Toshiba","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.5,16,"0","256","SSD","Nvidia"," GeForce 930M","windows",2.4,75924.0
+998,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,44702.0
+999,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",1.9,43956.0
+1000,"Lenovo","2 in 1 Convertible",14.0,1920,1080,1,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.8,88924.0
+1001,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",2.3,55923.0
+1002,"Lenovo","2 in 1 Convertible",10.1,1920,1200,1,"Intel","Atom x5-Z8550",1.4,4,"0","64","Flash Storage","Intel"," HD Graphics 400","windows",0.7,25521.0
+1003,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",1.5,53280.0
+1004,"HP","Ultrabook",12.5,1366,768,0,"Intel","Core i5",2.4,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.3,100966.0
+1005,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.4,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.0,36497.0
+1006,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.4,8,"500","256","Hybrid","Intel"," HD Graphics 520","windows",1.8,112066.0
+1007,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","N/A",2.4,52694.0
+1008,"Dell","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,32,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.4,167779.0
+1009,"HP","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",2.5,4,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,90576.0
+1010,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.4,78268.0
+1011,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,6,"0","256","SSD","Nvidia"," GeForce 920MX","windows",2.4,37030.0
+1012,"HP","2 in 1 Convertible",15.6,1366,768,1,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.3,36486.0
+1013,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.7,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 980M","windows",3.8,82352.0
+1014,"HP","Gaming",17.3,1920,1080,0,"Intel","Core i5",2.3,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",3.4,60153.0
+1015,"Lenovo","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.6,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 980M","windows",4.6,122011.0
+1016,"HP","Notebook",15.6,1366,768,0,"Intel","Core i7",2.7,8,"0","2048","HDD","Intel"," HD Graphics 620","windows",2.0,33513.0
+1017,"Asus","Netbook",11.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","16","Flash Storage","Intel"," HD Graphics 400","other",1.2,15339.0
+1018,"Lenovo","2 in 1 Convertible",14.0,1920,1080,1,"Intel","Core i7",2.6,8,"0","512","SSD","Nvidia"," Quadro M500M","windows",1.8,109244.0
+1019,"Lenovo","Notebook",14.0,2560,1440,0,"Intel","Core i7",2.6,16,"0","256","SSD","Intel"," HD Graphics 520","windows",1.1,139594.0
+1020,"Asus","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.5,14812.0
+1021,"Dell","2 in 1 Convertible",13.3,3200,1800,1,"Intel","Core i7",1.3,16,"0","512","SSD","Intel"," HD Graphics 615","windows",1.2,101179.0
+1022,"HP","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.8,40067.0
+1023,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","1024","HDD","Nvidia"," GeForce 940MX","windows",2.2,32820.0
+1024,"Asus","Notebook",14.1,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","32","Flash Storage","Intel"," HD Graphics 500","windows",1.7,18541.0
+1025,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","Nvidia"," GeForce 940MX","windows",1.9,52161.0
+1026,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.5,16,"0","1024","Hybrid","AMD"," Radeon R7 M360","windows",2.5,58555.0
+1027,"Dell","Ultrabook",14.0,2560,1440,1,"Intel","Core i7",2.6,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.5,104588.0
+1028,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.5,8,"0","1024","HDD","Nvidia"," GeForce 940MX","windows",2.2,35644.0
+1029,"HP","Workstation",17.3,1920,1080,0,"Intel","Core i7",2.6,8,"0","256","SSD","Nvidia"," Quadro M3000M","windows",3.0,210424.0
+1030,"Dell","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.6,32,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.4,149184.0
+1031,"Toshiba","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",2.0,62870.0
+1032,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","1024","HDD","AMD"," Radeon R7 M445","windows",2.5,41772.0
+1033,"Dell","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.6,4,"0","500","HDD","Intel"," HD Graphics","windows",2.2,19660.0
+1034,"Dell","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i5",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.3,58288.0
+1035,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.7,109219.0
+1036,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.7,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 980M","windows",3.8,127819.0
+1037,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,52161.0
+1038,"HP","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.9,115709.0
+1039,"Dell","Ultrabook",13.3,3200,1800,1,"Intel","Core i7",2.7,16,"0","1024","SSD","Intel"," HD Graphics 620","windows",1.2,120093.0
+1040,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.7,8,"1024","128","Hybrid","Nvidia"," GeForce 930MX","windows",2.0,52161.0
+1041,"HP","Notebook",15.6,1366,768,0,"Intel","Core i3",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.3,37570.0
+1042,"Lenovo","Notebook",14.0,1366,768,0,"Intel","Core i5",2.3,4,"0","508","Hybrid","Intel"," HD Graphics 520","windows",1.7,53387.0
+1043,"Asus","2 in 1 Convertible",15.6,3840,2160,1,"Intel","Core i7",2.7,16,"2048","512","Hybrid","Nvidia"," GeForce GTX 950M","windows",2.3,95851.0
+1044,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",3.0,93187.0
+1045,"Lenovo","2 in 1 Convertible",14.0,2560,1440,1,"Intel","Core i7",2.6,16,"0","512","SSD","Intel"," HD Graphics 520","windows",2.8,130003.0
+1046,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","N/A",2.0,26587.0
+1047,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.4,60888.0
+1048,"Acer","Notebook",15.6,1366,768,0,"AMD","A8-Series 7410",2.2,8,"0","1024","HDD","AMD"," Radeon R5","windows",2.4,23923.0
+1049,"HP","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",2.4,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.5,86793.0
+1050,"HP","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.6,8,"0","256","SSD","Nvidia"," Quadro M1000M","windows",2.6,118761.0
+1051,"HP","2 in 1 Convertible",13.3,2560,1440,1,"Intel","Core i7",2.6,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.5,95851.0
+1052,"Dell","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",2.7,12,"0","256","SSD","Intel"," HD Graphics 620","windows",1.6,69211.0
+1053,"Dell","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i7",2.7,12,"0","512","SSD","Intel"," HD Graphics 620","windows",2.2,69211.0
+1054,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.9,96916.0
+1055,"Toshiba","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.3,4,"0","128","SSD","Intel"," HD Graphics 520","windows",1.2,63670.0
+1056,"HP","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.6,8,"0","256","SSD","Nvidia"," Quadro M1000M","windows",2.0,101179.0
+1057,"Lenovo","Notebook",15.6,1920,1080,0,"AMD","A12-Series 9720P",3.6,6,"0","256","SSD","AMD"," Radeon 530","windows",2.2,29251.0
+1058,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.6,16,"0","1024","HDD","Nvidia"," GeForce GTX 965M","N/A",4.0,53173.0
+1059,"Fujitsu","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","256","SSD","Intel"," HD Graphics 520","windows",2.3,34579.0
+1060,"HP","Ultrabook",12.5,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.3,122381.0
+1061,"HP","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",2.5,4,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,95851.0
+1062,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","1024","HDD","Intel"," HD Graphics","windows",2.3,29784.0
+1063,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Nvidia"," GeForce 940MX","windows",2.2,53807.0
+1064,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","AMD"," Radeon R5 M420X","linux",2.2,24280.0
+1065,"Toshiba","Notebook",14.0,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",1.8,48751.0
+1066,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.9,84129.0
+1067,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i5",2.5,12,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.2,72988.0
+1068,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,16,"0","2048","HDD","AMD"," Radeon R7 M445","windows",2.3,52747.0
+1069,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",1.8,102777.0
+1070,"Lenovo","2 in 1 Convertible",14.0,2560,1440,1,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.3,124622.0
+1071,"Acer","Netbook",11.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","32","Flash Storage","Intel"," HD Graphics 400","other",1.3,15824.0
+1072,"Dell","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,77682.0
+1073,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","N/A",1.9,18062.0
+1074,"HP","Notebook",15.6,1366,768,0,"AMD","E-Series 7110",1.8,4,"0","500","HDD","AMD"," Radeon R2 Graphics","windows",1.9,15824.0
+1075,"Lenovo","Notebook",17.3,1600,900,0,"AMD","A4-Series 7210",2.2,4,"0","500","HDD","AMD"," Radeon R3","windows",2.8,20193.0
+1076,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.3,8,"0","1024","HDD","AMD"," Radeon R5 M330","N/A",2.3,31915.0
+1077,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.7,64,"0","1024","SSD","Nvidia"," GeForce GTX 980 ","windows",3.6,211788.0
+1078,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,4,"0","128","SSD","Intel"," HD Graphics 620","windows",2.0,67399.0
+1079,"HP","2 in 1 Convertible",13.3,3200,1800,1,"Intel","Core i7",2.7,16,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,74539.0
+1080,"Dell","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.6,42518.0
+1081,"Samsung","Ultrabook",15.0,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.2,90523.0
+1082,"Dell","Gaming",15.6,3840,2160,0,"Intel","Core i7",2.6,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 970M","windows",3.2,70809.0
+1083,"Dell","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050Ti","windows",2.6,63883.0
+1084,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,95851.0
+1085,"Apple","Ultrabook",12.0,2304,1440,0,"Intel","Core M",1.1,8,"0","256","Flash Storage","Intel"," HD Graphics 515","macos",0.9,69264.0
+1086,"Dell","Notebook",15.6,3840,2160,1,"Intel","Core i5",2.3,8,"0","256","SSD","Nvidia"," GeForce 960M","windows",2.0,119916.0
+1087,"HP","Notebook",15.6,1920,1080,0,"AMD","A6-Series A6-9220",2.5,4,"0","256","SSD","AMD"," Radeon 520","windows",1.9,25515.0
+1088,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.1,25680.0
+1089,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.7,79536.0
+1090,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.3,63883.0
+1091,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","AMD"," Radeon R5 M430","windows",2.3,31915.0
+1092,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.6,12,"0","512","SSD","Intel"," HD Graphics 520","windows",1.4,122491.0
+1093,"MSI","Gaming",17.3,3840,2160,0,"Intel","Core i7",2.6,16,"2048","512","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.4,141139.0
+1094,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.0,42944.0
+1095,"HP","Ultrabook",12.5,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.3,63883.0
+1096,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.3,8,"0","1024","Hybrid","AMD"," Radeon R5 M330","windows",2.5,42011.0
+1097,"Toshiba","Notebook",13.3,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.1,78588.0
+1098,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.5,63350.0
+1099,"HP","Notebook",13.3,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.5,58075.0
+1100,"HP","2 in 1 Convertible",13.3,2560,1440,1,"Intel","Core i7",2.6,8,"0","512","SSD","Intel"," HD Graphics 520","windows",1.5,108744.0
+1101,"Lenovo","Ultrabook",12.5,1920,1080,1,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.3,91295.0
+1102,"Lenovo","Ultrabook",14.0,1920,1080,0,"Intel","Core i7",2.6,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.7,79867.0
+1103,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i7",2.7,8,"0","1024","HDD","AMD"," Radeon R7 M445","windows",2.4,39907.0
+1104,"MSI","Gaming",14.0,1920,1080,0,"Intel","Core i7",2.6,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 970M","windows",1.7,94252.0
+1105,"Dell","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.5,8,"0","128","SSD","Intel"," HD Graphics 620 ","windows",1.6,59620.0
+1106,"Lenovo","Notebook",17.3,1600,900,0,"Intel","Core i5",2.3,8,"0","1024","HDD","AMD"," Radeon R5 M330","windows",3.0,35112.0
+1107,"HP","Netbook",12.5,1920,1080,0,"Intel","Core M",1.2,8,"0","512","SSD","Intel"," HD Graphics 515","windows",1.0,101658.0
+1108,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.3,4,"0","1024","HDD","Nvidia"," GeForce GTX 950M","windows",2.3,52055.0
+1109,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"1024","128","Hybrid","AMD"," Radeon 520","windows",2.1,26587.0
+1110,"HP","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","windows",2.6,47899.0
+1111,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",3.8,133147.0
+1112,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.1,28771.0
+1113,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,8,"0","1024","HDD","Intel"," HD Graphics 520","windows",2.2,24456.0
+1114,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","128","SSD","Intel"," HD Graphics 500","N/A",1.9,14419.0
+1115,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","N/A",2.1,25414.0
+1116,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",2.3,71875.0
+1117,"Dell","Gaming",15.6,3840,2160,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050 Ti","windows",2.6,79813.0
+1118,"Asus","Notebook",13.3,3200,1800,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.4,61272.0
+1119,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.3,50083.0
+1120,"HP","Ultrabook",13.3,1920,1080,1,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.1,71875.0
+1121,"Lenovo","Ultrabook",12.5,2560,1440,1,"Intel","Core M",1.2,8,"0","512","SSD","Intel"," HD Graphics 515","windows",1.0,74539.0
+1122,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,74059.0
+1123,"Dell","2 in 1 Convertible",13.3,1920,1080,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.6,63883.0
+1124,"Lenovo","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.7,32,"1024","512","SSD","Nvidia"," GeForce GTX 980M","windows",4.6,172627.0
+1125,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Nvidia"," GeForce 920MX ","windows",2.2,24935.0
+1126,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.8,12,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.2,70703.0
+1127,"Lenovo","2 in 1 Convertible",10.1,1920,1200,1,"Intel","Atom x5-Z8550",1.4,4,"0","64","Flash Storage","Intel"," HD Graphics 400","windows",0.7,34433.0
+1128,"Acer","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.1,4,"0","500","HDD","Intel"," HD Graphics 505","windows",2.4,20246.0
+1129,"HP","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.6,2,"0","32","Flash Storage","Intel"," HD Graphics 400","windows",1.4,13267.0
+1130,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","AMD"," Radeon R5 M430","N/A",1.9,19607.0
+1131,"HP","Ultrabook",13.3,3840,2160,0,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.3,109171.0
+1132,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","windows",2.2,44702.0
+1133,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.6,16,"1024","512","Hybrid","Nvidia"," GeForce GTX 980M","windows",4.3,114552.0
+1134,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",2.0,36177.0
+1135,"Acer","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",2.0,4,"0","1024","HDD","Intel"," HD Graphics 500","linux",2.1,14492.0
+1136,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.4,109165.0
+1137,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","128","SSD","AMD"," Radeon R7 M440","windows",2.3,26587.0
+1138,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",1.8,16,"0","512","SSD","Intel"," UHD Graphics 620","windows",2.1,61752.0
+1139,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i7",2.5,8,"0","500","HDD","Nvidia"," GeForce 920MX","N/A",2.2,33513.0
+1140,"Asus","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","500","HDD","Intel"," HD Graphics","windows",2.2,19660.0
+1141,"Dell","Ultrabook",13.3,3200,1800,1,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.2,142790.0
+1142,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,8,"0","1024","HDD","Nvidia"," GeForce GTX 1060","windows",2.2,62284.0
+1143,"Lenovo","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","N/A",2.1,21205.0
+1144,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","AMD"," Radeon R7 M445","windows",2.4,47366.0
+1145,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","1024","HDD","Nvidia"," GeForce 940MX","N/A",2.2,37776.0
+1146,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.9,30849.0
+1147,"Lenovo","Notebook",15.6,1366,768,0,"AMD","E-Series 9000",2.2,4,"0","500","HDD","AMD"," Radeon R2 Graphics","windows",2.2,15931.0
+1148,"Acer","Notebook",17.3,1600,900,0,"Intel","Core i3",2.0,8,"0","1024","HDD","Nvidia"," GeForce 940MX","windows",3.3,33513.0
+1149,"Asus","Notebook",14.0,1920,1080,0,"Intel","Core i3",2.4,4,"0","256","SSD","Intel"," HD Graphics 620","windows",2.0,40972.0
+1150,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",2.2,130483.0
+1151,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.5,4,"0","1024","Hybrid","Intel"," HD Graphics 520","windows",2.3,43956.0
+1152,"Apple","Ultrabook",12.0,2304,1440,0,"Intel","Core M",1.2,8,"0","512","Flash Storage","Intel"," HD Graphics 515","macos",0.9,68145.0
+1153,"Asus","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.8,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.2,93187.0
+1154,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.6,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.4,103842.0
+1155,"Dell","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.2,53227.0
+1156,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.9,103843.0
+1157,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,16,"0","512","SSD","Nvidia"," GeForce GTX 960","windows",3.3,69530.0
+1158,"Acer","Netbook",11.6,1366,768,0,"Intel","Celeron Dual",1.5,2,"0","32","SSD","Intel"," HD Graphics","other",1.3,9271.0
+1159,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 970M","windows",1.9,114732.0
+1160,"HP","Notebook",15.6,1366,768,0,"Intel","Core i3",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.1,34632.0
+1161,"Acer","Notebook",17.3,1600,900,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Nvidia"," GeForce 940MX","windows",3.3,31861.0
+1162,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","windows",2.2,39960.0
+1163,"Lenovo","Notebook",17.3,1600,900,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Intel"," HD Graphics 620","N/A",2.8,28718.0
+1164,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",1.5,54931.0
+1165,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 960<U+039C>","windows",2.6,67772.0
+1166,"HP","Workstation",15.6,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","AMD"," FirePro W4190M","windows",1.9,79654.0
+1167,"Acer","2 in 1 Convertible",14.0,1920,1080,1,"Intel","Core i7",1.3,8,"0","256","SSD","Intel"," HD Graphics 615","windows",1.2,61219.0
+1168,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.6,8,"0","256","SSD","Intel"," HD Graphics 520","windows",2.3,81465.0
+1169,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.2,78647.0
+1170,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,8,"0","180","SSD","Intel"," HD Graphics 520","windows",1.7,63883.0
+1171,"HP","Notebook",15.6,1920,1080,0,"AMD","A12-Series 9720P",2.7,6,"0","1024","HDD","AMD"," Radeon 530","windows",2.1,28185.0
+1172,"Dell","Ultrabook",12.5,1920,1080,1,"Intel","Core i5",2.4,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.3,91288.0
+1173,"HP","Notebook",13.3,3200,1800,0,"Intel","Pentium Dual",1.5,4,"0","32","Flash Storage","Intel"," HD Graphics 515","other",1.3,32767.0
+1174,"Dell","2 in 1 Convertible",15.0,1920,1080,1,"Intel","Core i3",2.4,4,"0","500","HDD","Intel"," HD Graphics 620","windows",2.1,27120.0
+1175,"Acer","Notebook",15.6,1366,768,0,"AMD","A8-Series 7410",2.2,4,"0","500","HDD","AMD"," Radeon R5","windows",2.4,20619.0
+1176,"Asus","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.6,4,"0","1024","HDD","Intel"," HD Graphics 405","windows",2.7,16464.0
+1177,"Dell","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.6,4,"0","500","HDD","Intel"," HD Graphics","linux",2.2,20965.0
+1178,"Dell","Ultrabook",13.3,3200,1800,1,"Intel","Core i7",2.7,8,"0","256","SSD","Intel"," HD Graphics 620","windows",1.3,78695.0
+1179,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","1024","HDD","Intel"," HD Graphics 520","linux",2.2,27805.0
+1180,"Lenovo","Gaming",15.6,1920,1080,1,"Intel","Core i7",2.6,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 960M","windows",2.6,54825.0
+1181,"HP","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","N/A",1.9,18434.0
+1182,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.8,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 1050","windows",2.2,61219.0
+1183,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,8,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.7,85195.0
+1184,"Lenovo","Netbook",12.5,1920,1080,1,"Intel","Core i7",2.5,16,"0","512","SSD","Intel"," HD Graphics 520","windows",1.3,87912.0
+1185,"Razer","Gaming",14.0,1920,1080,0,"Intel","Core i7",2.8,16,"0","1024","SSD","Nvidia"," GeForce GTX 1060","windows",2.0,186427.0
+1186,"Dell","Ultrabook",13.3,1920,1080,0,"Intel","Core i5",1.6,4,"0","256","SSD","AMD"," Radeon 530","windows",1.4,43602.0
+1187,"Dell","Notebook",15.6,1366,768,1,"Intel","Core i3",2.4,8,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.3,24989.0
+1188,"HP","Netbook",12.5,1366,768,0,"Intel","Core i5",2.3,4,"0","128","SSD","Intel"," HD Graphics 520","windows",2.4,85195.0
+1189,"MSI","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1060","windows",2.7,85141.0
+1190,"Apple","Ultrabook",11.6,1366,768,0,"Intel","Core i5",1.6,4,"0","256","Flash Storage","Intel"," HD Graphics 6000","macos",1.1,51096.0
+1191,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.0,4,"0","1024","HDD","Intel"," HD Graphics 520","windows",2.1,25468.0
+1192,"HP","Ultrabook",14.0,2560,1440,0,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.5,117120.0
+1193,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i5",2.3,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.2,39267.0
+1194,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"1024","256","Hybrid","Nvidia"," GeForce GTX 950M","windows",2.4,42571.0
+1195,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 960M","windows",2.3,62284.0
+1196,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","AMD"," Radeon R7 M445","windows",2.4,34035.0
+1197,"Lenovo","2 in 1 Convertible",14.0,2560,1440,1,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.4,87219.0
+1198,"Lenovo","Notebook",13.3,1920,1080,0,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",1.4,79867.0
+1199,"Lenovo","Notebook",15.6,1920,1080,0,"AMD","A12-Series 9720P",3.6,6,"0","256","SSD","AMD"," Radeon 530","windows",2.2,31839.0
+1200,"Asus","Ultrabook",13.3,1920,1080,0,"Intel","Core i7",2.5,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.5,68198.0
+1201,"Acer","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","linux",2.4,19277.0
+1202,"Dell","2 in 1 Convertible",17.3,1920,1080,1,"Intel","Core i7",2.7,16,"0","512","SSD","Nvidia"," GeForce 940MX","windows",2.8,95851.0
+1203,"HP","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,4,"0","256","SSD","Intel"," HD Graphics 520","windows",1.5,58607.0
+1204,"Lenovo","Ultrabook",15.6,1920,1080,0,"Intel","Core i7",2.7,6,"0","256","SSD","Nvidia"," GeForce 920M","windows",1.5,44276.0
+1205,"Dell","Notebook",14.0,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",1.6,46620.0
+1206,"Dell","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.7,8,"0","256","SSD","Nvidia"," GeForce GT 940MX","linux",2.0,47686.0
+1207,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",2.3,123876.0
+1208,"Acer","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",2.0,4,"0","500","HDD","Intel"," HD Graphics 500","windows",2.1,17742.0
+1209,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","256","SSD","Intel"," HD Graphics 620","N/A",2.3,30529.0
+1210,"HP","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.6,6,"0","1024","HDD","Nvidia"," GeForce GTX 960M","windows",2.2,42571.0
+1211,"Dell","2 in 1 Convertible",13.3,3200,1800,1,"Intel","Core i5",1.2,8,"0","256","SSD","Intel"," HD Graphics 615","windows",1.2,96597.0
+1212,"Dell","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.6,4,"0","500","HDD","Intel"," HD Graphics","linux",2.2,17263.0
+1213,"Asus","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,8,"1024","256","Hybrid","Nvidia"," GeForce GTX 960M","windows",2.6,48432.0
+1214,"HP","Notebook",15.6,1366,768,0,"AMD","A6-Series 9220",2.5,4,"0","500","HDD","AMD"," Radeon R4 Graphics","windows",1.9,21259.0
+1215,"Dell","2 in 1 Convertible",15.6,1920,1080,1,"Intel","Core i7",2.7,16,"0","512","SSD","Intel"," HD Graphics 620","windows",2.1,62817.0
+1216,"Acer","Notebook",15.6,1920,1080,0,"Intel","Core i5",2.5,4,"0","256","SSD","Nvidia"," GeForce 940MX","windows",2.2,36816.0
+1217,"Dell","Ultrabook",13.3,3200,1800,1,"Intel","Core i5",2.4,8,"0","256","SSD","Intel"," HD Graphics 520","linux",1.2,58555.0
+1218,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i3",2.3,6,"0","128","SSD","Nvidia"," GeForce 920MX","windows",2.4,30316.0
+1219,"Lenovo","Notebook",14.0,1920,1080,0,"Intel","Core i5",2.3,8,"0","256","SSD","Intel"," HD Graphics 520","windows",1.9,57116.0
+1220,"Dell","Notebook",15.6,1366,768,0,"Intel","Pentium Quad",1.6,4,"0","500","HDD","Intel"," HD Graphics","windows",2.2,23656.0
+1221,"Asus","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.1,4,"0","1024","HDD","Intel"," HD Graphics 500","windows",2.0,18062.0
+1222,"Asus","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.6,16,"1024","128","Hybrid","Nvidia"," GeForce GTX 970M","windows",4.0,101232.0
+1223,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.0,4,"0","500","HDD","Intel"," HD Graphics 520","windows",2.3,26107.0
+1224,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.5,8,"0","1024","Hybrid","AMD"," Radeon R5 M330","windows",2.3,47686.0
+1225,"MSI","Gaming",15.6,1920,1080,0,"Intel","Core i7",2.6,8,"1024","128","Hybrid","Nvidia"," GeForce GTX 960M","windows",2.4,65481.0
+1226,"Acer","Gaming",17.3,1920,1080,0,"Intel","Core i7",2.8,16,"1024","256","Hybrid","Nvidia"," GeForce GTX 1070","windows",4.2,138475.0
+1227,"Lenovo","Gaming",15.6,1920,1080,0,"Intel","Core i5",2.5,8,"0","1024","HDD","Nvidia"," GeForce GTX 1050","windows",2.4,43636.0
+1228,"Lenovo","2 in 1 Convertible",14.0,1920,1080,1,"Intel","Core i5",2.3,4,"0","128","SSD","Intel"," HD Graphics 520","windows",1.8,44383.0
+1229,"Samsung","2 in 1 Convertible",12.3,2400,1600,1,"Samsung","Cortex A72&A53",2.0,4,"0","32","Flash Storage","ARM"," Mali T860 MP4","other",1.2,35112.0
+1230,"HP","Notebook",15.6,1366,768,0,"Intel","Core i5",2.5,4,"0","500","HDD","Intel"," HD Graphics 620","windows",1.9,25841.0
+1231,"Asus","Ultrabook",13.3,1920,1080,0,"Intel","Core M",0.9,8,"0","512","SSD","Intel"," HD Graphics 515","windows",1.2,38841.0
+1232,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i3",2.4,6,"0","1024","HDD","Intel"," HD Graphics 620","windows",2.3,24456.0
+1233,"Acer","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.6,4,"0","500","HDD","Intel"," HD Graphics 400","linux",2.4,15398.0
+1234,"Apple","Ultrabook",12.0,2304,1440,0,"Intel","Core M",1.1,8,"0","256","Flash Storage","Intel"," HD Graphics 5300","macos",0.9,61965.0
+1235,"Dell","Notebook",15.6,1366,768,0,"Intel","Celeron Dual",1.6,2,"0","500","HDD","Intel"," HD Graphics","windows",2.2,20193.0
+1236,"Lenovo","Notebook",15.6,1920,1080,0,"Intel","Core i7",2.6,8,"0","1024","HDD","Nvidia"," GeForce GTX 960M","windows",2.6,47899.0
+1237,"HP","Notebook",15.6,1920,1080,0,"AMD","A9-Series 9410",2.9,6,"0","1024","Hybrid","AMD"," Radeon R7 M440","windows",2.0,29303.0
+1238,"Dell","Notebook",15.6,1366,768,0,"Intel","Core i7",2.7,8,"0","1024","HDD","AMD"," Radeon R5 M430","linux",2.3,42943.0
+1239,"HP","Netbook",11.6,1366,768,0,"Intel","Celeron Dual",1.6,2,"0","32","Flash Storage","Intel"," HD Graphics 400","windows",1.2,11136.0
+1240,"Asus","Notebook",15.6,1366,768,0,"Intel","Core i7",2.5,4,"0","500","HDD","Nvidia"," GeForce 920M","windows",2.2,38379.0
+1241,"Lenovo","2 in 1 Convertible",14.0,1920,1080,1,"Intel","Core i7",2.5,4,"0","128","SSD","Intel"," HD Graphics 520","windows",1.8,33993.0
+1242,"Lenovo","2 in 1 Convertible",13.3,3200,1800,1,"Intel","Core i7",2.5,16,"0","512","SSD","Intel"," HD Graphics 520","windows",1.3,79867.0
+1243,"Lenovo","Notebook",14.0,1366,768,0,"Intel","Celeron Dual",1.6,2,"0","64","Flash Storage","Intel"," HD Graphics","windows",1.5,12201.0
+1244,"HP","Notebook",15.6,1366,768,0,"Intel","Core i7",2.5,6,"0","1024","HDD","AMD"," Radeon R5 M330","windows",2.2,40706.0
