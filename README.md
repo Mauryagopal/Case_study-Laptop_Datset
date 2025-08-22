@@ -69,11 +69,18 @@ Identified the most important factors influencing laptop prices (RAM, CPU speed,
 
 🚀 Project Workflow
 graph LR
-A[Raw Dataset] --> B[SQL Data Cleaning]
-B --> C[Feature Engineering in SQL]
-C --> D[EDA in SQL & Python]
-D --> E[Linear Regression Model in Python]
-E --> F[Price Prediction & Insights]
+A
+[Raw Dataset] 
+--> B
+[SQL Data Cleaning]
+B
+--> C[Feature Engineering in SQL]
+C
+--> D[EDA in SQL & Python]
+D
+--> E[Linear Regression Model in Python]
+E
+--> F[Price Prediction & Insights]
 
 🛠️ Tech Stack
 
