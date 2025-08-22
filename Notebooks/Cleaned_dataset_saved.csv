@@ -1,0 +1,1245 @@
+id,Company,TypeName,Inches,touchscreen,cpu_brand,cpu_name,cpu_speed,ram,secondar_storage,primary_storage,memory_type,gpu_brand,gpu_name,OpSys,weight,Price,ppi,touchscreen_cat
+1,Apple,Ultrabook,13.3,0,Intel,Core i5,2.3,8,0,128.0,SSD,Intel, Iris Plus Graphics 640,macos,1.4,71379.0,202.37276851499232,Non-touch
+2,Apple,Ultrabook,13.3,0,Intel,Core i5,1.8,8,0,128.0,Flash Storage,Intel, HD Graphics 6000,macos,1.3,47896.0,127.67794013309688,Non-touch
+3,HP,Ultrabook,13.3,0,Intel,Core i7,2.7,8,0,256.0,SSD,Nvidia, GeForce MX150,windows,1.4,59620.0,165.6321180513006,Non-touch
+4,HP,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,,1.9,30636.0,141.21199808219862,Non-touch
+5,Apple,Ultrabook,15.4,0,Intel,Core i7,2.7,16,0,512.0,SSD,AMD, Radeon Pro 455,macos,1.8,135195.0,202.37276851499232,Non-touch
+6,Apple,Ultrabook,13.3,0,Intel,Core i5,3.1,8,0,256.0,SSD,Intel, Iris Plus Graphics 650,macos,1.4,96096.0,202.37276851499232,Non-touch
+7,Microsoft,Ultrabook,13.5,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,71395.0,200.84255993695703,Touchscreen
+8,Acer,Notebook,15.6,0,AMD,A9-Series 9420,3.0,4,0,500.0,HDD,AMD, Radeon R5,windows,2.1,21312.0,100.45466986113651,Non-touch
+9,HP,Notebook,14.0,0,Intel,Core i5,2.5,6,0,256.0,SSD,Nvidia, GeForce 940MX,windows,1.6,35112.0,157.3505121487356,Non-touch
+10,Apple,Ultrabook,15.4,0,Intel,Core i7,2.2,16,0,256.0,Flash Storage,Intel, Iris Pro Graphics,macos,2.0,114018.0,202.37276851499232,Non-touch
+11,Apple,Ultrabook,13.3,0,Intel,Core i5,1.8,8,0,256.0,Flash Storage,Intel, HD Graphics 6000,macos,1.3,61736.0,127.67794013309688,Non-touch
+12,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,windows,1.9,22106.0,141.21199808219862,Non-touch
+13,Asus,Ultrabook,14.0,0,Intel,Core i7,2.7,8,0,256.0,SSD,Nvidia, GeForce 940MX,windows,1.3,63563.0,157.3505121487356,Non-touch
+14,MSI,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.2,69211.0,141.21199808219862,Non-touch
+15,Lenovo,Notebook,14.0,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.6,78854.0,157.3505121487356,Non-touch
+16,Asus,Ultrabook,15.6,0,Intel,Core i7,1.8,16,1024,256.0,Hybrid,Nvidia, GeForce MX150,windows,1.5,67239.0,141.21199808219862,Non-touch
+17,Dell,Workstation,15.6,0,Intel,Xeon E3-1505M,3.0,16,1024,256.0,Hybrid,Nvidia, Quadro M1200,windows,2.8,162770.0,202.37276851499232,Non-touch
+18,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,16,0,512.0,SSD,Nvidia, GeForce GTX 1060,,2.4,74485.0,141.21199808219862,Non-touch
+19,Dell,Notebook,15.6,1,Intel,Core i3,2.4,6,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.3,23390.0,100.45466986113651,Touchscreen
+20,Dell,Ultrabook,13.3,1,Intel,Core i7,1.8,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.2,103843.0,202.37276851499232,Touchscreen
+21,Dell,Ultrabook,13.3,0,Intel,Core i7,1.8,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,0.0,77203.0,165.6321180513006,Non-touch
+22,Acer,Notebook,15.6,0,Intel,Core i7,2.8,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,linux,2.4,41505.0,141.21199808219862,Non-touch
+23,Asus,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.9,74965.0,127.33567457123111,Non-touch
+24,HP,Notebook,15.6,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,,2.1,18595.0,141.21199808219862,Non-touch
+25,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,,2.2,29251.0,141.21199808219862,Non-touch
+26,Dell,Ultrabook,13.3,1,Intel,Core i7,2.4,8,0,256.0,SSD,Intel, Iris Plus Graphics 640,windows,1.2,73473.0,202.37276851499232,Touchscreen
+27,Huawei,Ultrabook,13.0,0,Intel,Core i7,2.7,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.1,79867.0,199.69207064108247,Non-touch
+28,Lenovo,2 in 1 Convertible,13.3,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,74539.0,165.6321180513006,Touchscreen
+29,Dell,Ultrabook,13.3,0,Intel,Core i7,1.8,8,0,256.0,SSD,AMD, Radeon 530,windows,1.4,49651.0,165.6321180513006,Non-touch
+30,HP,Notebook,14.0,0,Intel,Core i5,1.6,4,0,500.0,HDD,Intel, UHD Graphics 620,windows,1.6,38468.0,111.93520355955211,Non-touch
+31,Lenovo,Notebook,17.3,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Nvidia, GeForce GTX 940MX,,2.8,31382.0,106.11306214269258,Non-touch
+32,Dell,Ultrabook,13.3,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.2,86793.0,165.6321180513006,Non-touch
+33,HP,Notebook,14.0,0,Intel,Core i7,1.8,8,0,256.0,SSD,Nvidia, GeForce 930MX,windows,1.6,54932.0,157.3505121487356,Non-touch
+34,HP,Notebook,14.0,0,Intel,Core i7,1.8,8,0,512.0,SSD,Intel, UHD Graphics 620,windows,1.6,57756.0,157.3505121487356,Non-touch
+35,Dell,Ultrabook,14.0,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.6,61219.0,157.3505121487356,Non-touch
+36,Dell,Notebook,15.6,0,Intel,Core i7,1.8,8,1024,256.0,Hybrid,Nvidia, GeForce 940MX,windows,2.2,60224.0,141.21199808219862,Non-touch
+37,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1100.0,HDD,Nvidia, GeForce 940MX,,2.2,29251.0,100.45466986113651,Non-touch
+38,Dell,2 in 1 Convertible,13.3,1,Intel,Core i7,1.8,16,0,512.0,SSD,Intel, UHD Graphics 620,windows,1.6,68145.0,165.6321180513006,Touchscreen
+39,Asus,Notebook,17.3,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Nvidia, GeForce 920MX,windows,2.0,30050.0,127.33567457123111,Non-touch
+40,Asus,Notebook,15.6,0,Intel,Core i7,1.8,8,0,256.0,SSD,Nvidia, GeForce 940MX,windows,1.7,59567.0,141.21199808219862,Non-touch
+41,Acer,Notebook,15.6,1,Intel,Core i3,2.4,6,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.1,25521.0,141.21199808219862,Touchscreen
+42,MSI,Gaming,15.6,0,Intel,Core i7,2.8,16,2048,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,1.8,119427.0,141.21199808219862,Non-touch
+43,Dell,Notebook,15.6,0,Intel,Core i5,1.6,8,0,256.0,SSD,AMD, Radeon 520,linux,2.2,36089.0,141.21199808219862,Non-touch
+44,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce 940MX,,2.2,33513.0,141.21199808219862,Non-touch
+45,HP,Notebook,17.3,0,Intel,Core i7,1.8,16,0,512.0,SSD,Nvidia, GeForce 930MX ,windows,2.5,67719.0,127.33567457123111,Non-touch
+46,Lenovo,2 in 1 Convertible,14.0,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.7,47899.0,157.3505121487356,Non-touch
+47,Acer,Notebook,15.6,0,AMD,A9-Series 9420,3.0,4,0,256.0,SSD,AMD, Radeon R5,windows,2.1,24029.0,100.45466986113651,Non-touch
+48,Toshiba,Ultrabook,13.3,0,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.2,72621.0,165.6321180513006,Non-touch
+49,Asus,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.5,67399.0,141.21199808219862,Non-touch
+50,HP,Notebook,14.0,0,Intel,Core i5,1.6,8,0,1024.0,HDD,Intel, UHD Graphics 620,windows,1.6,43263.0,157.3505121487356,Non-touch
+51,Lenovo,Notebook,15.6,0,Intel,Pentium Quad,1.1,4,0,1024.0,HDD,Intel, HD Graphics 505,,2.2,19180.0,100.45466986113651,Non-touch
+52,HP,Notebook,15.6,0,Intel,Core i5,1.6,8,0,1024.0,HDD,Intel, UHD Graphics 620,windows,2.1,42304.0,141.21199808219862,Non-touch
+53,Asus,Notebook,14.0,0,AMD,E-Series 6110,1.5,4,0,64.0,SSD,AMD, Radeon R2,windows,1.7,14811.0,111.93520355955211,Non-touch
+54,Dell,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,4.4,130874.0,127.33567457123111,Non-touch
+55,Dell,Notebook,17.3,0,Intel,Core i7,1.8,16,2048,256.0,Hybrid,AMD, Radeon 530,windows,2.8,74379.0,127.33567457123111,Non-touch
+56,HP,2 in 1 Convertible,13.3,1,Intel,Core i7,2.8,16,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,105228.0,165.6321180513006,Touchscreen
+57,Acer,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,Nvidia, GeForce 940MX,windows,2.2,44329.0,141.21199808219862,Non-touch
+58,HP,Notebook,17.3,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,2.5,49444.0,127.33567457123111,Non-touch
+59,Dell,Notebook,15.6,1,Intel,Core i7,2.7,16,0,1024.0,HDD,AMD, Radeon R7 M445,windows,2.3,45768.0,141.21199808219862,Touchscreen
+60,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,AMD, Radeon R7 M445,windows,2.4,34045.0,100.45466986113651,Non-touch
+61,Toshiba,Notebook,15.6,0,Intel,Core i7,2.5,8,0,256.0,SSD,Nvidia, GeForce 930M,windows,2.2,55571.0,141.21199808219862,Non-touch
+62,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,AMD, Radeon R5 M430,windows,2.2,23923.0,141.21199808219862,Non-touch
+63,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,Nvidia, GeForce 940MX,windows,2.3,43636.0,141.21199808219862,Non-touch
+64,Asus,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce 920MX ,windows,2.0,40972.0,141.21199808219862,Non-touch
+65,Asus,Notebook,17.3,0,Intel,Core i5,2.5,8,500,256.0,Hybrid,Nvidia, GeForce GTX 950M,windows,2.7,47472.0,127.33567457123111,Non-touch
+66,HP,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,windows,1.9,24988.0,141.21199808219862,Non-touch
+67,Acer,Ultrabook,14.0,0,Intel,Core i7,1.8,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.6,47100.0,157.3505121487356,Non-touch
+68,Lenovo,Notebook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.1,53227.0,165.6321180513006,Non-touch
+69,HP,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,AMD, FirePro W4190M ,windows,1.9,67612.0,141.21199808219862,Non-touch
+70,Asus,Notebook,15.6,0,Intel,Core i3,2.4,4,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.4,21258.0,100.45466986113651,Non-touch
+71,Acer,Notebook,15.6,0,Intel,Core i3,2.7,4,0,256.0,SSD,Nvidia, GeForce MX130,windows,5.5,30476.0,141.21199808219862,Non-touch
+72,HP,Notebook,15.6,0,AMD,E-Series 9000e,1.5,4,0,500.0,HDD,AMD, Radeon R2,windows,2.1,17582.0,100.45466986113651,Non-touch
+73,HP,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.1,31861.0,100.45466986113651,Non-touch
+74,HP,Notebook,14.0,0,Intel,Core i7,1.8,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.6,52641.0,157.3505121487356,Non-touch
+75,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,3.2,79867.0,141.21199808219862,Non-touch
+76,Lenovo,Notebook,15.6,0,Intel,Celeron Dual,1.1,4,0,1024.0,HDD,Intel, HD Graphics 500,,1.9,13446.0,100.45466986113651,Non-touch
+77,Dell,Notebook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.6,45768.0,157.3505121487356,Non-touch
+78,Acer,2 in 1 Convertible,13.3,1,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.6,36710.0,165.6321180513006,Touchscreen
+79,Asus,Gaming,17.3,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,3.0,49977.0,127.33567457123111,Non-touch
+80,Dell,Notebook,15.6,0,Intel,Core i7,2.7,16,0,256.0,SSD,AMD, Radeon R7 M445,linux,2.4,47899.0,141.21199808219862,Non-touch
+81,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,4,0,1024.0,HDD,Nvidia, GeForce 920MX,,2.2,26587.0,141.21199808219862,Non-touch
+82,HP,Notebook,13.3,0,Intel,Core i5,2.5,4,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,37243.0,165.6321180513006,Non-touch
+83,Acer,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,linux,2.1,20779.0,100.45466986113651,Non-touch
+84,Acer,Notebook,17.3,0,Intel,Core i3,2.7,4,0,1024.0,HDD,Nvidia, GeForce MX130,windows,3.0,34898.0,127.33567457123111,Non-touch
+85,Asus,Notebook,15.6,0,AMD,A10-Series A10-9620P,2.5,4,1024,128.0,Hybrid,AMD, Radeon R5 M430,windows,2.2,30636.0,141.21199808219862,Non-touch
+86,Lenovo,Notebook,14.0,0,Intel,Core i5,1.6,8,0,256.0,SSD,AMD, Radeon RX 550,windows,1.8,59462.0,157.3505121487356,Non-touch
+87,Asus,Gaming,17.3,0,Intel,Core i7,2.9,20,1024,512.0,Hybrid,Nvidia, GeForce GTX 1080,windows,4.7,207259.0,127.33567457123111,Non-touch
+88,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, GeForce GTX 1050M,,2.4,46300.0,141.21199808219862,Non-touch
+89,Acer,Gaming,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce GTX 1050,windows,2.5,45075.0,141.21199808219862,Non-touch
+90,Toshiba,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.1,32075.0,100.45466986113651,Non-touch
+91,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,8,0,128.0,SSD,Intel, HD Graphics 520,windows,5.5,31382.0,100.45466986113651,Non-touch
+92,HP,Notebook,15.6,0,AMD,A6-Series 9220,2.5,4,0,256.0,SSD,AMD, Radeon R4 Graphics,windows,1.9,19660.0,100.45466986113651,Non-touch
+93,Asus,Ultrabook,14.0,0,Intel,Core i7,1.8,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.3,58555.0,157.3505121487356,Non-touch
+94,HP,Ultrabook,12.5,1,Intel,Core M,1.2,8,0,512.0,SSD,Intel, HD Graphics 515,windows,1.0,107306.0,202.37276851499232,Touchscreen
+95,Asus,Notebook,17.3,0,Intel,Core i7,1.8,8,1024,128.0,Hybrid,Nvidia, GeForce 150MX,windows,2.1,61006.0,127.33567457123111,Non-touch
+96,Asus,Notebook,15.6,0,Intel,Celeron Dual,1.1,4,0,1024.0,HDD,Intel, HD Graphics 500,windows,2.0,18328.0,141.21199808219862,Non-touch
+97,Asus,Notebook,17.3,0,Intel,Core i7,2.7,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 950M,,2.7,47366.0,127.33567457123111,Non-touch
+98,Acer,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,windows,2.1,23816.0,100.45466986113651,Non-touch
+99,Dell,Gaming,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce GTX 1050,windows,2.6,46833.0,141.21199808219862,Non-touch
+100,Lenovo,2 in 1 Convertible,13.9,1,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,57489.0,158.48253022174808,Touchscreen
+101,Dell,Ultrabook,13.3,1,Intel,Core i7,1.8,16,0,1024.0,SSD,Intel, UHD Graphics 620,windows,1.2,133147.0,202.37276851499232,Touchscreen
+102,Dell,Gaming,15.6,0,Intel,Core i7,2.8,16,0,512.0,SSD,Nvidia, GeForce GTX 1050,windows,2.6,66561.0,141.21199808219862,Non-touch
+103,Asus,Ultrabook,14.0,0,Intel,Core i7,1.8,16,0,512.0,SSD,Nvidia, GeForce MX150,windows,1.3,79654.0,157.3505121487356,Non-touch
+104,MSI,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,2.8,111835.0,141.21199808219862,Non-touch
+105,Acer,Notebook,15.6,0,AMD,A8-Series 7410,2.2,8,0,256.0,SSD,AMD, Radeon R5,windows,2.2,24988.0,141.21199808219862,Non-touch
+106,Dell,Gaming,15.6,0,Intel,Core i7,2.8,8,0,1024.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.6,47899.0,141.21199808219862,Non-touch
+107,Asus,2 in 1 Convertible,11.6,1,Intel,Celeron Dual,1.1,2,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.1,14652.0,135.0942111925629,Touchscreen
+108,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,4,0,128.0,SSD,Intel, HD Graphics 620,windows,1.9,26533.0,100.45466986113651,Non-touch
+109,MSI,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.8,100699.0,127.33567457123111,Non-touch
+110,Acer,Ultrabook,14.0,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.6,41026.0,157.3505121487356,Non-touch
+111,Dell,Notebook,15.6,0,Intel,Core i7,1.8,8,2048,128.0,Hybrid,AMD, Radeon 530,windows,2.2,52481.0,141.21199808219862,Non-touch
+112,HP,Notebook,15.6,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,,1.9,20987.0,100.45466986113651,Non-touch
+113,HP,Notebook,15.6,1,Intel,Core i5,2.5,8,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.0,29784.0,100.45466986113651,Touchscreen
+114,HP,Notebook,15.6,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,,1.9,18381.0,141.21199808219862,Non-touch
+115,Asus,Gaming,17.3,0,Intel,Core i7,2.9,16,0,256.0,SSD,Nvidia, GeForce GTX 1080,windows,3.6,159787.0,127.33567457123111,Non-touch
+116,Dell,Notebook,15.6,0,Intel,Core i5,1.6,8,1024,128.0,Hybrid,AMD, Radeon 530,windows,2.3,44968.0,141.21199808219862,Non-touch
+117,HP,Notebook,13.3,0,Intel,Core i5,1.6,4,0,500.0,HDD,Intel, UHD Graphics 620,windows,1.5,35964.0,165.6321180513006,Non-touch
+118,Apple,Ultrabook,15.4,0,Intel,Core i7,2.8,16,0,256.0,SSD,AMD, Radeon Pro 555,macos,1.8,130002.0,202.37276851499232,Non-touch
+119,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,256.0,SSD,AMD, Radeon R5 M430,windows,2.2,26581.0,141.21199808219862,Non-touch
+120,Apple,Ultrabook,13.3,0,Intel,Core i5,3.1,8,0,512.0,SSD,Intel, Iris Plus Graphics 650,macos,1.4,108691.0,202.37276851499232,Non-touch
+121,HP,2 in 1 Convertible,13.3,1,Intel,Core i7,1.8,16,0,1024.0,SSD,Intel, UHD Graphics 620,windows,1.3,130483.0,202.37276851499232,Touchscreen
+122,Apple,Ultrabook,12.0,0,Intel,Core M,1.2,8,0,256.0,SSD,Intel, HD Graphics 615,macos,0.9,67261.0,202.37276851499232,Non-touch
+123,Apple,Ultrabook,13.3,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, Iris Plus Graphics 640,macos,1.4,80908.0,202.37276851499232,Non-touch
+124,Lenovo,Notebook,13.3,0,Intel,Celeron Dual,1.6,4,0,16.0,Flash Storage,Intel, HD Graphics 510,other,1.5,24503.0,117.82653006268643,Non-touch
+125,HP,Notebook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,52214.0,157.3505121487356,Non-touch
+126,Dell,2 in 1 Convertible,15.6,1,Intel,Core i7,1.8,8,0,1024.0,HDD,Intel, UHD Graphics 620,windows,2.1,43636.0,141.21199808219862,Touchscreen
+127,Asus,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 980M,windows,4.3,95851.0,127.33567457123111,Non-touch
+128,Dell,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,AMD, Radeon R5 M430,windows,2.2,39694.0,141.21199808219862,Non-touch
+129,Asus,Notebook,15.6,0,AMD,A9-Series 9420,3.0,4,0,1024.0,HDD,AMD, Radeon R5 M420,windows,1.7,24988.0,100.45466986113651,Non-touch
+130,Apple,Ultrabook,15.4,0,Intel,Core i7,2.9,16,0,512.0,SSD,AMD, Radeon Pro 560,macos,1.8,152274.0,202.37276851499232,Non-touch
+131,Acer,Notebook,11.6,0,Intel,Pentium Quad,1.6,4,0,128.0,Flash Storage,Intel, HD Graphics 405,windows,1.4,25841.0,135.0942111925629,Non-touch
+132,HP,Notebook,14.0,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.5,68838.0,157.3505121487356,Non-touch
+133,Lenovo,Notebook,15.6,0,Intel,Core i3,2.4,8,0,1024.0,HDD,Nvidia, GeForce 940MX,,2.2,26587.0,141.21199808219862,Non-touch
+134,Dell,Ultrabook,13.3,1,Intel,Core i5,1.6,8,0,128.0,SSD,Intel, UHD Graphics 620,windows,1.2,52161.0,165.6321180513006,Touchscreen
+135,Lenovo,Gaming,15.6,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.5,53227.0,141.21199808219862,Non-touch
+136,HP,Notebook,15.6,0,AMD,E-Series E2-9000e,1.5,4,0,500.0,HDD,AMD, Radeon R2,,1.9,13746.0,100.45466986113651,Non-touch
+137,Lenovo,Notebook,17.3,0,Intel,Core i5,2.5,4,0,1024.0,HDD,Nvidia, GeForce 920MX,windows,2.8,31382.0,106.11306214269258,Non-touch
+138,Asus,Notebook,14.0,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,58288.0,157.3505121487356,Non-touch
+139,Dell,2 in 1 Convertible,13.3,1,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.6,43636.0,165.6321180513006,Touchscreen
+140,HP,Ultrabook,14.0,0,Intel,Core i5,2.7,4,0,256.0,SSD,Intel, HD Graphics 620,windows,1.5,57649.0,157.3505121487356,Non-touch
+141,HP,Ultrabook,15.6,0,Intel,Core i7,1.8,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.9,35112.0,141.21199808219862,Non-touch
+142,HP,Notebook,15.6,0,Intel,Core i7,1.8,8,0,1024.0,HDD,Intel, UHD Graphics 620,windows,2.1,48059.0,100.45466986113651,Non-touch
+143,Acer,Notebook,15.6,0,AMD,A12-Series 9720P,2.7,8,0,256.0,SSD,AMD, Radeon RX 540,windows,2.2,35112.0,100.45466986113651,Non-touch
+144,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,windows,2.3,22305.0,100.45466986113651,Non-touch
+145,HP,Notebook,15.6,0,Intel,Core i5,1.6,6,0,256.0,SSD,AMD, Radeon 520,windows,1.9,32980.0,141.21199808219862,Non-touch
+146,Apple,Ultrabook,13.3,0,Intel,Core i5,1.6,8,0,128.0,Flash Storage,Intel, HD Graphics 6000,macos,1.4,58555.0,127.67794013309688,Non-touch
+147,Dell,Notebook,15.6,0,Intel,Core i5,1.6,8,0,256.0,SSD,AMD, Radeon 530,windows,2.2,42624.0,141.21199808219862,Non-touch
+148,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i3,2.4,4,0,256.0,SSD,Intel, HD Graphics 620,windows,1.7,33513.0,157.3505121487356,Touchscreen
+149,Lenovo,Notebook,14.0,0,Intel,Celeron Dual,1.1,4,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.4,15558.0,111.93520355955211,Non-touch
+150,Asus,2 in 1 Convertible,13.3,1,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.1,70063.0,165.6321180513006,Touchscreen
+151,Acer,Notebook,15.6,0,Intel,Core i5,2.5,6,0,1024.0,HDD,Intel, HD Graphics 620,windows,5.5,29251.0,100.45466986113651,Non-touch
+152,Dell,Ultrabook,15.6,0,Intel,Core i7,1.9,8,256,256.0,SSD,Intel, UHD Graphics 620,windows,1.9,69157.0,141.21199808219862,Non-touch
+153,Dell,2 in 1 Convertible,15.6,1,Intel,Core i7,1.8,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.6,55891.0,141.21199808219862,Touchscreen
+154,HP,Notebook,17.3,0,Intel,Core i5,1.6,8,0,1024.0,HDD,Nvidia, GeForce 930MX,windows,2.5,47739.0,127.33567457123111,Non-touch
+155,Asus,Ultrabook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,Nvidia, GeForce 940MX,windows,1.7,55939.0,141.21199808219862,Non-touch
+156,Chuwi,Notebook,15.6,0,Intel,Atom x5-Z8300,1.4,4,0,64.0,Flash Storage,Intel, HD Graphics,windows,1.9,13053.0,141.21199808219862,Non-touch
+157,Toshiba,Notebook,15.6,0,Intel,Core i3,2.2,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.1,23816.0,100.45466986113651,Non-touch
+158,Asus,Notebook,14.0,0,AMD,E-Series E2-6110,1.5,2,0,32.0,Flash Storage,AMD, Radeon R2,windows,1.7,10603.0,111.93520355955211,Non-touch
+159,HP,Ultrabook,12.5,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,71129.0,176.23257360658386,Non-touch
+160,Dell,Notebook,15.6,1,Intel,Core i7,2.8,20,0,1024.0,SSD,Nvidia, GeForce GTX 1050,windows,2.1,140606.0,202.37276851499232,Touchscreen
+161,HP,Notebook,17.3,0,AMD,A6-Series 9220,2.5,4,0,500.0,HDD,AMD, Radeon 530,windows,2.7,23390.0,127.33567457123111,Non-touch
+162,Asus,Notebook,15.6,0,AMD,A9-Series 9420,3.0,4,0,1024.0,HDD,AMD, Radeon R5 M420,windows,2.0,21472.0,100.45466986113651,Non-touch
+163,Acer,Notebook,17.3,0,Intel,Core i5,1.6,4,0,256.0,SSD,Nvidia, GeForce MX150,windows,3.0,42890.0,127.33567457123111,Non-touch
+164,Dell,Ultrabook,13.3,1,Intel,Core i7,1.8,16,0,512.0,SSD,Intel, UHD Graphics 620,windows,1.2,99580.0,202.37276851499232,Touchscreen
+165,Apple,Ultrabook,13.3,0,Intel,Core i5,1.6,8,0,256.0,Flash Storage,Intel, HD Graphics 6000,macos,1.4,53173.0,127.67794013309688,Non-touch
+166,MSI,Gaming,17.3,0,Intel,Core i7,2.8,8,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.7,63883.0,127.33567457123111,Non-touch
+167,Lenovo,Notebook,14.0,0,Intel,Celeron Dual,1.1,4,0,64.0,Flash Storage,Intel, HD Graphics 500,windows,1.4,13267.0,111.93520355955211,Non-touch
+168,Acer,Notebook,15.6,0,Intel,Core i3,2.7,4,0,1024.0,HDD,Intel, HD Graphics 620,linux,2.1,19554.0,100.45466986113651,Non-touch
+169,Dell,Notebook,15.6,0,Intel,Core i5,1.6,8,0,256.0,SSD,AMD, Radeon 520,windows,2.1,38788.0,141.21199808219862,Non-touch
+170,Toshiba,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,50243.0,141.21199808219862,Non-touch
+171,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,16,0,256.0,SSD,Nvidia, GeForce GTX 1050 Ti,windows,2.5,57489.0,141.21199808219862,Non-touch
+172,Asus,Notebook,14.0,0,Intel,Core i7,2.7,8,1024,256.0,Hybrid,Intel, HD Graphics 620,windows,2.0,71076.0,157.3505121487356,Non-touch
+173,Dell,Notebook,17.3,0,Intel,Core i5,1.6,8,1024,128.0,Hybrid,AMD, Radeon 530,windows,2.8,52161.0,127.33567457123111,Non-touch
+174,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,windows,1.9,23923.0,141.21199808219862,Non-touch
+175,HP,Notebook,15.6,0,Intel,Core i5,2.5,4,0,1024.0,HDD,Intel, HD Graphics 620,windows,1.9,26037.0,100.45466986113651,Non-touch
+176,Acer,Notebook,15.6,0,Intel,Celeron Dual,1.1,4,0,1024.0,HDD,Intel, HD Graphics 500,windows,2.1,18541.0,100.45466986113651,Non-touch
+177,HP,Notebook,15.6,0,Intel,Core i5,1.6,8,0,256.0,SSD,Nvidia, GeForce 930MX ,windows,2.1,46833.0,141.21199808219862,Non-touch
+178,Asus,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 620,linux,2.0,20726.0,141.21199808219862,Non-touch
+179,MSI,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.4,95851.0,141.21199808219862,Non-touch
+180,Asus,Gaming,15.6,0,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, GeForce GTX 1050,windows,2.5,53227.0,141.21199808219862,Non-touch
+181,Acer,Notebook,15.6,0,Intel,Pentium Quad,1.1,4,0,1024.0,HDD,Intel, HD Graphics 505,windows,2.1,19368.0,100.45466986113651,Non-touch
+182,Dell,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.7,79867.0,141.21199808219862,Non-touch
+183,Asus,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Nvidia, GeForce 940MX,linux,2.3,27865.0,100.45466986113651,Non-touch
+184,Dell,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.6,56503.0,141.21199808219862,Non-touch
+185,HP,Notebook,14.0,0,Intel,Core i5,2.6,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.5,67559.0,157.3505121487356,Non-touch
+186,Acer,Notebook,15.6,0,Intel,Core i5,1.6,4,0,256.0,SSD,Intel, UHD Graphics 620,windows,2.2,36337.0,141.21199808219862,Non-touch
+187,Acer,Notebook,17.3,0,Intel,Core i5,1.6,8,0,256.0,SSD,Nvidia, GeForce MX150,windows,3.0,45501.0,127.33567457123111,Non-touch
+188,Dell,2 in 1 Convertible,17.3,1,Intel,Core i5,1.6,12,0,1024.0,HDD,Nvidia, GeForce 150MX,windows,2.8,53227.0,127.33567457123111,Touchscreen
+189,Apple,Ultrabook,13.3,0,Intel,Core i5,2.0,8,0,256.0,SSD,Intel, Iris Graphics 540,macos,1.4,75604.0,202.37276851499232,Non-touch
+190,HP,Notebook,13.3,0,Intel,Core i5,1.6,4,0,500.0,HDD,Intel, UHD Graphics 620,windows,1.5,40173.0,165.6321180513006,Non-touch
+191,HP,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.8,60952.0,141.21199808219862,Non-touch
+192,Asus,Gaming,17.3,0,AMD,Ryzen 1700,3.0,8,1024,256.0,Hybrid,AMD, Radeon RX 580,windows,3.2,69211.0,127.33567457123111,Non-touch
+193,Dell,Notebook,15.6,0,Intel,Core i5,2.5,4,0,256.0,SSD,AMD, Radeon R5 M430,windows,2.3,34046.0,141.21199808219862,Non-touch
+194,Asus,Notebook,15.6,0,Intel,Celeron Dual,1.1,4,0,1024.0,HDD,Intel, HD Graphics 500,linux,2.0,14651.0,100.45466986113651,Non-touch
+195,Asus,Notebook,17.3,0,Intel,Pentium Quad,1.1,4,0,1024.0,HDD,Nvidia, GeForce 920MX,windows,2.8,24828.0,90.58340172449303,Non-touch
+196,Dell,Notebook,15.6,0,Intel,Core i5,1.6,8,0,256.0,SSD,Nvidia, GeForce 940MX,windows,2.0,60886.0,141.21199808219862,Non-touch
+197,Huawei,Ultrabook,13.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.1,71875.0,199.69207064108247,Non-touch
+198,HP,Notebook,17.3,0,Intel,Core i5,2.5,6,0,1100.0,HDD,AMD, Radeon 520,windows,2.7,37243.0,127.33567457123111,Non-touch
+199,Lenovo,2 in 1 Convertible,13.9,1,Intel,Core i7,1.8,8,0,512.0,SSD,Intel, UHD Graphics 620,windows,1.4,98515.0,158.48253022174808,Touchscreen
+200,Lenovo,Notebook,15.6,0,AMD,A6-Series 9220,2.9,4,0,500.0,HDD,AMD, Radeon R4 Graphics,,2.2,16464.0,100.45466986113651,Non-touch
+201,Dell,Notebook,15.6,0,Intel,Celeron Dual,1.6,4,0,500.0,HDD,Intel, HD Graphics,linux,2.2,14647.0,100.45466986113651,Non-touch
+202,Lenovo,Notebook,15.6,0,AMD,A12-Series 9720P,3.6,12,0,1100.0,HDD,AMD, Radeon 530,windows,2.2,47899.0,141.21199808219862,Non-touch
+203,Toshiba,Notebook,15.6,0,Intel,Core i3,2.4,4,0,500.0,HDD,Intel, HD Graphics 620,windows,5.4,26054.0,100.45466986113651,Non-touch
+204,HP,Notebook,15.6,0,Intel,Core i3,2.4,8,0,1024.0,HDD,Nvidia, GeForce 930MX ,windows,2.1,38148.0,141.21199808219862,Non-touch
+205,Acer,Notebook,17.3,0,Intel,Core i3,2.7,4,0,256.0,SSD,Nvidia, GeForce MX130,windows,3.0,37403.0,127.33567457123111,Non-touch
+206,Lenovo,2 in 1 Convertible,13.9,1,Intel,Core i7,1.8,16,0,512.0,SSD,Intel, UHD Graphics 620,windows,1.4,111835.0,202.37276851499232,Touchscreen
+207,HP,Notebook,17.3,0,Intel,Core i5,1.6,8,0,256.0,SSD,Nvidia, GeForce 930MX,windows,2.5,49177.0,127.33567457123111,Non-touch
+208,Dell,Ultrabook,13.3,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.4,50563.0,165.6321180513006,Non-touch
+209,Dell,Notebook,15.6,0,Intel,Core i3,2.4,8,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.3,24456.0,100.45466986113651,Non-touch
+210,HP,Notebook,15.6,0,AMD,A6-Series A6-9220,2.5,8,0,128.0,SSD,AMD, Radeon R4 Graphics,windows,1.9,23758.0,100.45466986113651,Non-touch
+211,Acer,Notebook,15.6,0,Intel,Core i3,2.0,4,0,128.0,SSD,Intel, HD Graphics 520,windows,2.1,23923.0,100.45466986113651,Non-touch
+212,MSI,Gaming,18.4,0,Intel,Core i7,2.9,20,1024,512.0,Hybrid,Nvidia, GTX 980 SLI,windows,4.4,149131.0,119.7232157653423,Non-touch
+213,Dell,Ultrabook,13.3,0,Intel,Core i7,1.8,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.2,84129.0,165.6321180513006,Non-touch
+214,Acer,Notebook,15.6,0,Intel,Core i7,1.8,8,0,256.0,SSD,Nvidia, GeForce MX150,windows,2.2,44808.0,141.21199808219862,Non-touch
+215,HP,Notebook,17.3,0,Intel,Core i7,1.8,16,0,1024.0,HDD,Nvidia, GeForce MX150,windows,2.9,56424.0,127.33567457123111,Non-touch
+216,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,16,2048,256.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.4,60153.0,141.21199808219862,Non-touch
+217,MSI,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,512.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.1,133147.0,127.33567457123111,Non-touch
+218,HP,Notebook,14.0,0,Intel,Celeron Dual,1.6,2,0,32.0,Flash Storage,Intel, HD Graphics 400,windows,1.4,14865.0,111.93520355955211,Non-touch
+219,Dell,Ultrabook,15.6,0,Intel,Core i7,1.9,16,256,512.0,SSD,Intel, UHD Graphics 620,windows,1.9,85672.0,141.21199808219862,Non-touch
+220,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,AMD, R17M-M1-70,windows,1.9,43317.0,141.21199808219862,Non-touch
+221,HP,2 in 1 Convertible,13.3,1,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.3,79867.0,202.37276851499232,Touchscreen
+222,Lenovo,2 in 1 Convertible,15.6,1,Intel,Core i7,2.8,8,0,512.0,SSD,Nvidia, GeForce GTX 1050M,windows,2.0,90523.0,141.21199808219862,Touchscreen
+223,Asus,2 in 1 Convertible,11.6,1,Intel,Celeron Dual,1.1,4,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.5,19980.0,135.0942111925629,Touchscreen
+224,Dell,Notebook,15.6,0,Intel,Core i7,1.8,16,2048,256.0,Hybrid,AMD, Radeon 530,linux,2.0,55891.0,141.21199808219862,Non-touch
+225,Dell,Notebook,17.3,0,Intel,Core i7,1.8,8,1024,128.0,Hybrid,AMD, Radeon 530,windows,2.8,60846.0,127.33567457123111,Non-touch
+226,Dell,Ultrabook,13.3,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.2,74539.0,165.6321180513006,Non-touch
+227,Dell,Ultrabook,15.6,0,Intel,Core i5,1.6,8,0,1024.0,HDD,AMD, Radeon 530,windows,0.0,35325.0,141.21199808219862,Non-touch
+228,HP,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.8,69477.0,141.21199808219862,Non-touch
+229,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,256.0,SSD,Intel, HD Graphics 520,,2.2,23656.0,141.21199808219862,Non-touch
+230,MSI,Gaming,17.3,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.7,75072.0,127.33567457123111,Non-touch
+231,HP,Notebook,15.6,0,Intel,Core i5,1.6,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.1,38468.0,141.21199808219862,Non-touch
+232,HP,Notebook,15.6,0,AMD,A6-Series 9220,2.5,4,0,256.0,SSD,AMD, Radeon R4 Graphics,windows,1.9,21232.0,141.21199808219862,Non-touch
+233,HP,Notebook,13.3,0,Intel,Core i7,1.8,8,0,512.0,SSD,Intel, UHD Graphics 620,windows,1.5,58768.0,165.6321180513006,Non-touch
+234,Acer,Notebook,15.6,0,Intel,Core i3,2.4,4,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.4,20460.0,100.45466986113651,Non-touch
+235,Dell,Notebook,15.6,0,Intel,Core i7,1.8,8,0,256.0,SSD,AMD, Radeon 520,windows,2.1,40908.0,141.21199808219862,Non-touch
+236,Lenovo,2 in 1 Convertible,13.9,1,Intel,Core i7,1.8,16,0,512.0,SSD,Intel, UHD Graphics 620,windows,1.4,98515.0,202.37276851499232,Touchscreen
+237,HP,Notebook,15.6,0,Intel,Core i3,2.0,4,0,128.0,SSD,Intel, HD Graphics 520,windows,1.9,23390.0,141.21199808219862,Non-touch
+238,Toshiba,Notebook,15.6,0,Intel,Core i5,2.5,8,0,128.0,SSD,Intel, HD Graphics 620,windows,2.0,42251.0,100.45466986113651,Non-touch
+239,Xiaomi,Notebook,15.6,0,Intel,Core i5,1.6,8,0,256.0,SSD,Nvidia, GeForce MX150,,2.0,63883.0,141.21199808219862,Non-touch
+240,Asus,Notebook,15.6,0,Intel,Core i5,2.5,4,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,31232.0,100.45466986113651,Non-touch
+241,MSI,Gaming,17.3,0,Intel,Core i7,2.8,16,2048,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,2.4,130483.0,127.33567457123111,Non-touch
+242,Dell,Notebook,15.6,0,Intel,Core i5,2.5,4,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.2,35005.0,141.21199808219862,Non-touch
+243,Dell,Notebook,17.3,1,Intel,Core i7,1.8,16,0,512.0,SSD,Nvidia, GeForce 150MX,windows,2.8,82531.0,127.33567457123111,Touchscreen
+244,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,AMD, Radeon R5 M430,windows,2.2,30103.0,141.21199808219862,Non-touch
+245,Asus,Notebook,15.6,0,Intel,Core i3,2.0,4,0,256.0,SSD,Intel, HD Graphics 520,linux,2.0,22111.0,141.21199808219862,Non-touch
+246,Dell,Notebook,15.6,1,Intel,Core i7,2.8,16,0,512.0,SSD,Nvidia, GeForce GTX 1050,windows,2.1,127712.0,202.37276851499232,Touchscreen
+247,Dell,Notebook,17.3,0,Intel,Core i7,1.8,16,2048,256.0,Hybrid,AMD, Radeon 530,windows,2.8,69211.0,127.33567457123111,Non-touch
+248,Dell,2 in 1 Convertible,15.6,1,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,2.7,42571.0,141.21199808219862,Touchscreen
+249,Asus,2 in 1 Convertible,13.3,1,Intel,Core i7,1.8,8,512,512.0,SSD,Intel, UHD Graphics 620,windows,4.1,79867.0,165.6321180513006,Touchscreen
+250,Dell,Ultrabook,14.0,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.7,46833.0,157.3505121487356,Non-touch
+251,Lenovo,Notebook,14.0,0,Intel,Core i3,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,,1.7,31915.0,157.3505121487356,Non-touch
+252,HP,Notebook,17.3,0,Intel,Core i7,1.8,8,0,1024.0,HDD,Nvidia, GeForce 930MX ,windows,2.5,54239.0,127.33567457123111,Non-touch
+253,Asus,Notebook,14.0,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.4,50136.0,157.3505121487356,Non-touch
+254,HP,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.9,36763.0,141.21199808219862,Non-touch
+255,Lenovo,Gaming,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce GTX 1050,,2.4,41505.0,141.21199808219862,Non-touch
+256,Asus,Ultrabook,15.6,0,Intel,Core i7,2.8,16,0,512.0,SSD,Nvidia, GeForce GTX 1050 Ti,windows,1.8,105654.0,141.21199808219862,Non-touch
+257,Lenovo,Notebook,15.6,0,Intel,Core i7,1.8,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,2.1,46886.0,141.21199808219862,Non-touch
+258,Acer,Ultrabook,13.3,0,Intel,Core i5,1.2,8,0,256.0,SSD,Intel, HD Graphics 615,windows,1.1,52694.0,165.6321180513006,Non-touch
+259,HP,Notebook,15.6,0,Intel,Core i3,2.0,4,0,500.0,HDD,AMD, Radeon 520,windows,1.9,23373.0,100.45466986113651,Non-touch
+260,HP,Workstation,15.6,0,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, Quadro M1200,windows,2.6,92615.0,141.21199808219862,Non-touch
+261,Dell,Notebook,17.3,0,Intel,Core i7,1.8,8,1024,128.0,Hybrid,AMD, Radeon 530,windows,2.8,57809.0,127.33567457123111,Non-touch
+262,Apple,Ultrabook,13.3,0,Intel,Core i5,2.9,8,0,512.0,SSD,Intel, Iris Graphics 550,macos,1.4,104370.0,202.37276851499232,Non-touch
+263,HP,Notebook,14.0,0,Intel,Celeron Dual,1.6,4,0,32.0,SSD,Intel, HD Graphics 400,windows,1.4,12201.0,111.93520355955211,Non-touch
+264,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,4,0,1024.0,HDD,Intel, HD Graphics 620,windows,1.9,29251.0,141.21199808219862,Non-touch
+265,Asus,Gaming,17.3,0,AMD,Ryzen 1700,3.0,16,1024,256.0,Hybrid,AMD, Radeon RX 580,windows,3.2,82531.0,127.33567457123111,Non-touch
+266,Asus,Gaming,17.3,0,Intel,Core i7,2.8,12,0,1024.0,HDD,Nvidia, GeForce GTX 1050 Ti,linux,3.0,50563.0,127.33567457123111,Non-touch
+267,Toshiba,Notebook,15.6,0,Intel,Core i7,2.5,16,0,512.0,SSD,Nvidia, GeForce 930M,windows,2.4,74752.0,141.21199808219862,Non-touch
+268,Vero,Notebook,14.0,0,Intel,Celeron Dual,1.1,4,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.3,13853.0,157.3505121487356,Non-touch
+269,Dell,Notebook,15.6,0,Intel,Core i7,1.8,8,0,256.0,SSD,AMD, Radeon 520,linux,2.1,39165.0,141.21199808219862,Non-touch
+270,Dell,Notebook,15.6,0,Intel,Core i7,1.8,8,2048,128.0,Hybrid,AMD, Radeon 530,windows,2.0,51730.0,141.21199808219862,Non-touch
+271,Microsoft,Ultrabook,13.5,1,Intel,Core i5,2.5,4,0,128.0,SSD,Intel, HD Graphics 620,windows,1.3,58022.0,200.84255993695703,Touchscreen
+272,Lenovo,Notebook,15.6,0,Intel,Celeron Dual,1.1,4,0,1024.0,HDD,Intel, HD Graphics 500,,2.2,17156.0,100.45466986113651,Non-touch
+273,Xiaomi,Ultrabook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce MX150,,1.3,53275.0,165.6321180513006,Non-touch
+274,Dell,Ultrabook,13.3,0,Intel,Core i7,1.8,20,0,256.0,SSD,AMD, Radeon 530,windows,1.4,50882.0,165.6321180513006,Non-touch
+275,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i7,2.6,16,0,512.0,SSD,Intel, HD Graphics 520,windows,1.4,133147.0,202.37276851499232,Touchscreen
+276,Dell,Notebook,15.6,0,Intel,Core i7,1.8,8,0,256.0,SSD,AMD, Radeon 530,windows,2.2,46354.0,141.21199808219862,Non-touch
+277,Lenovo,Notebook,17.3,0,Intel,Core i5,1.6,8,0,256.0,SSD,Nvidia, GeForce MX150,,2.8,37189.0,106.11306214269258,Non-touch
+278,MSI,Gaming,17.3,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.7,58342.0,127.33567457123111,Non-touch
+279,Dell,Gaming,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,windows,2.7,53227.0,141.21199808219862,Non-touch
+280,Acer,Notebook,14.0,0,Intel,Core i3,2.0,8,0,1024.0,HDD,Intel, HD Graphics 520,windows,2.1,20726.0,111.93520355955211,Non-touch
+281,Dell,2 in 1 Convertible,13.3,1,Intel,Core i7,1.8,8,0,1024.0,HDD,Intel, UHD Graphics 620,windows,1.6,44702.0,165.6321180513006,Touchscreen
+282,Toshiba,Notebook,15.6,0,Intel,Core i7,2.5,8,0,500.0,HDD,Nvidia, GeForce 930M,windows,2.2,43263.0,100.45466986113651,Non-touch
+283,Dell,Notebook,15.6,1,Intel,Core i5,2.5,8,0,1100.0,HDD,Intel, HD Graphics 620,windows,2.4,29697.0,100.45466986113651,Touchscreen
+284,Dell,Notebook,15.6,0,Intel,Core i7,2.7,12,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.3,37992.0,100.45466986113651,Non-touch
+285,Dell,Notebook,17.3,0,Intel,Core i7,1.8,8,1024,128.0,Hybrid,AMD, Radeon 530,linux,2.8,58555.0,127.33567457123111,Non-touch
+286,Asus,Gaming,15.6,0,Intel,Core i7,2.8,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,windows,2.2,50563.0,141.21199808219862,Non-touch
+287,HP,Notebook,17.3,0,Intel,Core i5,1.6,8,0,1024.0,HDD,Nvidia, GeForce 930MX,windows,2.5,48698.0,127.33567457123111,Non-touch
+288,Acer,Notebook,15.6,0,Intel,Core i7,1.8,8,0,1024.0,HDD,Nvidia, GeForce MX130,windows,2.2,39694.0,141.21199808219862,Non-touch
+289,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1100.0,HDD,Intel, HD Graphics 620,,2.2,27652.0,141.21199808219862,Non-touch
+290,Dell,Notebook,14.0,0,Intel,Core i5,2.6,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,76031.0,157.3505121487356,Non-touch
+291,Razer,Gaming,17.3,1,Intel,Core i7,2.9,20,0,1024.0,SSD,Nvidia, GeForce GTX 1080,windows,3.5,200000.0,202.37276851499232,Touchscreen
+292,Dell,Notebook,15.6,0,Intel,Core i7,1.8,8,1024,128.0,Hybrid,Intel, UHD Graphics 620,windows,2.0,45554.0,141.21199808219862,Non-touch
+293,HP,Notebook,15.6,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,windows,1.9,23390.0,100.45466986113651,Non-touch
+294,Acer,Notebook,15.6,0,Intel,Core i3,2.7,4,0,1024.0,HDD,Nvidia, GeForce MX130,windows,2.2,28238.0,141.21199808219862,Non-touch
+295,Lenovo,Notebook,17.3,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,windows,2.8,26054.0,106.11306214269258,Non-touch
+296,Asus,Notebook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,50350.0,157.3505121487356,Non-touch
+297,Lenovo,Notebook,17.3,0,Intel,Core i7,1.8,8,0,1100.0,HDD,Nvidia, GeForce MX150,,2.8,45235.0,127.33567457123111,Non-touch
+298,Lenovo,Notebook,17.3,0,Intel,Core i5,2.5,6,1024,128.0,Hybrid,Nvidia, GeForce GTX 940MX,windows,2.8,38308.0,106.11306214269258,Non-touch
+299,Lenovo,Notebook,17.3,0,Intel,Core i7,2.7,6,1024,128.0,Hybrid,Nvidia, GeForce 940MX,windows,2.8,45768.0,106.11306214269258,Non-touch
+300,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,AMD, Radeon R5 M430,linux,2.3,22804.0,141.21199808219862,Non-touch
+301,HP,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Intel, HD Graphics 620,windows,1.9,34046.0,141.21199808219862,Non-touch
+302,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,8,0,256.0,SSD,Nvidia, GeForce 920MX ,,2.2,26587.0,100.45466986113651,Non-touch
+303,Lenovo,Gaming,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce GTX 1050,windows,2.5,44169.0,141.21199808219862,Non-touch
+304,HP,Notebook,15.6,0,Intel,Pentium Quad,1.6,8,0,1100.0,HDD,Intel, HD Graphics 405,windows,2.0,20726.0,100.45466986113651,Non-touch
+305,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,6,0,256.0,SSD,Intel, HD Graphics 620,windows,2.2,30849.0,141.21199808219862,Non-touch
+306,Dell,Notebook,17.3,0,Intel,Core i5,1.6,8,1024,128.0,Hybrid,AMD, Radeon 530,windows,2.8,57809.0,127.33567457123111,Non-touch
+307,Acer,Notebook,15.6,0,Intel,Core i7,1.8,8,0,256.0,SSD,Nvidia, GeForce MX150,windows,3.0,50669.0,141.21199808219862,Non-touch
+308,Lenovo,Gaming,15.6,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,,2.4,43104.0,141.21199808219862,Non-touch
+309,Acer,Notebook,15.6,1,Intel,Core i7,2.7,12,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.2,35112.0,141.21199808219862,Touchscreen
+310,Dell,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,AMD, Radeon R7 M445,windows,2.3,47899.0,141.21199808219862,Non-touch
+311,Lenovo,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 630,windows,2.0,58448.0,141.21199808219862,Non-touch
+312,HP,Notebook,13.3,0,Intel,Core i5,1.6,8,0,512.0,SSD,Intel, UHD Graphics 620,windows,1.5,51096.0,165.6321180513006,Non-touch
+313,HP,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050,windows,3.4,73473.0,127.33567457123111,Non-touch
+314,HP,Ultrabook,14.0,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,93240.0,157.3505121487356,Non-touch
+315,Asus,Ultrabook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce 940MX,windows,1.7,52055.0,141.21199808219862,Non-touch
+316,Asus,2 in 1 Convertible,15.6,1,Intel,Core i7,2.7,12,2048,512.0,Hybrid,Nvidia, GeForce GT 940MX,windows,2.3,58555.0,141.21199808219862,Touchscreen
+317,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.5,62817.0,141.21199808219862,Non-touch
+318,HP,Notebook,17.3,0,Intel,Core i7,1.8,8,0,256.0,SSD,Nvidia, GeForce 930MX ,windows,2.5,55678.0,127.33567457123111,Non-touch
+319,HP,Notebook,17.3,0,Intel,Core i5,1.6,8,1024,128.0,Hybrid,Nvidia, GeForce 930MX,windows,2.5,52055.0,127.33567457123111,Non-touch
+320,Acer,Notebook,15.6,0,AMD,A9-Series 9420,3.0,4,0,128.0,SSD,AMD, Radeon R5,windows,2.1,22697.0,100.45466986113651,Non-touch
+321,Lenovo,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,Nvidia, GeForce 940MX,,2.2,35112.0,141.21199808219862,Non-touch
+322,Dell,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,512.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.7,98302.0,202.37276851499232,Non-touch
+323,Dell,Ultrabook,15.6,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.9,58403.0,141.21199808219862,Non-touch
+324,Apple,Ultrabook,12.0,0,Intel,Core i5,1.3,8,0,512.0,SSD,Intel, HD Graphics 615,macos,0.9,80453.0,202.37276851499232,Non-touch
+325,Asus,Gaming,17.3,0,AMD,Ryzen 1700,3.0,16,1024,256.0,Hybrid,AMD, Radeon RX 580,windows,3.3,117163.0,127.33567457123111,Non-touch
+326,Acer,Notebook,15.6,0,Intel,Celeron Dual,1.5,2,0,16.0,SSD,Intel, HD Graphics,other,2.2,10603.0,100.45466986113651,Non-touch
+327,Lenovo,Notebook,15.6,0,Intel,Core i5,2.3,4,0,128.0,SSD,Intel, HD Graphics 520,windows,2.1,26267.0,100.45466986113651,Non-touch
+328,HP,Notebook,14.0,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.6,45821.0,157.3505121487356,Non-touch
+329,Acer,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,Nvidia, GeForce 940MX,windows,2.2,39534.0,141.21199808219862,Non-touch
+330,Lenovo,Notebook,17.3,0,AMD,A8-Series 7410,2.2,4,0,128.0,SSD,AMD, Radeon R5,windows,2.6,26054.0,106.11306214269258,Non-touch
+331,Asus,Gaming,17.3,0,Intel,Core i7,2.8,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,windows,3.0,63243.0,127.33567457123111,Non-touch
+332,Dell,2 in 1 Convertible,13.3,1,Intel,Core i7,1.8,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.6,46301.0,165.6321180513006,Touchscreen
+333,HP,Notebook,17.3,0,Intel,Core i3,2.0,8,0,1024.0,HDD,Intel, HD Graphics 520,windows,2.5,26054.0,106.11306214269258,Non-touch
+334,HP,Notebook,15.6,0,AMD,A9-Series 9420,3.0,4,0,256.0,SSD,AMD, Radeon R5,windows,1.9,26053.0,141.21199808219862,Non-touch
+335,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,512.0,Hybrid,Nvidia, GeForce GTX 1060,windows,3.2,93187.0,141.21199808219862,Non-touch
+336,Lenovo,Notebook,15.6,0,AMD,A6-Series 9220,2.5,4,0,128.0,SSD,AMD, R4 Graphics,windows,2.2,21259.0,141.21199808219862,Non-touch
+337,Dell,Notebook,15.6,0,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, GeForce GTX 1050,windows,2.0,97449.0,141.21199808219862,Non-touch
+338,Lenovo,Netbook,11.6,0,Intel,Celeron Quad,1.1,4,0,128.0,SSD,Intel, HD Graphics 500,windows,1.6,29464.0,135.0942111925629,Non-touch
+339,Lenovo,Notebook,15.6,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,2.1,39374.0,141.21199808219862,Non-touch
+340,Acer,Notebook,15.6,0,AMD,A9-Series 9420,3.0,4,0,1024.0,HDD,AMD, Radeon R5,windows,2.1,21046.0,100.45466986113651,Non-touch
+341,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,8,0,1024.0,HDD,Nvidia, GeForce GTX 1060,windows,3.2,69211.0,141.21199808219862,Non-touch
+342,Dell,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.7,71875.0,141.21199808219862,Non-touch
+343,Dell,Notebook,15.6,0,Intel,Celeron Dual,1.6,4,0,500.0,HDD,Intel, HD Graphics 400,windows,1.8,16464.0,100.45466986113651,Non-touch
+344,HP,Ultrabook,15.6,0,Intel,Core i7,1.8,8,0,256.0,SSD,Nvidia, GeForce GTX 940MX,windows,1.8,37243.0,141.21199808219862,Non-touch
+345,Asus,Notebook,14.0,0,Intel,Celeron Dual,1.1,4,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.5,15238.0,111.93520355955211,Non-touch
+346,Acer,Notebook,15.6,0,Intel,Core i7,2.8,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,linux,2.4,45075.0,141.21199808219862,Non-touch
+347,HP,Gaming,17.3,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,3.4,63456.0,127.33567457123111,Non-touch
+348,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,128.0,SSD,Intel, HD Graphics 520,,1.9,21498.0,141.21199808219862,Non-touch
+349,HP,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,31914.0,141.21199808219862,Non-touch
+350,Asus,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.3,88178.0,141.21199808219862,Non-touch
+351,Lenovo,Notebook,20.0,0,Intel,Core i5,1.6,8,1024,256.0,Hybrid,AMD, Radeon RX 550,windows,2.1,60979.0,86.05106133133977,Non-touch
+352,Lenovo,Notebook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce 940MX,windows,1.5,58555.0,157.3505121487356,Non-touch
+353,Acer,Notebook,15.6,0,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, GeForce GTX 1050,linux,2.5,46833.0,141.21199808219862,Non-touch
+354,Asus,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.2,77203.0,141.21199808219862,Non-touch
+355,Asus,Ultrabook,13.3,1,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.1,93181.0,165.6321180513006,Touchscreen
+356,MSI,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,2.8,119827.0,127.33567457123111,Non-touch
+357,Asus,Ultrabook,14.0,0,Intel,Core i7,2.7,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.1,99793.0,157.3505121487356,Non-touch
+358,Toshiba,Ultrabook,13.3,0,Intel,Core i7,2.5,16,0,512.0,SSD,Intel, HD Graphics 520,windows,1.2,93080.0,165.6321180513006,Non-touch
+359,Dell,Ultrabook,13.3,0,Intel,Core i7,1.8,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.2,87859.0,165.6321180513006,Non-touch
+360,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.7,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.1,121585.0,202.37276851499232,Non-touch
+361,Dell,Ultrabook,14.0,0,Intel,Core i7,2.8,8,0,512.0,SSD,Intel, HD Graphics,windows,1.4,89510.0,157.3505121487356,Non-touch
+362,Asus,Gaming,15.6,0,AMD,FX 9830P,3.0,8,0,1024.0,HDD,AMD, Radeon RX 560,windows,2.5,37243.0,141.21199808219862,Non-touch
+363,Lenovo,Notebook,20.0,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.2,21792.0,61.879414889952194,Non-touch
+364,Lenovo,Notebook,11.6,0,Intel,Celeron Dual,1.1,2,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.2,16221.0,135.0942111925629,Non-touch
+365,Lenovo,Notebook,13.3,0,Intel,Core i3,2.4,4,0,128.0,SSD,Intel, HD Graphics 620,windows,1.5,29251.0,165.6321180513006,Non-touch
+366,Lenovo,Workstation,15.6,0,Intel,Core i7,2.8,8,0,512.0,SSD,Nvidia, Quadro M1200,windows,2.7,102564.0,141.21199808219862,Non-touch
+367,Acer,Notebook,15.6,0,Intel,Core i7,1.8,2,0,1024.0,HDD,Nvidia, GeForce MX150,windows,2.2,36710.0,141.21199808219862,Non-touch
+368,Dell,Workstation,15.6,0,Intel,Core i5,2.6,8,0,500.0,HDD,AMD, FirePro W5130M,windows,2.2,72940.0,141.21199808219862,Non-touch
+369,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.8,8,0,512.0,SSD,Nvidia, GeForce GT 940MX,windows,1.7,103523.0,202.37276851499232,Non-touch
+370,HP,Notebook,13.3,0,Intel,Core i7,1.8,16,0,512.0,SSD,Intel, UHD Graphics 620,windows,1.5,63776.0,165.6321180513006,Non-touch
+371,Dell,Workstation,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,Nvidia, Quadro M1200,windows,2.0,113753.0,141.21199808219862,Non-touch
+372,HP,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,AMD, Radeon 520,windows,2.1,24988.0,141.21199808219862,Non-touch
+373,Acer,Notebook,15.6,0,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, GeForce GTX 1050 Ti,linux,2.5,52161.0,141.21199808219862,Non-touch
+374,Dell,Workstation,17.3,0,Intel,Core i7,2.9,16,0,256.0,SSD,Nvidia, Quadro M1200,windows,3.4,153705.0,127.33567457123111,Non-touch
+375,Acer,2 in 1 Convertible,13.3,1,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.6,42038.0,165.6321180513006,Touchscreen
+376,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.4,133680.0,202.37276851499232,Touchscreen
+377,Asus,2 in 1 Convertible,13.3,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,49444.0,165.6321180513006,Touchscreen
+378,Dell,Notebook,15.6,0,Intel,Core i5,2.5,4,0,256.0,SSD,AMD, Radeon R5 M430,linux,2.3,31909.0,141.21199808219862,Non-touch
+379,Lenovo,Notebook,15.6,0,AMD,A10-Series 9600P,2.4,6,0,1024.0,HDD,AMD, Radeon R5 430,windows,2.4,26587.0,141.21199808219862,Non-touch
+380,Asus,Gaming,17.3,0,Intel,Core i7,2.8,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,windows,3.0,55358.0,127.33567457123111,Non-touch
+381,Dell,Notebook,13.3,0,Intel,Core i3,2.0,4,0,128.0,SSD,Intel, HD Graphics 520,windows,1.7,36710.0,117.82653006268643,Non-touch
+382,Asus,Ultrabook,15.6,0,Intel,Core i7,2.7,16,0,512.0,SSD,Nvidia, GeForce 940MX,windows,1.6,78215.0,141.21199808219862,Non-touch
+383,Asus,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,3.0,84768.0,127.33567457123111,Non-touch
+384,HP,Ultrabook,14.0,0,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.4,79920.0,157.3505121487356,Non-touch
+385,Acer,Notebook,15.6,0,Intel,Core i5,1.6,12,0,1024.0,HDD,Nvidia, GeForce MX130,windows,2.2,36976.0,100.45466986113651,Non-touch
+386,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.1,28769.0,100.45466986113651,Non-touch
+387,Asus,Notebook,14.0,0,Intel,Core i3,2.4,4,0,128.0,SSD,Intel, HD Graphics 620,windows,1.3,27120.0,111.93520355955211,Non-touch
+388,Lenovo,Ultrabook,14.0,0,Intel,Core i7,1.8,8,0,256.0,SSD,AMD, Radeon RX 550,windows,1.8,64755.0,157.3505121487356,Non-touch
+389,Asus,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,2.9,113060.0,127.33567457123111,Non-touch
+390,Lenovo,2 in 1 Convertible,15.6,1,Intel,Core i7,2.8,16,0,512.0,SSD,Nvidia, GeForce GTX 1050,windows,2.0,101179.0,202.37276851499232,Touchscreen
+391,MSI,Gaming,17.3,0,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, GeForce GTX 1050 Ti,windows,2.7,71875.0,127.33567457123111,Non-touch
+392,Chuwi,Notebook,12.3,0,Intel,Celeron Quad,1.1,6,0,64.0,Flash Storage,Intel, HD Graphics 500,windows,1.4,23923.0,202.37276851499232,Non-touch
+393,Dell,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,AMD, Radeon R7 M445,linux,2.3,41498.0,141.21199808219862,Non-touch
+394,HP,Notebook,15.6,0,Intel,Core i7,2.9,8,0,256.0,SSD,Intel, HD Graphics 630,windows,2.3,76031.0,141.21199808219862,Non-touch
+395,Lenovo,Notebook,17.3,0,Intel,Core i5,2.5,6,0,1024.0,HDD,Nvidia, GeForce GTX 940M,windows,5.5,34579.0,106.11306214269258,Non-touch
+396,Asus,Notebook,20.0,0,Intel,Core i3,2.4,8,0,1024.0,HDD,Nvidia, GeForce 940MX,linux,2.3,31808.0,61.879414889952194,Non-touch
+397,Dell,Gaming,20.0,0,Intel,Core i7,2.9,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.4,149131.0,107.59009377691324,Non-touch
+398,Dell,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.6,61752.0,141.21199808219862,Non-touch
+399,Dell,Notebook,15.6,0,Intel,Core i7,1.8,8,2048,256.0,Hybrid,AMD, Radeon 530,windows,2.0,60867.0,141.21199808219862,Non-touch
+400,Dell,Ultrabook,14.0,0,Intel,Core i7,2.8,8,0,256.0,SSD,Intel, HD Graphics 620,linux,1.6,58555.0,157.3505121487356,Non-touch
+401,HP,Gaming,17.3,0,Intel,Core i7,2.8,12,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,3.4,106507.0,127.33567457123111,Non-touch
+402,Mediacom,2 in 1 Convertible,11.6,1,Intel,Celeron Dual,1.1,4,0,32.0,SSD,Intel, HD Graphics 500,windows,1.2,15931.0,189.90579052433606,Touchscreen
+403,Samsung,Netbook,11.6,0,Intel,Celeron Dual,1.6,4,0,16.0,Flash Storage,Intel, HD Graphics 400,other,1.2,14332.0,135.0942111925629,Non-touch
+404,Lenovo,Notebook,13.3,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,53813.0,165.6321180513006,Non-touch
+405,Lenovo,Notebook,14.0,0,Intel,Core i3,2.7,4,0,128.0,SSD,Intel, HD Graphics 620,windows,1.7,31915.0,157.3505121487356,Non-touch
+406,Lenovo,Workstation,15.6,0,Intel,Core i7,2.8,16,0,512.0,SSD,Nvidia, GeForce 940MX,windows,2.3,130270.0,202.37276851499232,Non-touch
+407,Asus,Netbook,11.6,0,Intel,Celeron Dual,1.1,4,0,64.0,Flash Storage,Intel, HD Graphics 500,windows,1.2,18115.0,135.0942111925629,Non-touch
+408,Lenovo,Notebook,15.6,0,Intel,Core i7,2.9,16,0,512.0,SSD,Nvidia, Quadro M2200M,windows,2.5,130483.0,141.21199808219862,Non-touch
+409,Asus,Gaming,17.3,0,AMD,Ryzen 1600,3.2,8,1024,256.0,Hybrid,AMD, Radeon RX 580,windows,3.2,90310.0,127.33567457123111,Non-touch
+410,HP,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,AMD, Radeon 520,windows,1.9,32980.0,100.45466986113651,Non-touch
+411,Dell,Gaming,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce GTX 1060,windows,2.7,63670.0,141.21199808219862,Non-touch
+412,HP,Notebook,15.6,0,Intel,Celeron Dual,1.6,4,0,500.0,HDD,Intel, HD Graphics 400,windows,2.1,18488.0,100.45466986113651,Non-touch
+413,Lenovo,2 in 1 Convertible,13.9,1,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.4,85195.0,158.48253022174808,Touchscreen
+414,Asus,Ultrabook,14.0,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,55891.0,157.3505121487356,Non-touch
+415,Google,Ultrabook,12.3,1,Intel,Core i7,1.3,16,0,512.0,SSD,Intel, HD Graphics 615,other,1.1,117163.0,202.37276851499232,Touchscreen
+416,Lenovo,Notebook,14.0,0,Intel,Celeron Dual,1.1,4,0,500.0,HDD,Intel, HD Graphics 500,windows,2.1,15931.0,111.93520355955211,Non-touch
+417,Lenovo,Ultrabook,20.0,0,Intel,Core i7,2.7,20,0,512.0,SSD,Intel, HD Graphics 620,windows,1.3,126913.0,122.3837316712388,Non-touch
+418,Lenovo,Netbook,11.6,0,Intel,Celeron Dual,1.6,4,0,16.0,SSD,Intel, HD Graphics 400,other,1.3,14119.0,135.0942111925629,Non-touch
+419,Acer,2 in 1 Convertible,13.3,1,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.5,45128.0,165.6321180513006,Touchscreen
+420,Lenovo,Notebook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,50563.0,165.6321180513006,Non-touch
+421,Asus,Notebook,15.6,0,Intel,Core i5,2.5,4,0,256.0,SSD,Intel, HD Graphics 620,linux,2.0,29784.0,141.21199808219862,Non-touch
+422,Asus,Notebook,15.6,0,Intel,Core i7,2.7,8,1024,256.0,Hybrid,Intel, HD Graphics 620,windows,2.0,65215.0,141.21199808219862,Non-touch
+423,Lenovo,Notebook,17.3,0,AMD,A6-Series 9220,2.5,8,0,1024.0,HDD,AMD, Radeon R4,windows,2.8,27652.0,106.11306214269258,Non-touch
+424,HP,Ultrabook,15.6,0,AMD,A9-Series 9420,3.0,4,0,256.0,SSD,AMD, Radeon 520,windows,1.9,26587.0,141.21199808219862,Non-touch
+425,Acer,Notebook,15.6,0,Intel,Core i5,1.6,4,0,1024.0,HDD,Nvidia, GeForce MX150,windows,2.2,32661.0,141.21199808219862,Non-touch
+426,Dell,Notebook,15.6,0,Intel,Core i5,1.6,4,0,256.0,SSD,AMD, Radeon 530,windows,2.2,39907.0,141.21199808219862,Non-touch
+427,Lenovo,Notebook,15.6,0,Intel,Core i7,1.8,8,0,256.0,SSD,AMD, Radeon RX 550,windows,2.1,65511.0,141.21199808219862,Non-touch
+428,HP,Ultrabook,13.3,0,Intel,Core i7,2.7,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.3,70489.0,165.6321180513006,Non-touch
+429,Lenovo,Ultrabook,12.5,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,76137.0,176.23257360658386,Non-touch
+430,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,,2.4,61219.0,141.21199808219862,Non-touch
+431,Lenovo,Notebook,15.6,0,Intel,Pentium Quad,1.1,4,0,128.0,SSD,Intel, HD Graphics 505,windows,2.2,18595.0,141.21199808219862,Non-touch
+432,Lenovo,Notebook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.9,49977.0,157.3505121487356,Non-touch
+433,Dell,Ultrabook,13.3,1,Intel,Core i5,2.5,8,0,128.0,SSD,Intel, HD Graphics 620,windows,1.3,47899.0,165.6321180513006,Touchscreen
+434,HP,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.2,58555.0,141.21199808219862,Non-touch
+435,Dell,Workstation,15.6,1,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, Quadro M1200,windows,1.8,144495.0,202.37276851499232,Touchscreen
+436,Acer,Notebook,15.6,0,Intel,Core i7,2.7,4,0,500.0,HDD,Nvidia, GeForce 940MX,windows,2.2,34046.0,141.21199808219862,Non-touch
+437,Dell,Notebook,14.0,0,Intel,Core i5,2.8,8,0,256.0,SSD,Nvidia, GeForce 930MX,windows,1.6,62817.0,157.3505121487356,Non-touch
+438,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.2,44542.0,141.21199808219862,Non-touch
+439,Acer,Notebook,15.6,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,linux,2.4,23539.0,100.45466986113651,Non-touch
+440,Dell,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,AMD, Radeon R5 M430,linux,2.2,31963.0,141.21199808219862,Non-touch
+441,Dell,Notebook,15.6,0,Intel,Core i7,1.8,16,2048,256.0,Hybrid,AMD, Radeon 530,windows,2.2,64961.0,141.21199808219862,Non-touch
+442,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.7,16,0,1024.0,SSD,Intel, HD Graphics 620,windows,1.1,139860.0,202.37276851499232,Non-touch
+443,Dell,Workstation,15.6,0,Intel,Xeon E3-1505M,3.0,8,1024,64.0,HDD,Nvidia, Quadro M620,windows,2.2,106187.0,141.21199808219862,Non-touch
+444,Xiaomi,Notebook,15.6,0,Intel,Core i7,1.8,16,0,256.0,SSD,Nvidia, GeForce MX150,,2.0,74589.0,141.21199808219862,Non-touch
+445,Lenovo,Notebook,15.6,0,Intel,Celeron Dual,1.1,4,0,1024.0,HDD,Intel, HD Graphics 500,windows,2.2,16304.0,100.45466986113651,Non-touch
+446,MSI,Gaming,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce GTX 1050,windows,2.2,54758.0,141.21199808219862,Non-touch
+447,Asus,Netbook,11.6,0,Intel,Celeron Dual,1.1,2,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.1,13054.0,135.0942111925629,Non-touch
+448,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,256.0,SSD,AMD, Radeon R5 M430,linux,2.2,25841.0,141.21199808219862,Non-touch
+449,HP,Notebook,15.6,1,Intel,Core i5,1.6,4,0,1024.0,HDD,Intel, UHD Graphics 620,windows,2.0,27784.0,100.45466986113651,Touchscreen
+450,Microsoft,Ultrabook,13.5,1,Intel,Core i7,2.5,16,0,512.0,SSD,Intel, Iris Plus Graphics 640,windows,1.3,137942.0,200.84255993695703,Touchscreen
+451,Asus,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.9,81465.0,127.33567457123111,Non-touch
+452,Asus,Notebook,15.6,0,Intel,Core i3,2.4,6,0,256.0,SSD,Nvidia, GeForce 920M,windows,2.0,30743.0,141.21199808219862,Non-touch
+453,Asus,Gaming,15.6,0,Intel,Core i7,2.8,20,0,512.0,SSD,Nvidia, GeForce GTX1080,windows,2.2,158135.0,141.21199808219862,Non-touch
+454,HP,Notebook,15.6,0,Intel,Core i5,2.5,8,0,128.0,SSD,Intel, HD Graphics 620,windows,1.9,31382.0,100.45466986113651,Non-touch
+455,HP,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce 930MX,windows,2.0,47366.0,141.21199808219862,Non-touch
+456,Dell,Workstation,15.6,0,Intel,Core i7,2.7,16,0,256.0,SSD,Nvidia, Quadro M620,windows,2.2,105228.0,141.21199808219862,Non-touch
+457,Asus,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX1050 Ti,windows,3.0,80133.0,127.33567457123111,Non-touch
+458,HP,Workstation,15.6,0,Intel,Core i7,2.9,8,0,512.0,SSD,Intel, HD Graphics 620,windows,2.3,81732.0,141.21199808219862,Non-touch
+459,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,3.2,74539.0,141.21199808219862,Non-touch
+460,Lenovo,Notebook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.7,71662.0,157.3505121487356,Non-touch
+461,HP,Gaming,15.6,0,Intel,Core i7,2.8,12,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.6,66547.0,141.21199808219862,Non-touch
+462,HP,Ultrabook,13.3,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,74539.0,165.6321180513006,Non-touch
+463,HP,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,AMD, Radeon 530,windows,1.9,38308.0,141.21199808219862,Non-touch
+464,Dell,Notebook,14.0,0,Intel,Core i5,2.6,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.6,68184.0,157.3505121487356,Non-touch
+465,HP,Notebook,15.6,0,AMD,E-Series E2-9000e,1.5,4,0,500.0,HDD,AMD, Radeon R2,windows,2.1,18595.0,141.21199808219862,Non-touch
+466,Dell,Notebook,15.6,0,Intel,Core i7,1.8,8,1024,128.0,Hybrid,AMD, Radeon 530,windows,2.4,52161.0,141.21199808219862,Non-touch
+467,HP,Notebook,15.6,0,Intel,Core i3,2.0,4,0,128.0,SSD,Intel, HD Graphics 520,windows,1.6,36710.0,100.45466986113651,Non-touch
+468,Dell,Notebook,15.6,0,Intel,Core i5,1.6,8,0,1024.0,HDD,AMD, Radeon 520,linux,2.2,34472.0,141.21199808219862,Non-touch
+469,Dell,2 in 1 Convertible,11.6,1,Intel,Pentium Quad,1.6,4,0,500.0,HDD,Intel, HD Graphics 405,windows,1.5,25521.0,135.0942111925629,Touchscreen
+470,Dell,Notebook,17.3,0,Intel,Core i5,1.6,8,1024,128.0,Hybrid,AMD, Radeon 530,linux,2.8,47366.0,127.33567457123111,Non-touch
+471,Dell,Notebook,17.3,0,Intel,Core i7,2.7,8,0,1024.0,HDD,Nvidia, GeForce GTX 1060,windows,4.4,109011.0,127.33567457123111,Non-touch
+472,Lenovo,Notebook,20.0,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,2.0,71395.0,91.7877987534291,Non-touch
+473,Microsoft,Ultrabook,13.5,1,Intel,Core M,2.2,4,0,128.0,SSD,Intel, HD Graphics 615,windows,1.3,52694.0,200.84255993695703,Touchscreen
+474,Lenovo,Notebook,15.6,0,Intel,Core i7,2.7,4,0,1024.0,HDD,Nvidia, GeForce 920MX,windows,2.2,42571.0,141.21199808219862,Non-touch
+475,Dell,2 in 1 Convertible,12.5,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,88978.0,176.23257360658386,Touchscreen
+476,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,8,0,1100.0,HDD,Nvidia, GeForce 920MX ,,2.2,24456.0,100.45466986113651,Non-touch
+477,Dell,Workstation,15.6,1,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, Quadro M620,windows,2.1,93933.0,141.21199808219862,Touchscreen
+478,Dell,Notebook,15.6,0,Intel,Core i5,2.5,4,0,500.0,HDD,AMD, Radeon R5 M430,windows,2.3,31169.0,141.21199808219862,Non-touch
+479,HP,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.8,64948.0,141.21199808219862,Non-touch
+480,Dell,Notebook,15.6,0,Intel,Core i5,2.8,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.9,73367.0,141.21199808219862,Non-touch
+481,Microsoft,Ultrabook,20.0,1,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, Iris Plus Graphics 640,windows,1.3,95851.0,80.93655400444537,Touchscreen
+482,HP,Notebook,15.6,0,Intel,Core i3,2.4,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.1,35617.0,100.45466986113651,Non-touch
+483,Dell,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.4,160520.0,127.33567457123111,Non-touch
+484,HP,Notebook,17.3,0,Intel,Core i3,2.0,8,0,256.0,SSD,Intel, HD Graphics 520,windows,2.5,34094.0,106.11306214269258,Non-touch
+485,Acer,Notebook,14.0,0,Intel,Celeron Quad,1.1,4,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.6,17529.0,157.3505121487356,Non-touch
+486,Toshiba,Notebook,15.6,0,Intel,Core i5,2.5,8,0,500.0,HDD,Intel, HD Graphics 620,windows,2.0,45821.0,141.21199808219862,Non-touch
+487,Acer,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Nvidia, GeForce 940MX,windows,2.2,28984.0,141.21199808219862,Non-touch
+488,MSI,Gaming,17.3,0,Intel,Core i7,2.7,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 970M,windows,4.1,117163.0,127.33567457123111,Non-touch
+489,Asus,Notebook,15.6,0,Intel,Core i7,2.7,8,1024,256.0,Hybrid,Nvidia, GeForce GTX 960M,windows,2.0,69211.0,202.37276851499232,Non-touch
+490,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,AMD, Radeon R5 M420,linux,2.2,24775.0,100.45466986113651,Non-touch
+491,Acer,Netbook,11.6,0,Intel,Celeron Dual,1.6,4,0,128.0,SSD,Intel, HD Graphics 400,windows,1.4,23177.0,135.0942111925629,Non-touch
+492,Mediacom,Notebook,13.3,0,Intel,Celeron Quad,1.1,4,0,32.0,SSD,Intel, HD Graphics 500,windows,1.2,19660.0,165.6321180513006,Non-touch
+493,MSI,Gaming,15.6,0,Intel,Core i7,2.8,16,2048,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,1.8,122491.0,202.37276851499232,Non-touch
+494,Asus,Gaming,15.6,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.3,87859.0,141.21199808219862,Non-touch
+495,Dell,Gaming,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,windows,2.6,43636.0,141.21199808219862,Non-touch
+496,Toshiba,Notebook,15.6,0,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,2.2,74539.0,141.21199808219862,Non-touch
+497,Dell,Notebook,15.6,0,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, GeForce 930MX,windows,1.9,72940.0,141.21199808219862,Non-touch
+498,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,6,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.4,30050.0,141.21199808219862,Non-touch
+499,Lenovo,Notebook,15.6,0,AMD,A9-Series 9420,2.9,4,0,256.0,SSD,AMD, Radeon 530,windows,2.2,21259.0,141.21199808219862,Non-touch
+500,Dell,Notebook,15.6,0,Intel,Core i5,1.6,8,0,256.0,SSD,AMD, Radeon 530,windows,2.2,42486.0,141.21199808219862,Non-touch
+501,Asus,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.4,39907.0,141.21199808219862,Non-touch
+502,Lenovo,2 in 1 Convertible,15.6,1,Intel,Core i7,2.8,8,0,256.0,SSD,Intel, HD Graphics 630,windows,2.0,69211.0,141.21199808219862,Touchscreen
+503,HP,Notebook,15.6,0,Intel,Pentium Quad,1.6,4,0,256.0,SSD,Intel, HD Graphics 405,windows,1.9,21258.0,141.21199808219862,Non-touch
+504,Lenovo,Notebook,15.6,0,AMD,A12-Series 9720P,3.6,8,0,1024.0,HDD,AMD, Radeon R7,windows,2.2,22857.0,100.45466986113651,Non-touch
+505,Lenovo,Notebook,14.0,0,Intel,Core i7,2.7,8,0,512.0,SSD,AMD, Radeon R7 M460,,1.5,42571.0,157.3505121487356,Non-touch
+506,Acer,Notebook,14.0,0,Intel,Pentium Quad,1.6,4,0,128.0,Flash Storage,Intel, HD Graphics 405,windows,1.6,18595.0,111.93520355955211,Non-touch
+507,HP,Gaming,17.3,0,Intel,Core i7,2.8,12,0,1024.0,HDD,Nvidia, GeForce GTX 1060,windows,2.6,95851.0,127.33567457123111,Non-touch
+508,Lenovo,Notebook,15.6,0,Intel,Core i7,2.9,8,0,256.0,SSD,Nvidia, Quadro M2200M,windows,2.7,111355.0,141.21199808219862,Non-touch
+509,Lenovo,Notebook,15.6,0,Intel,Xeon E3-1535M,3.1,20,0,1024.0,SSD,Nvidia, Quadro M2200M,windows,2.5,200000.0,202.37276851499232,Non-touch
+510,Lenovo,Notebook,14.0,0,Intel,Core i7,2.7,8,0,256.0,SSD,Nvidia, GeForce 940MX,windows,1.9,45768.0,157.3505121487356,Non-touch
+511,Asus,Notebook,15.6,0,Intel,Pentium Quad,1.1,4,0,500.0,HDD,Intel, HD Graphics 500,windows,2.0,16197.0,100.45466986113651,Non-touch
+512,Dell,Gaming,15.6,0,Intel,Core i7,2.6,16,0,1024.0,HDD,Nvidia, GeForce GTX 960<U+039C>,windows,2.6,46834.0,141.21199808219862,Non-touch
+513,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,4,1024,1024.0,HDD,Intel, HD Graphics 620,windows,2.1,33111.0,141.21199808219862,Non-touch
+514,Dell,Ultrabook,13.3,1,Intel,Core i7,1.8,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.2,74539.0,202.37276851499232,Touchscreen
+515,Dell,Notebook,14.0,0,Intel,Core i3,2.0,4,0,128.0,SSD,Intel, HD Graphics 520,windows,1.6,39207.0,157.3505121487356,Non-touch
+516,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,,1.9,23976.0,100.45466986113651,Non-touch
+517,Acer,Notebook,15.6,0,Intel,Core i3,2.0,4,0,500.0,HDD,Nvidia, GeForce GTX 940MX,windows,2.2,24988.0,100.45466986113651,Non-touch
+518,HP,Ultrabook,13.3,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,61006.0,202.37276851499232,Non-touch
+519,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.2,42358.0,141.21199808219862,Non-touch
+520,Acer,Gaming,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,linux,2.4,42517.0,141.21199808219862,Non-touch
+521,Acer,2 in 1 Convertible,13.3,1,Intel,Core i5,1.6,1,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.6,53227.0,165.6321180513006,Touchscreen
+522,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,linux,2.2,23651.0,100.45466986113651,Non-touch
+523,Asus,Notebook,15.6,0,AMD,E-Series 7110,1.8,4,0,500.0,HDD,AMD, Radeon R2 Graphics,windows,2.0,18595.0,100.45466986113651,Non-touch
+524,Lenovo,Workstation,15.6,0,Intel,Core i7,2.5,16,0,512.0,SSD,Nvidia, Quadro M520M,windows,2.2,98834.0,141.21199808219862,Non-touch
+525,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,linux,2.3,19128.0,100.45466986113651,Non-touch
+526,HP,Notebook,15.6,0,Intel,Core i3,2.4,4,0,128.0,SSD,Intel, HD Graphics 620,windows,2.1,37589.0,141.21199808219862,Non-touch
+527,Dell,Notebook,15.6,0,Intel,Core i5,1.6,8,0,1100.0,HDD,AMD, Radeon 530,windows,2.0,40440.0,141.21199808219862,Non-touch
+528,Dell,Notebook,15.6,0,Intel,Core i5,2.6,4,0,500.0,HDD,Intel, HD Graphics 620,linux,1.9,46300.0,100.45466986113651,Non-touch
+529,Lenovo,Notebook,14.0,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,1.9,41825.0,157.3505121487356,Non-touch
+530,Lenovo,Notebook,14.0,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.8,63456.0,157.3505121487356,Non-touch
+531,HP,Gaming,17.3,0,Intel,Core i7,2.8,12,0,1024.0,HDD,Nvidia, GeForce GTX 1060,windows,3.8,90523.0,127.33567457123111,Non-touch
+532,Asus,Gaming,17.3,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,3.0,62231.0,127.33567457123111,Non-touch
+533,Lenovo,Notebook,15.6,0,Intel,Core i5,2.3,4,0,1024.0,HDD,Intel, HD Graphics 520,,2.2,24634.0,141.21199808219862,Non-touch
+534,HP,Notebook,17.3,0,AMD,A10-Series 9620P,2.5,6,0,1100.0,HDD,AMD, Radeon 530,windows,2.7,34899.0,127.33567457123111,Non-touch
+535,HP,Ultrabook,15.6,0,Intel,Core i7,2.7,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.8,74006.0,141.21199808219862,Non-touch
+536,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.6,12,0,256.0,SSD,Intel, HD Graphics 520,windows,1.4,98994.0,202.37276851499232,Non-touch
+537,HP,Notebook,15.6,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,windows,1.9,21152.0,141.21199808219862,Non-touch
+538,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.5,66547.0,141.21199808219862,Non-touch
+539,MSI,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,2.9,120832.0,141.21199808219862,Non-touch
+540,Lenovo,Notebook,15.6,0,Intel,Core i7,2.7,8,0,512.0,SSD,Intel, HD Graphics 620,windows,2.0,92121.0,141.21199808219862,Non-touch
+541,Dell,Notebook,14.0,0,Intel,Core i5,2.8,8,0,256.0,SSD,Nvidia, GeForce 930MX,linux,1.6,58022.0,157.3505121487356,Non-touch
+542,Acer,2 in 1 Convertible,11.6,1,Intel,Celeron Quad,1.6,4,0,32.0,Flash Storage,Intel, HD Graphics 400,other,1.3,20193.0,135.0942111925629,Touchscreen
+543,HP,2 in 1 Convertible,13.3,1,Intel,Core i7,1.8,8,0,512.0,SSD,Intel, UHD Graphics 620,windows,1.3,106507.0,202.37276851499232,Touchscreen
+544,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,128.0,SSD,Intel, HD Graphics 520,windows,2.2,26587.0,141.21199808219862,Non-touch
+545,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Intel, HD Graphics 620,linux,2.0,38681.0,141.21199808219862,Non-touch
+546,HP,Notebook,14.0,0,Intel,Core i5,2.6,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.3,59887.0,111.93520355955211,Non-touch
+547,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.9,59513.0,141.21199808219862,Non-touch
+548,Asus,Notebook,14.0,0,Intel,Celeron Dual,1.1,4,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.5,15877.0,157.3505121487356,Non-touch
+549,Lenovo,Notebook,14.0,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.7,78055.0,157.3505121487356,Non-touch
+550,Dell,Notebook,15.6,0,Intel,Core i5,2.6,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.9,76012.0,141.21199808219862,Non-touch
+551,HP,Notebook,15.6,0,Intel,Core i5,2.5,8,0,500.0,HDD,AMD, FirePro W4190M ,windows,1.9,61485.0,141.21199808219862,Non-touch
+552,Dell,Notebook,15.6,0,Intel,Core i5,1.6,4,0,1024.0,HDD,AMD, Radeon 530,windows,2.2,41345.0,141.21199808219862,Non-touch
+553,Lenovo,Notebook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce 920MX,windows,1.9,45665.0,157.3505121487356,Non-touch
+554,Dell,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.4,143803.0,127.33567457123111,Non-touch
+555,Google,Ultrabook,12.3,1,Intel,Core i5,1.2,8,0,128.0,SSD,Intel, HD Graphics 615,other,1.1,67932.0,202.37276851499232,Touchscreen
+556,Fujitsu,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.2,42571.0,100.45466986113651,Non-touch
+557,Dell,Notebook,15.6,0,Intel,Core i5,2.6,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.9,62817.0,141.21199808219862,Non-touch
+558,HP,Notebook,17.3,0,Intel,Core i3,2.0,8,0,1024.0,HDD,Intel, HD Graphics 520,windows,2.7,28992.0,106.11306214269258,Non-touch
+559,Dell,Ultrabook,13.3,1,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.4,98134.0,165.6321180513006,Touchscreen
+560,HP,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,1.9,49657.0,100.45466986113651,Non-touch
+561,HP,Notebook,17.3,0,Intel,Core i7,2.7,8,0,1024.0,HDD,Nvidia, GeForce 930MX,windows,2.6,68198.0,127.33567457123111,Non-touch
+562,Mediacom,Notebook,14.0,0,Intel,Atom x5-Z8350,1.4,2,0,32.0,Flash Storage,Intel, HD Graphics,windows,1.4,12734.0,157.3505121487356,Non-touch
+563,Asus,Notebook,15.6,0,Intel,Celeron Dual,1.1,4,0,500.0,HDD,Intel, HD Graphics 500,linux,2.0,11935.0,100.45466986113651,Non-touch
+564,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,4,0,128.0,SSD,Intel, HD Graphics 620,,2.2,24935.0,141.21199808219862,Non-touch
+565,Asus,Notebook,15.6,0,Intel,Core i7,2.6,12,1024,128.0,Hybrid,Intel, HD Graphics 530,windows,2.1,69211.0,202.37276851499232,Non-touch
+566,Asus,2 in 1 Convertible,13.3,1,Intel,Core i5,2.5,6,0,1024.0,HDD,Intel, HD Graphics 620,windows,1.5,34046.0,165.6321180513006,Touchscreen
+567,Dell,Notebook,14.0,0,Intel,Core i3,2.3,8,0,128.0,SSD,Intel, HD Graphics 520,windows,1.8,39427.0,111.93520355955211,Non-touch
+568,Asus,Ultrabook,14.0,0,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,5.5,101232.0,157.3505121487356,Non-touch
+569,Dell,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.6,78801.0,141.21199808219862,Non-touch
+570,Lenovo,Notebook,15.6,0,Intel,Core i5,1.6,4,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.8,44169.0,141.21199808219862,Non-touch
+571,Mediacom,Notebook,13.3,0,Intel,Atom x5-Z8350,1.4,4,0,32.0,Flash Storage,Intel, HD Graphics,windows,1.4,13586.0,165.6321180513006,Non-touch
+572,Dell,Workstation,10.0,0,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, Quadro M1200,windows,1.8,128298.0,202.37276851499232,Non-touch
+573,Lenovo,Notebook,15.6,0,AMD,A6-Series 7310,2.0,4,0,500.0,HDD,AMD, Radeon R4,windows,2.2,15877.0,100.45466986113651,Non-touch
+574,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Nvidia, GeForce 920MX ,windows,2.2,30849.0,141.21199808219862,Non-touch
+575,Lenovo,Notebook,17.3,0,Intel,Core i7,2.7,6,1024,128.0,Hybrid,Nvidia, GeForce 940MX,windows,2.8,50563.0,106.11306214269258,Non-touch
+576,Lenovo,Notebook,14.0,0,Intel,Core i5,2.5,8,0,180.0,SSD,Intel, HD Graphics 620,windows,1.7,72674.0,157.3505121487356,Non-touch
+577,Mediacom,Notebook,14.0,0,Intel,Atom Z8350,1.9,4,0,32.0,HDD,Intel, HD Graphics 400,windows,1.4,14119.0,161.72539083525606,Non-touch
+578,HP,Notebook,15.6,0,AMD,A10-Series A10-9620P,2.5,6,0,128.0,SSD,AMD, Radeon 530,windows,1.9,30311.0,141.21199808219862,Non-touch
+579,Asus,Notebook,15.6,0,Intel,Celeron Dual,1.1,8,0,1024.0,HDD,Intel, HD Graphics 500,windows,2.0,21259.0,100.45466986113651,Non-touch
+580,HP,Notebook,17.3,0,Intel,Core i7,2.7,8,0,256.0,SSD,Nvidia, GeForce 930MX,windows,2.6,63936.0,127.33567457123111,Non-touch
+581,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,AMD, Radeon R5 M420,windows,2.2,32922.0,100.45466986113651,Non-touch
+582,Asus,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,windows,2.0,48305.0,141.21199808219862,Non-touch
+583,Toshiba,Notebook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.1,89084.0,165.6321180513006,Non-touch
+584,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.5,20,0,512.0,SSD,Intel, HD Graphics 520,windows,1.2,89864.0,202.37276851499232,Non-touch
+585,Dell,Ultrabook,13.3,1,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.2,99580.0,202.37276851499232,Touchscreen
+586,Dell,Notebook,15.6,0,Intel,Core i7,1.8,8,0,512.0,SSD,Nvidia, GeForce 940MX,windows,2.2,67239.0,141.21199808219862,Non-touch
+587,HP,2 in 1 Convertible,13.3,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.6,44574.0,117.82653006268643,Touchscreen
+588,Lenovo,Notebook,14.0,0,Intel,Celeron Dual,1.6,2,0,32.0,Flash Storage,Intel, HD Graphics 400,windows,1.4,13267.0,111.93520355955211,Non-touch
+589,Lenovo,Ultrabook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,79867.0,157.3505121487356,Non-touch
+590,Lenovo,2 in 1 Convertible,13.3,1,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,93635.0,165.6321180513006,Touchscreen
+591,Acer,2 in 1 Convertible,11.6,1,Intel,Celeron Dual,2.0,4,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.3,18595.0,189.90579052433606,Touchscreen
+592,Dell,Gaming,17.3,0,Intel,Core i7,2.8,20,1024,1024.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.4,194973.0,202.37276851499232,Non-touch
+593,Dell,Notebook,15.6,1,Intel,Core i7,2.8,16,0,1024.0,SSD,Nvidia, GeForce GTX 1050,windows,2.1,127819.0,202.37276851499232,Touchscreen
+594,Dell,Notebook,15.6,0,Intel,Core i3,2.4,4,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.2,31254.0,100.45466986113651,Non-touch
+595,Lenovo,Notebook,15.6,0,Intel,Core i3,2.7,4,0,128.0,SSD,Intel, HD Graphics 620,windows,2.1,33566.0,141.21199808219862,Non-touch
+596,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050M,windows,2.5,59088.0,141.21199808219862,Non-touch
+597,MSI,Gaming,17.3,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.7,71847.0,127.33567457123111,Non-touch
+598,HP,Notebook,13.3,0,Intel,Core i5,1.6,4,0,128.0,SSD,Intel, UHD Graphics 620,windows,1.5,38681.0,165.6321180513006,Non-touch
+599,HP,Ultrabook,13.3,1,Intel,Core M,1.2,16,0,512.0,SSD,Intel, HD Graphics 515,windows,1.2,104695.0,202.37276851499232,Touchscreen
+600,HP,Notebook,17.0,0,AMD,A9-Series 9420,3.0,8,0,1024.0,HDD,AMD, Radeon R5,windows,2.6,27754.0,107.98564559226952,Non-touch
+601,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,4,0,1024.0,HDD,Intel, HD Graphics 620,,1.9,26102.0,100.45466986113651,Non-touch
+602,Lenovo,Notebook,17.3,0,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, Quadro M620M,windows,3.4,159787.0,127.33567457123111,Non-touch
+603,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.1,130536.0,157.3505121487356,Non-touch
+604,Dell,2 in 1 Convertible,13.3,1,Intel,Core i3,2.4,4,0,1024.0,HDD,Intel, HD Graphics 620,windows,1.7,34579.0,165.6321180513006,Touchscreen
+605,Chuwi,Notebook,15.6,0,Intel,Atom x5-Z8350,1.4,4,0,64.0,Flash Storage,Intel, HD Graphics,windows,1.9,13261.0,141.21199808219862,Non-touch
+606,Asus,Gaming,15.6,0,Intel,Core i7,2.8,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050 Ti,,2.5,62284.0,141.21199808219862,Non-touch
+607,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,AMD, Radeon R7 M445,linux,2.3,31410.0,100.45466986113651,Non-touch
+608,Acer,Notebook,15.6,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.4,23976.0,100.45466986113651,Non-touch
+609,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,128.0,SSD,Intel, HD Graphics 520,windows,2.3,30103.0,100.45466986113651,Non-touch
+610,Asus,Notebook,15.6,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.5,44702.0,141.21199808219862,Non-touch
+611,HP,Notebook,15.6,0,AMD,A9-Series 9420,3.0,4,0,1024.0,HDD,AMD, Radeon 520,windows,2.1,26054.0,141.21199808219862,Non-touch
+612,Lenovo,Notebook,14.0,0,Intel,Celeron Dual,1.6,4,0,32.0,Flash Storage,Intel, HD Graphics,windows,1.4,14599.0,111.93520355955211,Non-touch
+613,Lenovo,Notebook,14.0,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.8,55891.0,157.3505121487356,Non-touch
+614,Acer,Gaming,17.3,0,Intel,Core i7,2.6,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,4.2,103097.0,127.33567457123111,Non-touch
+615,Acer,Ultrabook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, Graphics 620,windows,1.8,48964.0,157.3505121487356,Non-touch
+616,Dell,Notebook,15.6,0,Intel,Core i5,2.5,12,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.3,34579.0,100.45466986113651,Non-touch
+617,Razer,Gaming,14.0,0,Intel,Core i7,2.8,16,0,256.0,SSD,Nvidia, GeForce GTX 1060,windows,2.0,138475.0,157.3505121487356,Non-touch
+618,Dell,Ultrabook,13.3,1,Intel,Core i5,1.6,8,0,128.0,SSD,Intel, UHD Graphics 620,windows,1.2,85195.0,202.37276851499232,Touchscreen
+619,HP,Notebook,15.6,0,AMD,A9-Series A9-9420,3.0,6,1024,128.0,Hybrid,AMD, Radeon 520,windows,2.1,34632.0,141.21199808219862,Non-touch
+620,Dell,Workstation,15.6,0,Intel,Core i7,2.7,16,0,512.0,SSD,Nvidia, Quadro M620,windows,2.2,124569.0,141.21199808219862,Non-touch
+621,Toshiba,Notebook,13.3,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.2,64629.0,165.6321180513006,Non-touch
+622,Dell,Notebook,15.6,0,Intel,Core i5,2.6,4,0,500.0,HDD,Intel, HD Graphics 620,windows,1.9,51096.0,100.45466986113651,Non-touch
+623,Acer,Notebook,15.6,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.4,29784.0,100.45466986113651,Non-touch
+624,Lenovo,Ultrabook,12.5,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,84396.0,176.23257360658386,Non-touch
+625,Lenovo,Notebook,15.6,0,Intel,Pentium Quad,1.1,4,0,500.0,HDD,Intel, HD Graphics 505,windows,2.2,18328.0,141.21199808219862,Non-touch
+626,Dell,Notebook,15.6,0,Intel,Core i7,2.8,16,0,512.0,SSD,Nvidia, GeForce GTX 1050,windows,2.1,101179.0,141.21199808219862,Non-touch
+627,Lenovo,Notebook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,51149.0,165.6321180513006,Non-touch
+628,Asus,Gaming,17.3,0,Intel,Core i7,2.7,20,0,512.0,SSD,Nvidia, GeForce GTX 1080,windows,3.8,149131.0,127.33567457123111,Non-touch
+629,Lenovo,Notebook,15.6,0,Intel,Core i7,2.7,4,0,1024.0,HDD,Intel, HD Graphics 620,windows,1.9,41505.0,141.21199808219862,Non-touch
+630,Lenovo,Ultrabook,12.5,0,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.4,95797.0,176.23257360658386,Non-touch
+631,Acer,Gaming,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,linux,2.4,37776.0,141.21199808219862,Non-touch
+632,Lenovo,Notebook,14.0,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.0,52747.0,111.93520355955211,Non-touch
+633,HP,Workstation,15.6,0,Intel,Core i7,2.8,16,0,256.0,SSD,Nvidia, Quadro M2200,windows,2.6,128884.0,141.21199808219862,Non-touch
+634,Dell,Ultrabook,13.3,0,Intel,Core i5,1.6,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,1.2,77251.0,165.6321180513006,Non-touch
+635,Asus,Ultrabook,12.5,0,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,0.9,103896.0,176.23257360658386,Non-touch
+636,Dell,2 in 1 Convertible,13.3,1,Intel,Core i5,1.6,8,0,1024.0,HDD,Intel, UHD Graphics 620,windows,1.6,35112.0,165.6321180513006,Touchscreen
+637,HP,Workstation,17.3,0,Intel,Core i5,2.8,8,0,500.0,HDD,Nvidia, Quadro M1200,windows,3.1,99154.0,106.11306214269258,Non-touch
+638,MSI,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,1.8,111594.0,141.21199808219862,Non-touch
+639,MSI,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.2,63499.0,141.21199808219862,Non-touch
+640,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce 940MX,windows,2.3,53919.0,141.21199808219862,Non-touch
+641,HP,Notebook,14.0,0,Intel,Pentium Quad,1.6,8,0,1100.0,HDD,Intel, HD Graphics 405,windows,1.9,20726.0,111.93520355955211,Non-touch
+642,Acer,Notebook,15.6,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.4,21887.0,100.45466986113651,Non-touch
+643,HP,Notebook,15.6,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,,1.9,19442.0,100.45466986113651,Non-touch
+644,HP,Notebook,15.6,0,AMD,A9-Series A9-9420,3.0,6,0,256.0,SSD,AMD, Radeon 530,windows,2.0,34579.0,141.21199808219862,Non-touch
+645,Dell,Notebook,15.6,0,Intel,Core i7,2.7,8,1024,128.0,Hybrid,Nvidia, GeForce 940MX,windows,2.0,64309.0,141.21199808219862,Non-touch
+646,Toshiba,Notebook,15.6,0,Intel,Core i5,2.5,8,0,500.0,HDD,Intel, HD Graphics 620,windows,2.0,56690.0,141.21199808219862,Non-touch
+647,Dell,Notebook,15.6,0,Intel,Core i3,2.0,8,0,256.0,SSD,Intel, HD Graphics 520,windows,2.0,35431.0,100.45466986113651,Non-touch
+648,Dell,Notebook,15.6,0,Intel,Core i7,1.8,8,0,256.0,SSD,AMD, Radeon 530,windows,5.5,48964.0,141.21199808219862,Non-touch
+649,Toshiba,Notebook,14.0,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,81785.0,157.3505121487356,Touchscreen
+650,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.3,44222.0,141.21199808219862,Non-touch
+651,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.7,53227.0,157.3505121487356,Touchscreen
+652,Lenovo,Notebook,15.6,0,Intel,Core i5,1.6,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.1,36497.0,141.21199808219862,Non-touch
+653,Lenovo,Workstation,15.6,0,Intel,Core i7,2.8,16,0,1024.0,SSD,Nvidia, Quadro M520M,windows,2.5,175771.0,202.37276851499232,Non-touch
+654,Acer,Notebook,14.0,0,Intel,Celeron Dual,1.6,2,0,32.0,Flash Storage,Intel, HD Graphics 400,other,1.7,17582.0,111.93520355955211,Non-touch
+655,Mediacom,Notebook,14.0,0,Intel,Atom x5-Z8350,1.4,4,0,32.0,SSD,Intel, HD Graphics,windows,1.4,13267.0,157.3505121487356,Non-touch
+656,Dell,Notebook,15.6,0,Intel,Core i7,1.8,16,2048,256.0,Hybrid,AMD, Radeon 530,windows,2.2,60473.0,141.21199808219862,Non-touch
+657,Samsung,Ultrabook,13.3,0,Intel,Core i7,2.7,16,0,256.0,SSD,Intel, HD Graphics 620,windows,0.8,87859.0,165.6321180513006,Non-touch
+658,Toshiba,Ultrabook,14.0,1,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.2,99367.0,157.3505121487356,Touchscreen
+659,Dell,Notebook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.6,60031.0,111.93520355955211,Non-touch
+660,Lenovo,Gaming,15.6,0,Intel,Core i7,2.6,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 960,windows,3.3,63723.0,141.21199808219862,Non-touch
+661,HP,Workstation,17.3,0,Intel,Xeon E3-1535M,2.9,16,0,256.0,SSD,Nvidia, Quadro M2000M,windows,3.0,200000.0,127.33567457123111,Non-touch
+662,Dell,Gaming,17.3,0,Intel,Core i7,2.8,20,1024,512.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.4,167692.0,202.37276851499232,Non-touch
+663,Dell,Notebook,14.0,0,Intel,Core i5,2.4,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.6,65481.0,157.3505121487356,Non-touch
+664,Lenovo,Netbook,11.6,1,Intel,Celeron Dual,1.6,4,0,128.0,SSD,Intel, HD Graphics 400,windows,1.4,25308.0,135.0942111925629,Touchscreen
+665,Lenovo,Gaming,17.3,0,Intel,Core i7,2.7,20,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.6,141885.0,127.33567457123111,Non-touch
+666,HP,Notebook,15.6,0,Intel,Core i5,2.4,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.8,101232.0,141.21199808219862,Non-touch
+667,MSI,Gaming,17.3,0,Intel,Core i7,2.9,16,1024,512.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.1,145401.0,127.33567457123111,Non-touch
+668,Asus,Notebook,15.6,0,Intel,Core i5,2.3,4,0,1024.0,HDD,Nvidia, GeForce GTX 950M,,2.5,30849.0,100.45466986113651,Non-touch
+669,Asus,Notebook,15.6,0,Intel,Core i7,2.7,4,0,256.0,SSD,Intel, HD Graphics 620,windows,2.4,45283.0,100.45466986113651,Non-touch
+670,Dell,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,AMD, Radeon R5 M430,linux,2.2,39907.0,141.21199808219862,Non-touch
+671,Lenovo,2 in 1 Convertible,13.3,1,Intel,Core i5,1.8,8,0,256.0,SSD,Intel, HD Graphics 540,windows,1.3,63883.0,202.37276851499232,Touchscreen
+672,Lenovo,Notebook,15.6,0,Intel,Celeron Dual,1.1,4,0,500.0,HDD,Intel, HD Graphics 500,windows,2.2,22324.0,100.45466986113651,Non-touch
+673,Mediacom,Notebook,14.0,0,Intel,Celeron Quad,1.1,4,0,32.0,SSD,Intel, HD Graphics 500,windows,1.5,20726.0,157.3505121487356,Non-touch
+674,HP,Notebook,15.6,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.2,58555.0,141.21199808219862,Non-touch
+675,Lenovo,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.2,28505.0,141.21199808219862,Non-touch
+676,HP,Workstation,15.6,0,Intel,Core i7,2.6,8,0,256.0,SSD,Nvidia, Quadro M1000M,windows,2.6,83170.0,141.21199808219862,Non-touch
+677,HP,Notebook,15.6,0,Intel,Core i3,2.0,6,0,1024.0,HDD,AMD, Radeon R5 M430,windows,2.0,28718.0,141.21199808219862,Non-touch
+678,Toshiba,Ultrabook,13.3,1,Intel,Core i7,2.7,20,0,512.0,SSD,Intel, HD Graphics 620,windows,1.1,149131.0,165.6321180513006,Touchscreen
+679,Dell,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.4,152860.0,202.37276851499232,Non-touch
+680,MSI,Gaming,17.3,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.7,79215.0,127.33567457123111,Non-touch
+681,Dell,Notebook,15.6,0,Intel,Core i5,2.6,8,0,500.0,HDD,Intel, HD Graphics 620,windows,1.9,53734.0,100.45466986113651,Non-touch
+682,Asus,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.0,71928.0,141.21199808219862,Non-touch
+683,HP,Notebook,13.3,0,Intel,Core i3,2.4,4,0,128.0,SSD,Intel, HD Graphics 620,windows,1.5,38308.0,165.6321180513006,Non-touch
+684,Acer,Notebook,15.6,0,AMD,A10-Series 9620P,2.5,8,0,1024.0,HDD,AMD, Radeon RX 540,windows,2.2,30849.0,100.45466986113651,Non-touch
+685,Dell,Notebook,15.6,0,Intel,Core i7,2.8,16,0,256.0,SSD,Nvidia, GeForce 930MX,windows,1.9,81912.0,141.21199808219862,Non-touch
+686,Toshiba,Notebook,15.6,0,Intel,Core i3,2.1,4,0,128.0,SSD,Intel, HD Graphics 520,windows,2.1,26533.0,100.45466986113651,Non-touch
+687,Asus,Gaming,17.3,1,Intel,Core i7,2.6,20,1024,256.0,Hybrid,Nvidia, GeForce GTX 965M,windows,4.3,67612.0,127.33567457123111,Touchscreen
+688,Acer,Notebook,15.6,0,Intel,Core i5,2.5,4,0,256.0,SSD,Intel, HD Graphics 620,windows,2.1,31915.0,100.45466986113651,Non-touch
+689,Dell,Netbook,11.6,0,Intel,Celeron Dual,1.6,4,0,16.0,Flash Storage,Intel, HD Graphics 400,other,1.3,15718.0,135.0942111925629,Non-touch
+690,HP,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,AMD, Radeon 530,windows,2.1,39694.0,141.21199808219862,Non-touch
+691,Toshiba,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,67026.0,141.21199808219862,Non-touch
+692,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.5,55837.0,141.21199808219862,Non-touch
+693,MSI,Gaming,17.3,0,Intel,Core i7,2.7,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 980M,windows,4.5,125155.0,127.33567457123111,Non-touch
+694,Acer,Notebook,15.6,0,Intel,Core i3,2.0,4,0,128.0,SSD,Intel, HD Graphics 520,linux,2.1,21951.0,100.45466986113651,Non-touch
+695,Lenovo,Ultrabook,12.5,0,Intel,Core i5,2.3,8,0,180.0,SSD,Intel, HD Graphics 520,windows,1.3,58555.0,125.36742798669837,Non-touch
+696,Dell,Ultrabook,12.5,0,Intel,Core i7,2.8,16,0,256.0,SSD,Intel, HD Graphics 620,windows,1.2,99048.0,176.23257360658386,Non-touch
+697,HP,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050,windows,3.8,79813.0,127.33567457123111,Non-touch
+698,Google,Ultrabook,12.3,1,Intel,Core i5,1.2,8,0,256.0,SSD,Intel, HD Graphics 615,other,1.1,83064.0,202.37276851499232,Touchscreen
+699,Lenovo,Notebook,15.6,0,Intel,Core i7,1.8,8,0,256.0,SSD,Intel, UHD Graphics 620,windows,2.2,47893.0,141.21199808219862,Non-touch
+700,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.6,12,0,256.0,SSD,Intel, HD Graphics 520,windows,5.5,89137.0,157.3505121487356,Non-touch
+701,Microsoft,Ultrabook,13.5,1,Intel,Core i7,2.8,8,0,256.0,SSD,Intel, Iris Plus Graphics 640,windows,1.3,99519.0,200.84255993695703,Touchscreen
+702,HP,Notebook,14.0,0,Intel,Core i7,2.8,8,0,1024.0,SSD,Intel, HD Graphics 620,windows,1.5,93187.0,157.3505121487356,Non-touch
+703,Lenovo,Notebook,13.3,0,Intel,Core i3,2.4,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,50563.0,165.6321180513006,Non-touch
+704,Lenovo,Notebook,15.6,1,Intel,Core i7,1.8,12,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.2,32448.0,100.45466986113651,Touchscreen
+705,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,AMD, Radeon R5 M430,windows,1.9,43580.0,141.21199808219862,Non-touch
+706,Asus,Ultrabook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.2,60153.0,202.37276851499232,Non-touch
+707,Lenovo,2 in 1 Convertible,13.3,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,55092.0,165.6321180513006,Touchscreen
+708,Dell,Notebook,13.3,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,windows,1.7,45235.0,117.82653006268643,Non-touch
+709,Lenovo,Notebook,20.0,0,AMD,E-Series E2-9000,2.2,4,0,128.0,SSD,AMD, Radeon R2 Graphics,windows,2.2,18595.0,44.01946207398117,Non-touch
+710,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.3,48538.0,141.21199808219862,Non-touch
+711,Acer,Notebook,13.3,0,Intel,Core i5,2.3,4,0,128.0,SSD,Intel, HD Graphics 520,windows,1.6,34898.0,117.82653006268643,Non-touch
+712,HP,2 in 1 Convertible,14.0,1,Intel,Core i3,2.4,4,0,128.0,SSD,Nvidia, GeForce 940MX,windows,1.6,37243.0,157.3505121487356,Touchscreen
+713,Asus,Notebook,17.3,0,Intel,Pentium Quad,1.1,4,0,1024.0,HDD,Nvidia, GeForce 920MX,windows,2.8,25060.0,90.58340172449303,Non-touch
+714,MSI,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.4,68944.0,141.21199808219862,Non-touch
+715,Dell,Gaming,15.6,1,Intel,Core i7,2.6,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 960M,windows,2.7,58555.0,202.37276851499232,Touchscreen
+716,HP,Workstation,15.6,0,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, Quadro M2200,windows,3.1,110018.0,141.21199808219862,Non-touch
+717,Samsung,Ultrabook,13.3,1,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,85195.0,165.6321180513006,Touchscreen
+718,Asus,Ultrabook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.1,60473.0,157.3505121487356,Non-touch
+719,Asus,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.4,58555.0,141.21199808219862,Non-touch
+720,HP,2 in 1 Convertible,11.6,1,Intel,Celeron Dual,1.1,8,0,64.0,Flash Storage,Intel, HD Graphics 500,other,1.4,26374.0,135.0942111925629,Touchscreen
+721,Dell,Ultrabook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,79867.0,165.6321180513006,Non-touch
+722,Acer,Notebook,15.6,0,Intel,Pentium Quad,1.1,4,0,1024.0,HDD,Intel, HD Graphics 505,linux,2.1,15877.0,100.45466986113651,Non-touch
+723,Dell,Notebook,15.6,1,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce GTX 1050,windows,2.1,93187.0,202.37276851499232,Touchscreen
+724,LG,Ultrabook,15.6,0,Intel,Core i7,1.8,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.1,122491.0,141.21199808219862,Non-touch
+725,Dell,Notebook,15.6,0,Intel,Core i7,2.7,16,0,,,AMD, Radeon R7 M445,windows,2.3,62938.0,141.21199808219862,Non-touch
+726,Dell,Netbook,11.6,0,Intel,Pentium Quad,1.1,4,0,128.0,SSD,Intel, HD Graphics 505,windows,1.6,39640.0,135.0942111925629,Non-touch
+727,Acer,Gaming,15.6,0,Intel,Core i5,2.5,16,0,256.0,SSD,Nvidia, GeForce GTX 1050 Ti,windows,2.5,69211.0,141.21199808219862,Non-touch
+728,HP,Netbook,12.5,0,Intel,Core i5,2.6,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,74006.0,125.36742798669837,Non-touch
+729,Toshiba,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.1,41558.0,100.45466986113651,Non-touch
+730,Samsung,2 in 1 Convertible,15.0,1,Intel,Core i7,2.7,16,0,256.0,SSD,AMD, Radeon 540,windows,1.7,95851.0,146.86047800548656,Touchscreen
+731,MSI,Gaming,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce GTX 1050,windows,2.2,53168.0,141.21199808219862,Non-touch
+732,HP,Notebook,15.6,0,AMD,A12-Series 9700P,2.5,8,0,1100.0,HDD,AMD, Radeon R7 Graphics,windows,2.0,33513.0,100.45466986113651,Non-touch
+733,Toshiba,Notebook,14.0,0,Intel,Core i5,2.3,4,0,128.0,SSD,Intel, HD Graphics 520,windows,1.8,54346.0,111.93520355955211,Non-touch
+734,Asus,Notebook,15.6,0,Intel,Celeron Dual,1.1,4,0,128.0,SSD,Intel, HD Graphics 500,windows,1.9,22324.0,100.45466986113651,Non-touch
+735,Dell,Gaming,15.6,0,Intel,Core i7,2.8,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,windows,2.6,58555.0,141.21199808219862,Non-touch
+736,Dell,Gaming,15.6,0,Intel,Core i7,2.8,16,0,512.0,SSD,Nvidia, GeForce GTX 1050 Ti,windows,2.6,89457.0,202.37276851499232,Non-touch
+737,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,4,0,1024.0,HDD,Nvidia, GeForce 920M,windows,2.4,32448.0,141.21199808219862,Non-touch
+738,HP,Gaming,17.3,0,Intel,Core i7,2.8,12,0,1024.0,HDD,AMD, Radeon RX 580,windows,3.7,93187.0,127.33567457123111,Non-touch
+739,Asus,2 in 1 Convertible,15.6,1,Intel,Core i7,2.7,12,0,1100.0,HDD,Nvidia, GeForce 940MX,windows,2.3,44702.0,141.21199808219862,Touchscreen
+740,Dell,Gaming,15.6,0,Intel,Core i5,2.5,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,3.2,109277.0,141.21199808219862,Non-touch
+741,MSI,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,512.0,Hybrid,Nvidia, GeForce GTX 1070,windows,2.9,128671.0,127.33567457123111,Non-touch
+742,HP,Notebook,17.3,0,Intel,Core i3,2.0,4,0,256.0,SSD,AMD, Radeon R5 520,windows,2.5,37243.0,127.33567457123111,Non-touch
+743,Samsung,Ultrabook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,0.8,79867.0,165.6321180513006,Non-touch
+744,Asus,Gaming,17.3,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.7,94306.0,127.33567457123111,Non-touch
+745,Lenovo,2 in 1 Convertible,13.3,1,Intel,Core i7,1.8,8,0,512.0,SSD,Intel, UHD Graphics 620,windows,1.2,79867.0,165.6321180513006,Touchscreen
+746,Dell,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,Nvidia, GeForce GT 940MX,windows,2.0,51202.0,141.21199808219862,Non-touch
+747,Asus,2 in 1 Convertible,15.6,1,Intel,Core i5,2.5,8,0,1024.0,HDD,Intel, HD Graphics 520,windows,2.2,39374.0,100.45466986113651,Touchscreen
+748,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,AMD, Radeon R5 M420,windows,2.2,42081.0,141.21199808219862,Non-touch
+749,Lenovo,Notebook,15.6,0,AMD,A12-Series 9720P,3.6,12,0,512.0,SSD,AMD, Radeon 530,windows,2.2,50563.0,141.21199808219862,Non-touch
+750,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,99048.0,157.3505121487356,Non-touch
+751,Dell,2 in 1 Convertible,20.0,1,Intel,Core M,1.0,4,0,128.0,SSD,Intel, HD Graphics 615,windows,1.4,32128.0,49.59154588081422,Touchscreen
+752,Lenovo,Notebook,15.6,0,Intel,Core i7,2.7,16,0,512.0,SSD,Nvidia, Quadro M2000M,windows,2.5,126274.0,202.37276851499232,Non-touch
+753,Razer,Ultrabook,12.5,1,Intel,Core i7,2.5,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.3,95851.0,202.37276851499232,Touchscreen
+754,Acer,Notebook,14.0,0,Intel,Core i3,2.4,4,0,128.0,SSD,Intel, HD Graphics 620,windows,1.8,33886.0,157.3505121487356,Non-touch
+755,HP,Netbook,11.6,0,Intel,Celeron Dual,1.6,4,0,16.0,Flash Storage,Intel, HD Graphics 400,other,1.2,20513.0,135.0942111925629,Non-touch
+756,Razer,Gaming,14.0,0,Intel,Core i7,2.8,16,0,512.0,SSD,Nvidia, GeForce GTX 1060,windows,2.0,154459.0,157.3505121487356,Non-touch
+757,Dell,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,4.4,133467.0,127.33567457123111,Non-touch
+758,Dell,Gaming,15.6,0,Intel,Core i7,2.9,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,3.5,149917.0,141.21199808219862,Non-touch
+759,Dell,Notebook,14.0,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,1.8,40226.0,111.93520355955211,Non-touch
+760,Samsung,Notebook,15.6,0,Intel,Core i7,2.8,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.5,90523.0,141.21199808219862,Non-touch
+761,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.1,26102.0,100.45466986113651,Non-touch
+762,Lenovo,Notebook,17.3,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,,2.8,28185.0,127.33567457123111,Non-touch
+763,Toshiba,Ultrabook,14.0,0,Intel,Core i5,2.5,4,0,128.0,SSD,Intel, HD Graphics 620,windows,1.3,58075.0,111.93520355955211,Non-touch
+764,Lenovo,Notebook,15.6,0,Intel,Core i3,2.3,8,0,1024.0,HDD,Intel, HD Graphics 520,windows,2.3,24456.0,100.45466986113651,Non-touch
+765,HP,Notebook,15.6,0,Intel,Core i5,2.5,4,0,500.0,HDD,AMD, Radeon 520,windows,1.9,32640.0,100.45466986113651,Non-touch
+766,Asus,Notebook,15.6,0,Intel,Pentium Dual,1.1,8,0,128.0,SSD,Intel, HD Graphics 505,windows,2.0,31004.0,141.21199808219862,Non-touch
+767,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.7,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.1,133147.0,157.3505121487356,Non-touch
+768,Lenovo,2 in 1 Convertible,13.3,1,Intel,Core i7,2.7,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.4,107892.0,165.6321180513006,Touchscreen
+769,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,AMD, Radeon R5 M430,windows,2.2,29073.0,100.45466986113651,Non-touch
+770,MSI,Gaming,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce GTX 1050,windows,2.4,63883.0,141.21199808219862,Non-touch
+771,HP,Notebook,17.3,0,AMD,A10-Series 9600P,2.4,6,0,1100.0,HDD,AMD, Radeon R7 M440,windows,2.7,30316.0,127.33567457123111,Non-touch
+772,Dell,Gaming,17.3,0,Intel,Core i7,2.8,20,1024,1024.0,Hybrid,Nvidia, GeForce GTX 1070M,windows,4.4,191211.0,127.33567457123111,Non-touch
+773,Lenovo,Ultrabook,14.0,0,Intel,Core i5,2.5,8,0,256.0,Flash Storage,Intel, HD Graphics 620,windows,1.1,99900.0,157.3505121487356,Non-touch
+774,Asus,Gaming,17.3,0,Intel,Core i7,2.6,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.3,125208.0,127.33567457123111,Non-touch
+775,Toshiba,Notebook,14.0,0,Intel,Pentium Dual,2.1,4,0,128.0,SSD,Intel, HD Graphics 510,windows,1.8,26587.0,111.93520355955211,Non-touch
+776,Lenovo,Notebook,15.6,0,Intel,Celeron Dual,1.6,4,0,500.0,HDD,Intel, HD Graphics 510,windows,2.1,16943.0,100.45466986113651,Non-touch
+777,Toshiba,Ultrabook,14.0,0,Intel,Core i7,2.6,16,0,512.0,SSD,Nvidia, GeForce 930M,windows,1.5,93986.0,157.3505121487356,Non-touch
+778,Lenovo,Notebook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 630,windows,1.7,78535.0,157.3505121487356,Non-touch
+779,Asus,2 in 1 Convertible,13.3,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.1,72354.0,165.6321180513006,Touchscreen
+780,Lenovo,Notebook,15.6,0,Intel,Celeron Quad,1.6,8,0,1024.0,HDD,Intel, HD Graphics 405,,2.2,17529.0,100.45466986113651,Non-touch
+781,Dell,Notebook,14.0,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,windows,1.8,31169.0,111.93520355955211,Non-touch
+782,Acer,Netbook,11.6,0,Intel,Celeron Dual,1.6,4,0,32.0,Flash Storage,Intel, HD Graphics 400,other,1.4,18914.0,135.0942111925629,Non-touch
+783,Acer,Notebook,14.0,0,Intel,Core i3,2.4,8,0,128.0,SSD,Intel, HD Graphics 620,windows,1.5,32980.0,157.3505121487356,Non-touch
+784,Razer,Gaming,17.3,1,Intel,Core i7,2.9,20,0,512.0,SSD,Nvidia, GeForce GTX 1080,windows,3.5,200000.0,202.37276851499232,Touchscreen
+785,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.7,122491.0,157.3505121487356,Non-touch
+786,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.6,16,0,512.0,SSD,Intel, HD Graphics 520,windows,1.1,111835.0,202.37276851499232,Non-touch
+787,MSI,Gaming,14.0,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,1.6,100752.0,157.3505121487356,Non-touch
+788,Dell,Gaming,15.6,0,Intel,Core i7,2.8,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050Ti,linux,2.6,49497.0,141.21199808219862,Non-touch
+789,Asus,Notebook,15.6,0,Intel,Core i5,2.5,4,0,1024.0,HDD,Nvidia, GeForce 920,linux,2.1,27652.0,141.21199808219862,Non-touch
+790,MSI,Gaming,15.6,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.2,58022.0,141.21199808219862,Non-touch
+791,HP,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,Nvidia, GeForce 930MX,windows,2.0,47952.0,141.21199808219862,Non-touch
+792,Lenovo,Notebook,14.0,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.7,63190.0,157.3505121487356,Non-touch
+793,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,4,0,1024.0,HDD,Nvidia, GeForce GTX 1050,windows,2.4,53227.0,141.21199808219862,Non-touch
+794,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,AMD, Radeon R5 M420X,windows,2.2,32714.0,100.45466986113651,Non-touch
+795,Lenovo,Notebook,14.0,0,Intel,Core i5,2.6,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,87912.0,157.3505121487356,Non-touch
+796,Dell,Notebook,15.6,0,Intel,Core i5,2.6,8,0,500.0,HDD,Intel, HD Graphics 620,windows,1.9,49817.0,141.21199808219862,Non-touch
+797,Dell,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,3.2,147832.0,141.21199808219862,Non-touch
+798,Dell,2 in 1 Convertible,13.3,1,Intel,Core i7,1.3,8,0,512.0,SSD,Intel, HD Graphics 615,windows,1.2,107258.0,202.37276851499232,Touchscreen
+799,Asus,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,2.9,128884.0,127.33567457123111,Non-touch
+800,Asus,Gaming,17.3,0,Intel,Core i7,2.7,20,256,256.0,SSD,Nvidia, GeForce GTX 980M,windows,3.6,68145.0,127.33567457123111,Non-touch
+801,Acer,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,4.2,122491.0,127.33567457123111,Non-touch
+802,Toshiba,Notebook,15.6,0,Intel,Core i3,2.4,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.0,35644.0,100.45466986113651,Non-touch
+803,Dell,2 in 1 Convertible,13.3,1,Intel,Core i7,1.3,16,0,256.0,SSD,Intel, HD Graphics 615,windows,1.2,87859.0,165.6321180513006,Touchscreen
+804,Dell,Gaming,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce GTX 1050,windows,2.6,52481.0,141.21199808219862,Non-touch
+805,Lenovo,Notebook,14.0,0,Intel,Celeron Quad,1.6,4,0,16.0,Flash Storage,Intel, HD Graphics 400,other,1.5,17316.0,111.93520355955211,Non-touch
+806,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.7,8,0,256.0,Flash Storage,Intel, HD Graphics 620,windows,1.1,109171.0,157.3505121487356,Non-touch
+807,Asus,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX1060,windows,2.2,71342.0,141.21199808219862,Non-touch
+808,Asus,Notebook,15.6,0,Intel,Core i5,2.5,8,0,128.0,HDD,Intel, HD Graphics 620,windows,2.3,31435.0,141.21199808219862,Non-touch
+809,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,0,512.0,SSD,Intel, HD Graphics 620,windows,2.0,104588.0,141.21199808219862,Non-touch
+810,Vero,Notebook,14.0,0,Intel,Celeron Dual,1.1,4,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.2,10811.0,157.3505121487356,Non-touch
+811,Asus,Gaming,17.3,0,Intel,Core i7,2.6,16,1024,512.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.7,95851.0,127.33567457123111,Non-touch
+812,LG,Ultrabook,15.6,1,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.1,111835.0,141.21199808219862,Touchscreen
+813,Dell,Gaming,17.3,0,Intel,Core i7,2.8,20,1024,512.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.4,163724.0,127.33567457123111,Non-touch
+814,HP,Netbook,12.5,0,Intel,Core i7,2.7,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.3,79014.0,176.23257360658386,Non-touch
+815,Acer,Notebook,14.0,0,Intel,Celeron Dual,1.6,4,0,32.0,Flash Storage,Intel, HD Graphics 510,other,1.5,19980.0,111.93520355955211,Non-touch
+816,HP,Notebook,17.3,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Nvidia, GeForce 930MX,windows,2.6,48485.0,106.11306214269258,Non-touch
+817,Acer,Notebook,15.6,0,Intel,Celeron Dual,1.5,4,0,16.0,Flash Storage,Intel, HD Graphics,other,2.2,19128.0,141.21199808219862,Non-touch
+818,Lenovo,Notebook,14.0,0,Intel,Core i5,2.5,4,0,256.0,SSD,Intel, HD Graphics 620,windows,1.7,37243.0,157.3505121487356,Non-touch
+819,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,128.0,SSD,Intel, HD Graphics 620,windows,2.2,38041.0,100.45466986113651,Non-touch
+820,Lenovo,Notebook,15.6,0,Intel,Core i5,2.3,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 960M,windows,2.6,42038.0,141.21199808219862,Non-touch
+821,HP,Workstation,17.3,0,Intel,Core i7,2.8,8,0,500.0,HDD,Nvidia, Quadro M1200,windows,3.1,101658.0,127.33567457123111,Non-touch
+822,HP,Ultrabook,14.0,0,Intel,Core i7,2.5,8,0,512.0,SSD,Intel, HD Graphics 520,windows,1.5,99634.0,157.3505121487356,Non-touch
+823,LG,Ultrabook,14.0,1,Intel,Core i7,2.7,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.0,101179.0,157.3505121487356,Touchscreen
+824,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,137995.0,202.37276851499232,Touchscreen
+825,Dell,Notebook,15.6,0,Intel,Core i7,2.7,4,0,256.0,SSD,AMD, Radeon R5 M420,windows,2.2,39374.0,141.21199808219862,Non-touch
+826,Dell,Notebook,14.0,0,Intel,Core i5,2.8,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.6,64202.0,157.3505121487356,Non-touch
+827,HP,2 in 1 Convertible,11.6,1,Intel,Celeron Dual,1.1,4,0,32.0,Flash Storage,Intel, HD Graphics 500,other,1.4,32767.0,135.0942111925629,Touchscreen
+828,HP,Ultrabook,12.5,1,Intel,Core M,1.2,8,0,240.0,SSD,Intel, HD Graphics 515,windows,1.1,165168.0,202.37276851499232,Touchscreen
+829,Asus,Ultrabook,13.3,0,Intel,Core i5,2.3,8,0,512.0,SSD,Nvidia, GeForce 940M,windows,1.5,54665.0,165.6321180513006,Non-touch
+830,Lenovo,Notebook,15.6,0,Intel,Core i7,2.7,6,0,256.0,SSD,Nvidia, GeForce 940MX,windows,2.2,42038.0,141.21199808219862,Non-touch
+831,HP,2 in 1 Convertible,13.3,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,121319.0,165.6321180513006,Touchscreen
+832,HP,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,Nvidia, GeForce 930MX,windows,2.0,54292.0,141.21199808219862,Non-touch
+833,HP,Ultrabook,14.0,0,Intel,Core i7,2.5,8,0,512.0,SSD,Intel, HD Graphics 520,windows,1.5,78215.0,157.3505121487356,Non-touch
+834,Acer,Notebook,15.6,0,Intel,Core i3,2.4,4,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.4,26587.0,141.21199808219862,Non-touch
+835,HP,Notebook,15.6,0,Intel,Celeron Dual,1.6,4,0,128.0,SSD,Intel, HD Graphics 400,,1.9,15931.0,100.45466986113651,Non-touch
+836,Lenovo,Notebook,13.3,0,Intel,Core i5,2.5,4,0,128.0,SSD,Intel, HD Graphics 620,windows,1.4,46940.0,165.6321180513006,Non-touch
+837,Toshiba,Notebook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.5,51841.0,165.6321180513006,Non-touch
+838,Asus,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.1,101179.0,141.21199808219862,Non-touch
+839,HP,Notebook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.5,51149.0,165.6321180513006,Non-touch
+840,Acer,Netbook,11.6,0,Intel,Celeron Dual,1.6,4,0,32.0,Flash Storage,Intel, HD Graphics,windows,1.4,14332.0,135.0942111925629,Non-touch
+841,Dell,Notebook,17.3,0,Intel,Core i7,2.7,8,0,1024.0,HDD,AMD, Radeon R7 M445,linux,2.8,46087.0,127.33567457123111,Non-touch
+842,MSI,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.7,85195.0,127.33567457123111,Non-touch
+843,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.4,93187.0,157.3505121487356,Touchscreen
+844,Dell,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.6,71875.0,141.21199808219862,Non-touch
+845,Asus,2 in 1 Convertible,12.5,1,Intel,Core M,0.9,4,0,64.0,Flash Storage,Intel, HD Graphics 515,other,1.2,35644.0,176.23257360658386,Touchscreen
+846,MSI,Gaming,15.6,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.2,59669.0,141.21199808219862,Non-touch
+847,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.8,8,0,256.0,SSD,Nvidia, GeForce GT 940MX,windows,2.0,101392.0,157.3505121487356,Non-touch
+848,Dell,Notebook,15.6,0,Intel,Core i5,2.5,4,0,1024.0,HDD,AMD, Radeon R5 M420,windows,2.2,36496.0,100.45466986113651,Non-touch
+849,Asus,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,Nvidia, GeForce GTX 930MX,windows,2.3,41931.0,141.21199808219862,Non-touch
+850,HP,Ultrabook,15.6,0,Intel,Core i7,2.5,8,0,256.0,SSD,AMD, Radeon R7 M365X,windows,1.8,69104.0,141.21199808219862,Non-touch
+851,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,128.0,SSD,Intel, HD Graphics 620,windows,1.9,50350.0,141.21199808219862,Non-touch
+852,Lenovo,2 in 1 Convertible,13.3,1,Intel,Core i5,2.5,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.4,97236.0,165.6321180513006,Touchscreen
+853,Dell,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.0,38889.0,100.45466986113651,Non-touch
+854,Lenovo,Ultrabook,12.5,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,87912.0,176.23257360658386,Non-touch
+855,Lenovo,2 in 1 Convertible,13.3,1,Intel,Core i7,2.7,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.4,104962.0,165.6321180513006,Touchscreen
+856,HP,Notebook,15.6,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,2.3,62071.0,141.21199808219862,Non-touch
+857,Dell,Notebook,15.6,0,Intel,Core i5,2.5,4,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.2,37725.0,100.45466986113651,Non-touch
+858,HP,Notebook,14.0,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.0,61219.0,111.93520355955211,Non-touch
+859,Toshiba,Ultrabook,13.3,1,Intel,Core i7,2.5,16,0,512.0,SSD,Intel, HD Graphics 520,windows,1.4,100007.0,165.6321180513006,Touchscreen
+860,Asus,Notebook,15.6,0,Intel,Pentium Quad,1.1,4,0,1024.0,HDD,Intel, HD Graphics 505,windows,2.0,23923.0,100.45466986113651,Non-touch
+861,Lenovo,Notebook,15.6,0,Intel,Pentium Quad,1.1,4,0,1024.0,HDD,Intel, HD Graphics 505,windows,2.2,16464.0,100.45466986113651,Non-touch
+862,HP,2 in 1 Convertible,13.3,1,Intel,Core i7,2.8,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,136344.0,165.6321180513006,Touchscreen
+863,HP,Ultrabook,12.5,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,1.3,84129.0,176.23257360658386,Non-touch
+864,HP,Notebook,15.6,0,Intel,Celeron Dual,1.6,4,0,1024.0,HDD,Intel, HD Graphics 400,,1.9,15393.0,100.45466986113651,Non-touch
+865,Lenovo,2 in 1 Convertible,15.6,1,Intel,Core i5,2.5,8,0,256.0,SSD,AMD, Radeon R7 M460,windows,2.1,51096.0,141.21199808219862,Touchscreen
+866,Lenovo,2 in 1 Convertible,13.3,1,Intel,Core i7,2.2,16,0,1024.0,SSD,Intel, Iris Graphics 540,windows,1.3,95851.0,202.37276851499232,Touchscreen
+867,Dell,Notebook,13.3,1,Intel,Core i5,2.3,8,0,1024.0,HDD,Intel, HD Graphics 520,windows,1.6,34579.0,165.6321180513006,Touchscreen
+868,Apple,Ultrabook,12.0,0,Intel,Core M,1.2,8,0,512.0,Flash Storage,Intel, HD Graphics 5300,macos,0.9,62071.0,202.37276851499232,Non-touch
+869,Toshiba,Notebook,14.0,0,Intel,Core i5,2.3,4,0,128.0,SSD,Intel, HD Graphics 520,windows,1.5,58874.0,157.3505121487356,Non-touch
+870,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,,2.2,24988.0,141.21199808219862,Non-touch
+871,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,124142.0,202.37276851499232,Touchscreen
+872,HP,Netbook,12.5,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.3,88924.0,176.23257360658386,Non-touch
+873,Asus,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.5,95851.0,141.21199808219862,Non-touch
+874,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,windows,2.2,29762.0,100.45466986113651,Non-touch
+875,HP,Ultrabook,14.0,0,Intel,Core i7,2.7,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.5,111302.0,157.3505121487356,Non-touch
+876,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.3,45323.0,141.21199808219862,Non-touch
+877,MSI,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.2,63883.0,141.21199808219862,Non-touch
+878,Acer,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.7,67133.0,141.21199808219862,Non-touch
+879,HP,Notebook,15.6,0,Intel,Core i5,2.6,8,0,256.0,SSD,AMD, Radeon R7 M465,windows,1.8,71875.0,141.21199808219862,Non-touch
+880,Dell,Gaming,17.3,0,Intel,Core i7,2.7,16,1024,512.0,Hybrid,Nvidia, GeForce GTX 1080,windows,4.4,146946.0,169.78089942830815,Non-touch
+881,HP,Notebook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,63350.0,165.6321180513006,Non-touch
+882,HP,Gaming,17.3,0,Intel,Core i5,2.3,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 965M,windows,2.8,74539.0,127.33567457123111,Non-touch
+883,Asus,Notebook,14.0,0,Intel,Celeron Dual,1.1,4,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.6,15931.0,111.93520355955211,Non-touch
+884,Dell,Notebook,15.6,0,Intel,Core i3,2.4,4,0,128.0,SSD,Intel, HD Graphics 620,windows,2.2,29144.0,100.45466986113651,Non-touch
+885,Asus,Notebook,17.3,0,Intel,Pentium Quad,1.6,4,0,1024.0,HDD,Nvidia, GeForce 920MX,windows,2.8,28238.0,106.11306214269258,Non-touch
+886,HP,Notebook,14.0,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,1.6,41505.0,111.93520355955211,Non-touch
+887,Acer,Notebook,15.6,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.2,32980.0,100.45466986113651,Non-touch
+888,Toshiba,Notebook,13.3,0,Intel,Core i5,2.3,4,0,128.0,SSD,Intel, HD Graphics 520,windows,1.2,63670.0,165.6321180513006,Non-touch
+889,Toshiba,Notebook,15.6,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,2.2,59620.0,100.45466986113651,Non-touch
+890,Toshiba,Notebook,13.3,0,Intel,Core i5,2.5,4,0,128.0,SSD,Intel, HD Graphics 620,windows,1.1,68465.0,165.6321180513006,Non-touch
+891,HP,Notebook,14.0,0,Intel,Core i5,2.4,4,0,256.0,SSD,Intel, HD Graphics 520,windows,1.5,58607.0,111.93520355955211,Non-touch
+892,Lenovo,2 in 1 Convertible,11.3,1,Intel,Core M,1.2,8,0,256.0,SSD,Intel, HD Graphics 515,windows,1.1,69211.0,194.94753717542463,Touchscreen
+893,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,128.0,SSD,Intel, HD Graphics 620,windows,2.0,43157.0,100.45466986113651,Non-touch
+894,Lenovo,Gaming,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,,2.5,54186.0,141.21199808219862,Non-touch
+895,HP,Notebook,14.0,0,Intel,Core i5,2.5,4,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,64202.0,157.3505121487356,Non-touch
+896,Lenovo,Gaming,15.6,0,AMD,FX 8800P,2.1,16,1024,512.0,Hybrid,AMD, Radeon R9 M385,windows,2.5,53227.0,141.21199808219862,Non-touch
+897,Lenovo,2 in 1 Convertible,13.9,1,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,71875.0,158.48253022174808,Touchscreen
+898,HP,Ultrabook,14.0,0,Intel,Core i7,2.6,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.4,77203.0,157.3505121487356,Non-touch
+899,Dell,Ultrabook,12.5,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics,windows,1.4,78439.0,176.23257360658386,Touchscreen
+900,Dell,Notebook,15.6,0,Intel,Core i3,2.0,8,0,256.0,SSD,AMD, Radeon R5 M420X,windows,2.0,39374.0,141.21199808219862,Non-touch
+901,HP,Notebook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce 930MX,windows,1.6,55905.0,157.3505121487356,Non-touch
+902,Lenovo,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,Nvidia, GeForce 920MX,,2.2,36497.0,141.21199808219862,Non-touch
+903,HP,Notebook,14.0,0,Intel,Core i3,2.4,4,0,500.0,HDD,Intel, HD Graphics 620,windows,1.6,36444.0,111.93520355955211,Non-touch
+904,Dell,Notebook,17.3,0,Intel,Core i3,2.0,4,0,1024.0,HDD,AMD, Radeon R7 M445,windows,2.4,35112.0,106.11306214269258,Non-touch
+905,Dell,Gaming,15.6,0,Intel,Core i5,2.5,8,0,1024.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.7,50563.0,141.21199808219862,Non-touch
+906,Acer,Notebook,14.0,0,Intel,Celeron Dual,1.6,4,0,32.0,Flash Storage,Intel, HD Graphics 400,other,1.7,18595.0,111.93520355955211,Non-touch
+907,Dell,Ultrabook,13.3,1,Intel,Core i7,2.5,16,0,512.0,SSD,Intel, Iris Plus Graphics 640,windows,1.3,119347.0,202.37276851499232,Touchscreen
+908,HP,Ultrabook,12.5,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,1.3,81998.0,176.23257360658386,Non-touch
+909,HP,Workstation,15.6,0,Intel,Core i7,2.7,8,0,10.0,SSD,Nvidia, Quadro M1000M,windows,2.0,119827.0,141.21199808219862,Non-touch
+910,HP,Notebook,14.0,0,Intel,Core i5,2.5,4,0,256.0,SSD,Intel, HD Graphics 620,windows,1.5,84715.0,157.3505121487356,Non-touch
+911,HP,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.1,48485.0,141.21199808219862,Non-touch
+912,Dell,Ultrabook,14.0,0,Intel,Core i7,2.8,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,94572.0,157.3505121487356,Non-touch
+913,HP,Ultrabook,14.0,0,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.5,100551.0,157.3505121487356,Non-touch
+914,Toshiba,Ultrabook,13.3,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.2,58342.0,117.82653006268643,Non-touch
+915,HP,Notebook,13.3,0,Intel,Core i3,2.4,4,0,500.0,HDD,Intel, HD Graphics 620,windows,1.5,42624.0,117.82653006268643,Non-touch
+916,MSI,Gaming,17.3,0,Intel,Core i7,2.6,8,0,256.0,SSD,Nvidia, GeForce GTX 965M,windows,2.6,85195.0,127.33567457123111,Non-touch
+917,Toshiba,Notebook,13.3,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.2,77789.0,165.6321180513006,Non-touch
+918,Toshiba,Notebook,13.3,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.5,64469.0,117.82653006268643,Non-touch
+919,HP,Notebook,15.6,0,Intel,Pentium Quad,1.6,4,0,1024.0,HDD,Intel, HD Graphics 405,windows,2.0,26640.0,100.45466986113651,Non-touch
+920,Lenovo,2 in 1 Convertible,13.3,1,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,103896.0,165.6321180513006,Touchscreen
+921,Asus,2 in 1 Convertible,12.5,0,Intel,Core M,1.2,8,0,64.0,Flash Storage,Intel, HD Graphics 515,other,1.2,61752.0,176.23257360658386,Non-touch
+922,HP,Notebook,15.6,0,Intel,Core i3,2.4,4,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,41025.0,100.45466986113651,Non-touch
+923,Asus,Gaming,17.3,0,Intel,Core i7,2.6,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 980M,windows,4.3,122491.0,127.33567457123111,Non-touch
+924,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.6,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.7,79333.0,157.3505121487356,Non-touch
+925,Lenovo,Notebook,17.3,0,Intel,Core i7,2.7,16,0,512.0,SSD,Nvidia, Quadro 3000M,windows,2.4,158135.0,202.37276851499232,Non-touch
+926,Dell,Ultrabook,12.5,0,Intel,Core i3,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,1.5,60481.0,125.36742798669837,Non-touch
+927,Toshiba,Notebook,14.0,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.5,79387.0,157.3505121487356,Non-touch
+928,Dell,Ultrabook,12.5,0,Intel,Core i3,2.3,4,0,128.0,SSD,Intel, HD Graphics 520,windows,1.5,62176.0,125.36742798669837,Non-touch
+929,HP,Notebook,14.0,0,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.4,118761.0,157.3505121487356,Non-touch
+930,Acer,Notebook,15.6,0,Intel,Celeron Dual,1.5,4,0,16.0,SSD,Intel, HD Graphics,other,2.2,11136.0,100.45466986113651,Non-touch
+931,Acer,Notebook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.6,48059.0,157.3505121487356,Non-touch
+932,Dell,2 in 1 Convertible,15.6,1,Intel,Core i3,2.3,4,0,1024.0,HDD,Intel, HD Graphics 520,windows,2.1,42410.0,141.21199808219862,Touchscreen
+933,Dell,Workstation,15.6,0,Intel,Core i7,2.8,8,0,1024.0,HDD,Nvidia, Quadro M620,windows,2.2,94732.0,141.21199808219862,Non-touch
+934,HP,Workstation,17.3,0,Intel,Core i7,2.6,8,0,1024.0,HDD,AMD, FirePro W6150M,windows,3.0,154459.0,127.33567457123111,Non-touch
+935,Toshiba,Ultrabook,13.3,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.2,84715.0,165.6321180513006,Non-touch
+936,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,16,0,512.0,SSD,Nvidia, GeForce GTX 1050 Ti,windows,2.4,63883.0,141.21199808219862,Non-touch
+937,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.4,56210.0,100.45466986113651,Non-touch
+938,Dell,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,512.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.4,168045.0,202.37276851499232,Non-touch
+939,HP,Notebook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.1,61219.0,165.6321180513006,Non-touch
+940,Dell,Ultrabook,12.5,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.5,75290.0,125.36742798669837,Non-touch
+941,Dell,2 in 1 Convertible,13.3,1,Intel,Core i5,1.2,8,0,256.0,SSD,Intel, HD Graphics 615,windows,1.2,101179.0,165.6321180513006,Touchscreen
+942,HP,Notebook,14.0,0,Intel,Core i7,2.7,8,0,256.0,SSD,Nvidia, GeForce 930MX,windows,1.6,63160.0,157.3505121487356,Non-touch
+943,MSI,Gaming,17.3,0,Intel,Core i7,2.6,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 960M,windows,2.9,80516.0,127.33567457123111,Non-touch
+944,Dell,Notebook,15.6,0,Intel,Core i5,2.4,8,0,500.0,HDD,Intel, HD Graphics 520,windows,2.1,55754.0,141.21199808219862,Non-touch
+945,Lenovo,2 in 1 Convertible,15.6,1,Intel,Core i5,2.3,4,0,256.0,SSD,Intel, HD Graphics 520,windows,2.1,46194.0,141.21199808219862,Touchscreen
+946,HP,Ultrabook,12.5,0,Intel,Core i5,2.5,4,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,83064.0,125.36742798669837,Non-touch
+947,HP,Notebook,15.6,0,AMD,A6-Series 9220,2.5,4,0,1024.0,HDD,AMD, Radeon R4,windows,2.1,21205.0,141.21199808219862,Non-touch
+948,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,AMD, Radeon R5 M430,,2.2,25521.0,141.21199808219862,Non-touch
+949,HP,Notebook,14.0,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.3,63350.0,111.93520355955211,Non-touch
+950,HP,2 in 1 Convertible,11.6,1,Intel,Pentium Quad,1.1,4,0,256.0,SSD,Intel, HD Graphics 505,windows,1.5,41292.0,135.0942111925629,Touchscreen
+951,Asus,Gaming,15.6,0,Intel,Core i7,2.6,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 960M,windows,2.6,71342.0,141.21199808219862,Non-touch
+952,HP,Notebook,14.0,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.0,56477.0,111.93520355955211,Non-touch
+953,Dell,Ultrabook,13.3,0,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.3,67559.0,202.37276851499232,Non-touch
+954,HP,Notebook,13.3,1,Intel,Core M,1.1,8,0,256.0,SSD,Intel, HD Graphics 515,windows,1.2,90523.0,202.37276851499232,Touchscreen
+955,Dell,Ultrabook,13.3,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,86527.0,202.37276851499232,Touchscreen
+956,Toshiba,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,73953.0,141.21199808219862,Non-touch
+957,Dell,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,AMD, Radeon R5 M315,windows,2.2,40980.0,100.45466986113651,Non-touch
+958,HP,Notebook,17.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Nvidia, GeForce 930MX,windows,2.6,57542.0,127.33567457123111,Non-touch
+959,Lenovo,Notebook,13.3,0,Intel,Core i3,2.4,4,0,180.0,SSD,Intel, HD Graphics 620,windows,1.4,39161.0,165.6321180513006,Non-touch
+960,Acer,2 in 1 Convertible,11.6,1,Intel,Celeron Dual,1.6,4,0,32.0,Flash Storage,Intel, HD Graphics 400,other,1.3,20726.0,135.0942111925629,Touchscreen
+961,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,128.0,SSD,Intel, HD Graphics 520,windows,2.1,22857.0,100.45466986113651,Non-touch
+962,HP,Notebook,14.0,0,Intel,Core i5,2.5,4,0,256.0,SSD,Intel, HD Graphics 620,windows,1.6,51841.0,111.93520355955211,Non-touch
+963,Samsung,Ultrabook,15.0,0,Intel,Core i7,2.7,16,0,256.0,SSD,Nvidia, GeForce 940MX,windows,1.2,98515.0,146.86047800548656,Non-touch
+964,Toshiba,Notebook,13.3,0,Intel,Core i5,2.4,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.2,81785.0,165.6321180513006,Non-touch
+965,HP,Ultrabook,13.3,0,Intel,Core i7,2.5,8,0,512.0,SSD,Intel, HD Graphics 520,windows,1.2,104908.0,165.6321180513006,Non-touch
+966,Acer,Notebook,15.6,0,AMD,A9-Series 9420,3.0,6,0,1024.0,HDD,AMD, Radeon R5,windows,2.1,21792.0,100.45466986113651,Non-touch
+967,Dell,Ultrabook,12.5,0,Intel,Core i7,2.8,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.6,90043.0,176.23257360658386,Non-touch
+968,Lenovo,2 in 1 Convertible,10.1,1,Intel,Atom x5-Z8550,1.4,4,0,64.0,Flash Storage,Intel, HD Graphics 400,other,0.7,29251.0,202.37276851499232,Touchscreen
+969,MSI,Gaming,17.3,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.7,63499.0,127.33567457123111,Non-touch
+970,Lenovo,Ultrabook,12.5,0,Intel,Core i5,2.6,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,93773.0,176.23257360658386,Non-touch
+971,Dell,Ultrabook,13.3,0,Intel,Core i7,2.4,8,0,256.0,SSD,Intel, Iris Plus Graphics 640,windows,1.2,73473.0,165.6321180513006,Non-touch
+972,HP,Notebook,14.0,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,2.0,63670.0,157.3505121487356,Non-touch
+973,Acer,Notebook,15.6,0,Intel,Core i5,2.5,12,1024,128.0,Hybrid,Nvidia, GeForce GTX 950M,windows,2.4,53760.0,141.21199808219862,Non-touch
+974,Lenovo,Gaming,17.3,0,Intel,Core i7,2.7,16,1024,256.0,SSD,Nvidia, GeForce GTX 980M,windows,4.6,146519.0,127.33567457123111,Non-touch
+975,HP,Notebook,15.6,0,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.8,65481.0,141.21199808219862,Non-touch
+976,Razer,Ultrabook,12.5,1,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.3,54825.0,202.37276851499232,Touchscreen
+977,HP,Ultrabook,12.5,0,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.3,71875.0,176.23257360658386,Non-touch
+978,Toshiba,Ultrabook,13.3,0,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.1,118601.0,165.6321180513006,Non-touch
+979,HP,Notebook,15.6,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.0,39534.0,100.45466986113651,Non-touch
+980,Toshiba,Ultrabook,12.5,1,Intel,Core i7,2.7,8,0,512.0,SSD,Intel, HD Graphics 620,windows,1.1,95371.0,176.23257360658386,Touchscreen
+981,Asus,Gaming,17.3,0,Intel,Core i7,2.6,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 960M,windows,3.5,69929.0,127.33567457123111,Non-touch
+982,Toshiba,Ultrabook,14.0,0,Intel,Core i7,2.6,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.5,91908.0,157.3505121487356,Non-touch
+983,HP,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Nvidia, GeForce 930MX,windows,2.0,45102.0,100.45466986113651,Non-touch
+984,Vero,Notebook,13.3,0,Intel,Atom X5-Z8350,1.4,4,0,32.0,Flash Storage,Intel, HD Graphics 400,windows,1.4,10443.0,165.6321180513006,Non-touch
+985,Dell,Notebook,15.6,0,Intel,Core i5,2.4,8,0,256.0,SSD,Intel, HD Graphics 520,windows,2.1,56634.0,141.21199808219862,Non-touch
+986,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,AMD, Radeon R5 M430,linux,2.3,24808.0,100.45466986113651,Non-touch
+987,HP,Notebook,13.3,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.2,90043.0,165.6321180513006,Non-touch
+988,Asus,Notebook,15.6,0,Intel,Pentium Quad,1.1,4,0,1024.0,HDD,Intel, HD Graphics 505,linux,2.0,21258.0,100.45466986113651,Non-touch
+989,HP,Notebook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.6,53840.0,157.3505121487356,Non-touch
+990,HP,Notebook,14.0,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.4,80613.0,157.3505121487356,Non-touch
+991,Lenovo,2 in 1 Convertible,15.6,1,Intel,Core i7,2.5,4,0,256.0,SSD,Intel, HD Graphics 520,windows,1.8,45128.0,141.21199808219862,Touchscreen
+992,Xiaomi,Ultrabook,13.3,0,Intel,Core i5,2.3,8,0,256.0,SSD,Nvidia, GeForce 940MX,windows,1.3,49817.0,165.6321180513006,Non-touch
+993,Dell,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,linux,2.1,27899.0,100.45466986113651,Non-touch
+994,Vero,Notebook,14.0,0,Intel,Atom X5-Z8350,1.4,2,0,32.0,Flash Storage,Intel, HD Graphics 400,windows,1.5,11231.0,111.93520355955211,Non-touch
+995,Dell,Notebook,15.6,0,Intel,Core i5,2.5,4,1024,128.0,Hybrid,Nvidia, GeForce 940MX,windows,2.2,48618.0,141.21199808219862,Non-touch
+996,Asus,Notebook,15.6,0,Intel,Core i3,2.4,4,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.0,23177.0,100.45466986113651,Non-touch
+997,Toshiba,Notebook,15.6,0,Intel,Core i7,2.5,16,0,256.0,SSD,Nvidia, GeForce 930M,windows,2.4,75924.0,141.21199808219862,Non-touch
+998,HP,Notebook,15.6,0,Intel,Core i5,2.5,4,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,44702.0,141.21199808219862,Non-touch
+999,Dell,Notebook,15.6,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,1.9,43956.0,100.45466986113651,Non-touch
+1000,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.8,88924.0,157.3505121487356,Touchscreen
+1001,Lenovo,Notebook,15.6,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,2.3,55923.0,141.21199808219862,Non-touch
+1002,Lenovo,2 in 1 Convertible,10.1,1,Intel,Atom x5-Z8550,1.4,4,0,64.0,Flash Storage,Intel, HD Graphics 400,windows,0.7,25521.0,202.37276851499232,Touchscreen
+1003,HP,Notebook,14.0,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,1.5,53280.0,157.3505121487356,Non-touch
+1004,HP,Ultrabook,12.5,0,Intel,Core i5,2.4,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.3,100966.0,125.36742798669837,Non-touch
+1005,HP,Notebook,15.6,0,Intel,Core i3,2.4,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.0,36497.0,141.21199808219862,Non-touch
+1006,HP,Notebook,15.6,0,Intel,Core i5,2.4,8,500,256.0,Hybrid,Intel, HD Graphics 520,windows,1.8,112066.0,141.21199808219862,Non-touch
+1007,Lenovo,Gaming,15.6,0,Intel,Core i5,2.5,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,,2.4,52694.0,141.21199808219862,Non-touch
+1008,Dell,Gaming,17.3,0,Intel,Core i7,2.8,20,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.4,167779.0,127.33567457123111,Non-touch
+1009,HP,2 in 1 Convertible,13.3,1,Intel,Core i5,2.5,4,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,90576.0,165.6321180513006,Touchscreen
+1010,HP,Notebook,14.0,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.4,78268.0,157.3505121487356,Non-touch
+1011,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,6,0,256.0,SSD,Nvidia, GeForce 920MX,windows,2.4,37030.0,141.21199808219862,Non-touch
+1012,HP,2 in 1 Convertible,15.6,1,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.3,36486.0,100.45466986113651,Touchscreen
+1013,MSI,Gaming,17.3,0,Intel,Core i7,2.7,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 980M,windows,3.8,82352.0,127.33567457123111,Non-touch
+1014,HP,Gaming,17.3,0,Intel,Core i5,2.3,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,3.4,60153.0,127.33567457123111,Non-touch
+1015,Lenovo,Gaming,17.3,0,Intel,Core i7,2.6,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 980M,windows,4.6,122011.0,127.33567457123111,Non-touch
+1016,HP,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1100.0,HDD,Intel, HD Graphics 620,windows,2.0,33513.0,100.45466986113651,Non-touch
+1017,Asus,Netbook,11.6,0,Intel,Celeron Dual,1.6,4,0,16.0,Flash Storage,Intel, HD Graphics 400,other,1.2,15339.0,135.0942111925629,Non-touch
+1018,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i7,2.6,8,0,512.0,SSD,Nvidia, Quadro M500M,windows,1.8,109244.0,157.3505121487356,Touchscreen
+1019,Lenovo,Notebook,14.0,0,Intel,Core i7,2.6,16,0,256.0,SSD,Intel, HD Graphics 520,windows,1.1,139594.0,202.37276851499232,Non-touch
+1020,Asus,Notebook,14.0,0,Intel,Celeron Dual,1.1,4,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.5,14812.0,111.93520355955211,Non-touch
+1021,Dell,2 in 1 Convertible,13.3,1,Intel,Core i7,1.3,16,0,512.0,SSD,Intel, HD Graphics 615,windows,1.2,101179.0,202.37276851499232,Touchscreen
+1022,HP,Ultrabook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.8,40067.0,141.21199808219862,Non-touch
+1023,Acer,Notebook,15.6,0,Intel,Core i5,2.5,4,0,1024.0,HDD,Nvidia, GeForce 940MX,windows,2.2,32820.0,141.21199808219862,Non-touch
+1024,Asus,Notebook,14.1,0,Intel,Celeron Dual,1.1,4,0,32.0,Flash Storage,Intel, HD Graphics 500,windows,1.7,18541.0,111.1413368676404,Non-touch
+1025,HP,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,Nvidia, GeForce 940MX,windows,1.9,52161.0,141.21199808219862,Non-touch
+1026,Lenovo,Notebook,15.6,0,Intel,Core i7,2.5,16,0,1024.0,Hybrid,AMD, Radeon R7 M360,windows,2.5,58555.0,141.21199808219862,Non-touch
+1027,Dell,Ultrabook,14.0,1,Intel,Core i7,2.6,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.5,104588.0,202.37276851499232,Touchscreen
+1028,Lenovo,Notebook,15.6,0,Intel,Core i7,2.5,8,0,1024.0,HDD,Nvidia, GeForce 940MX,windows,2.2,35644.0,141.21199808219862,Non-touch
+1029,HP,Workstation,17.3,0,Intel,Core i7,2.6,8,0,256.0,SSD,Nvidia, Quadro M3000M,windows,3.0,210424.0,127.33567457123111,Non-touch
+1030,Dell,Gaming,17.3,0,Intel,Core i7,2.6,20,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.4,149184.0,127.33567457123111,Non-touch
+1031,Toshiba,Notebook,14.0,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,2.0,62870.0,157.3505121487356,Non-touch
+1032,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,AMD, Radeon R7 M445,windows,2.5,41772.0,100.45466986113651,Non-touch
+1033,Dell,Notebook,15.6,0,Intel,Pentium Quad,1.6,4,0,500.0,HDD,Intel, HD Graphics,windows,2.2,19660.0,100.45466986113651,Non-touch
+1034,Dell,2 in 1 Convertible,15.6,1,Intel,Core i5,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.3,58288.0,141.21199808219862,Touchscreen
+1035,Asus,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.7,109219.0,127.33567457123111,Non-touch
+1036,MSI,Gaming,17.3,0,Intel,Core i7,2.7,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 980M,windows,3.8,127819.0,127.33567457123111,Non-touch
+1037,HP,Notebook,15.6,0,Intel,Core i5,2.5,4,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,52161.0,100.45466986113651,Non-touch
+1038,HP,Ultrabook,15.6,0,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.9,115709.0,141.21199808219862,Non-touch
+1039,Dell,Ultrabook,13.3,1,Intel,Core i7,2.7,16,0,1024.0,SSD,Intel, HD Graphics 620,windows,1.2,120093.0,202.37276851499232,Touchscreen
+1040,HP,Notebook,15.6,0,Intel,Core i5,2.7,8,1024,128.0,Hybrid,Nvidia, GeForce 930MX,windows,2.0,52161.0,141.21199808219862,Non-touch
+1041,HP,Notebook,15.6,0,Intel,Core i3,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.3,37570.0,100.45466986113651,Non-touch
+1042,Lenovo,Notebook,14.0,0,Intel,Core i5,2.3,4,0,508.0,Hybrid,Intel, HD Graphics 520,windows,1.7,53387.0,111.93520355955211,Non-touch
+1043,Asus,2 in 1 Convertible,15.6,1,Intel,Core i7,2.7,16,2048,512.0,Hybrid,Nvidia, GeForce GTX 950M,windows,2.3,95851.0,202.37276851499232,Touchscreen
+1044,Asus,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,3.0,93187.0,127.33567457123111,Non-touch
+1045,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i7,2.6,16,0,512.0,SSD,Intel, HD Graphics 520,windows,2.8,130003.0,202.37276851499232,Touchscreen
+1046,HP,Notebook,15.6,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,,2.0,26587.0,100.45466986113651,Non-touch
+1047,MSI,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.4,60888.0,141.21199808219862,Non-touch
+1048,Acer,Notebook,15.6,0,AMD,A8-Series 7410,2.2,8,0,1024.0,HDD,AMD, Radeon R5,windows,2.4,23923.0,100.45466986113651,Non-touch
+1049,HP,2 in 1 Convertible,13.3,1,Intel,Core i5,2.4,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.5,86793.0,165.6321180513006,Touchscreen
+1050,HP,Workstation,15.6,0,Intel,Core i7,2.6,8,0,256.0,SSD,Nvidia, Quadro M1000M,windows,2.6,118761.0,141.21199808219862,Non-touch
+1051,HP,2 in 1 Convertible,13.3,1,Intel,Core i7,2.6,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.5,95851.0,202.37276851499232,Touchscreen
+1052,Dell,2 in 1 Convertible,13.3,1,Intel,Core i7,2.7,12,0,256.0,SSD,Intel, HD Graphics 620,windows,1.6,69211.0,165.6321180513006,Touchscreen
+1053,Dell,2 in 1 Convertible,15.6,1,Intel,Core i7,2.7,12,0,512.0,SSD,Intel, HD Graphics 620,windows,2.2,69211.0,141.21199808219862,Touchscreen
+1054,MSI,Gaming,15.6,0,Intel,Core i7,2.6,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.9,96916.0,141.21199808219862,Non-touch
+1055,Toshiba,Notebook,13.3,0,Intel,Core i5,2.3,4,0,128.0,SSD,Intel, HD Graphics 520,windows,1.2,63670.0,165.6321180513006,Non-touch
+1056,HP,Workstation,15.6,0,Intel,Core i7,2.6,8,0,256.0,SSD,Nvidia, Quadro M1000M,windows,2.0,101179.0,141.21199808219862,Non-touch
+1057,Lenovo,Notebook,15.6,0,AMD,A12-Series 9720P,3.6,6,0,256.0,SSD,AMD, Radeon 530,windows,2.2,29251.0,141.21199808219862,Non-touch
+1058,Asus,Gaming,17.3,0,Intel,Core i7,2.6,16,0,1024.0,HDD,Nvidia, GeForce GTX 965M,,4.0,53173.0,127.33567457123111,Non-touch
+1059,Fujitsu,Notebook,15.6,0,Intel,Core i5,2.3,4,0,256.0,SSD,Intel, HD Graphics 520,windows,2.3,34579.0,100.45466986113651,Non-touch
+1060,HP,Ultrabook,12.5,0,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.3,122381.0,176.23257360658386,Non-touch
+1061,HP,2 in 1 Convertible,13.3,1,Intel,Core i5,2.5,4,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,95851.0,165.6321180513006,Touchscreen
+1062,Dell,Notebook,15.6,0,Intel,Core i5,2.5,4,0,1024.0,HDD,Intel, HD Graphics,windows,2.3,29784.0,141.21199808219862,Non-touch
+1063,Dell,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,Nvidia, GeForce 940MX,windows,2.2,53807.0,141.21199808219862,Non-touch
+1064,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,AMD, Radeon R5 M420X,linux,2.2,24280.0,100.45466986113651,Non-touch
+1065,Toshiba,Notebook,14.0,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,1.8,48751.0,111.93520355955211,Non-touch
+1066,HP,Notebook,15.6,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.9,84129.0,141.21199808219862,Non-touch
+1067,Asus,Gaming,17.3,0,Intel,Core i5,2.5,12,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.2,72988.0,127.33567457123111,Non-touch
+1068,Dell,Notebook,15.6,0,Intel,Core i7,2.7,16,0,1100.0,HDD,AMD, Radeon R7 M445,windows,2.3,52747.0,141.21199808219862,Non-touch
+1069,MSI,Gaming,15.6,0,Intel,Core i7,2.6,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,1.8,102777.0,141.21199808219862,Non-touch
+1070,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.3,124622.0,202.37276851499232,Touchscreen
+1071,Acer,Netbook,11.6,0,Intel,Celeron Dual,1.6,4,0,32.0,Flash Storage,Intel, HD Graphics 400,other,1.3,15824.0,135.0942111925629,Non-touch
+1072,Dell,Ultrabook,13.3,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,77682.0,165.6321180513006,Non-touch
+1073,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,,1.9,18062.0,100.45466986113651,Non-touch
+1074,HP,Notebook,15.6,0,AMD,E-Series 7110,1.8,4,0,500.0,HDD,AMD, Radeon R2 Graphics,windows,1.9,15824.0,100.45466986113651,Non-touch
+1075,Lenovo,Notebook,17.3,0,AMD,A4-Series 7210,2.2,4,0,500.0,HDD,AMD, Radeon R3,windows,2.8,20193.0,106.11306214269258,Non-touch
+1076,Lenovo,Notebook,15.6,0,Intel,Core i5,2.3,8,0,1024.0,HDD,AMD, Radeon R5 M330,,2.3,31915.0,141.21199808219862,Non-touch
+1077,Asus,Gaming,17.3,0,Intel,Core i7,2.7,20,0,1024.0,SSD,Nvidia, GeForce GTX 980 ,windows,3.6,211788.0,127.33567457123111,Non-touch
+1078,HP,Notebook,14.0,0,Intel,Core i5,2.5,4,0,128.0,SSD,Intel, HD Graphics 620,windows,2.0,67399.0,157.3505121487356,Non-touch
+1079,HP,2 in 1 Convertible,13.3,1,Intel,Core i7,2.7,16,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,74539.0,202.37276851499232,Touchscreen
+1080,Dell,2 in 1 Convertible,13.3,1,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.6,42518.0,165.6321180513006,Touchscreen
+1081,Samsung,Ultrabook,15.0,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.2,90523.0,146.86047800548656,Non-touch
+1082,Dell,Gaming,15.6,0,Intel,Core i7,2.6,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 970M,windows,3.2,70809.0,202.37276851499232,Non-touch
+1083,Dell,Gaming,15.6,0,Intel,Core i7,2.8,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050Ti,windows,2.6,63883.0,141.21199808219862,Non-touch
+1084,Lenovo,Ultrabook,14.0,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,95851.0,157.3505121487356,Non-touch
+1085,Apple,Ultrabook,12.0,0,Intel,Core M,1.1,8,0,256.0,Flash Storage,Intel, HD Graphics 515,macos,0.9,69264.0,202.37276851499232,Non-touch
+1086,Dell,Notebook,15.6,1,Intel,Core i5,2.3,8,0,256.0,SSD,Nvidia, GeForce 960M,windows,2.0,119916.0,202.37276851499232,Touchscreen
+1087,HP,Notebook,15.6,0,AMD,A6-Series A6-9220,2.5,4,0,256.0,SSD,AMD, Radeon 520,windows,1.9,25515.0,141.21199808219862,Non-touch
+1088,Dell,Notebook,15.6,0,Intel,Core i3,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.1,25680.0,100.45466986113651,Non-touch
+1089,MSI,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.7,79536.0,127.33567457123111,Non-touch
+1090,HP,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.3,63883.0,100.45466986113651,Non-touch
+1091,Dell,Notebook,15.6,0,Intel,Core i5,2.5,4,0,500.0,HDD,AMD, Radeon R5 M430,windows,2.3,31915.0,100.45466986113651,Non-touch
+1092,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.6,12,0,512.0,SSD,Intel, HD Graphics 520,windows,1.4,122491.0,157.3505121487356,Non-touch
+1093,MSI,Gaming,17.3,0,Intel,Core i7,2.6,16,2048,512.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.4,141139.0,202.37276851499232,Non-touch
+1094,HP,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.0,42944.0,141.21199808219862,Non-touch
+1095,HP,Ultrabook,12.5,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.3,63883.0,176.23257360658386,Non-touch
+1096,Lenovo,Notebook,15.6,0,Intel,Core i5,2.3,8,0,1024.0,Hybrid,AMD, Radeon R5 M330,windows,2.5,42011.0,141.21199808219862,Non-touch
+1097,Toshiba,Notebook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.1,78588.0,165.6321180513006,Non-touch
+1098,Lenovo,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.5,63350.0,141.21199808219862,Non-touch
+1099,HP,Notebook,13.3,0,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.5,58075.0,165.6321180513006,Non-touch
+1100,HP,2 in 1 Convertible,13.3,1,Intel,Core i7,2.6,8,0,512.0,SSD,Intel, HD Graphics 520,windows,1.5,108744.0,202.37276851499232,Touchscreen
+1101,Lenovo,Ultrabook,12.5,1,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.3,91295.0,176.23257360658386,Touchscreen
+1102,Lenovo,Ultrabook,14.0,0,Intel,Core i7,2.6,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.7,79867.0,157.3505121487356,Non-touch
+1103,Dell,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,AMD, Radeon R7 M445,windows,2.4,39907.0,100.45466986113651,Non-touch
+1104,MSI,Gaming,14.0,0,Intel,Core i7,2.6,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 970M,windows,1.7,94252.0,157.3505121487356,Non-touch
+1105,Dell,Notebook,14.0,0,Intel,Core i5,2.5,8,0,128.0,SSD,Intel, HD Graphics 620 ,windows,1.6,59620.0,157.3505121487356,Non-touch
+1106,Lenovo,Notebook,17.3,0,Intel,Core i5,2.3,8,0,1024.0,HDD,AMD, Radeon R5 M330,windows,3.0,35112.0,106.11306214269258,Non-touch
+1107,HP,Netbook,12.5,0,Intel,Core M,1.2,8,0,512.0,SSD,Intel, HD Graphics 515,windows,1.0,101658.0,176.23257360658386,Non-touch
+1108,Lenovo,Notebook,15.6,0,Intel,Core i5,2.3,4,0,1024.0,HDD,Nvidia, GeForce GTX 950M,windows,2.3,52055.0,141.21199808219862,Non-touch
+1109,HP,Notebook,15.6,0,Intel,Core i3,2.0,4,1024,128.0,Hybrid,AMD, Radeon 520,windows,2.1,26587.0,141.21199808219862,Non-touch
+1110,HP,Gaming,15.6,0,Intel,Core i7,2.8,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,windows,2.6,47899.0,141.21199808219862,Non-touch
+1111,MSI,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,3.8,133147.0,127.33567457123111,Non-touch
+1112,Lenovo,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.1,28771.0,100.45466986113651,Non-touch
+1113,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,8,0,1024.0,HDD,Intel, HD Graphics 520,windows,2.2,24456.0,100.45466986113651,Non-touch
+1114,Lenovo,Notebook,15.6,0,Intel,Celeron Dual,1.1,4,0,128.0,SSD,Intel, HD Graphics 500,,1.9,14419.0,100.45466986113651,Non-touch
+1115,HP,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,,2.1,25414.0,100.45466986113651,Non-touch
+1116,Lenovo,Notebook,15.6,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,2.3,71875.0,141.21199808219862,Non-touch
+1117,Dell,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050 Ti,windows,2.6,79813.0,202.37276851499232,Non-touch
+1118,Asus,Notebook,13.3,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.4,61272.0,202.37276851499232,Non-touch
+1119,HP,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.3,50083.0,141.21199808219862,Non-touch
+1120,HP,Ultrabook,13.3,1,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.1,71875.0,165.6321180513006,Touchscreen
+1121,Lenovo,Ultrabook,12.5,1,Intel,Core M,1.2,8,0,512.0,SSD,Intel, HD Graphics 515,windows,1.0,74539.0,202.37276851499232,Touchscreen
+1122,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,74059.0,141.21199808219862,Non-touch
+1123,Dell,2 in 1 Convertible,13.3,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.6,63883.0,165.6321180513006,Touchscreen
+1124,Lenovo,Gaming,17.3,0,Intel,Core i7,2.7,20,1024,512.0,SSD,Nvidia, GeForce GTX 980M,windows,4.6,172627.0,127.33567457123111,Non-touch
+1125,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Nvidia, GeForce 920MX ,windows,2.2,24935.0,141.21199808219862,Non-touch
+1126,HP,Notebook,15.6,0,Intel,Core i7,2.8,12,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.2,70703.0,141.21199808219862,Non-touch
+1127,Lenovo,2 in 1 Convertible,10.1,1,Intel,Atom x5-Z8550,1.4,4,0,64.0,Flash Storage,Intel, HD Graphics 400,windows,0.7,34433.0,202.37276851499232,Touchscreen
+1128,Acer,Notebook,15.6,0,Intel,Pentium Quad,1.1,4,0,500.0,HDD,Intel, HD Graphics 505,windows,2.4,20246.0,100.45466986113651,Non-touch
+1129,HP,Notebook,14.0,0,Intel,Celeron Dual,1.6,2,0,32.0,Flash Storage,Intel, HD Graphics 400,windows,1.4,13267.0,111.93520355955211,Non-touch
+1130,Lenovo,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,AMD, Radeon R5 M430,,1.9,19607.0,100.45466986113651,Non-touch
+1131,HP,Ultrabook,13.3,0,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.3,109171.0,202.37276851499232,Non-touch
+1132,MSI,Gaming,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,windows,2.2,44702.0,141.21199808219862,Non-touch
+1133,Asus,Gaming,17.3,0,Intel,Core i7,2.6,16,1024,512.0,Hybrid,Nvidia, GeForce GTX 980M,windows,4.3,114552.0,127.33567457123111,Non-touch
+1134,HP,Notebook,15.6,0,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,2.0,36177.0,141.21199808219862,Non-touch
+1135,Acer,Notebook,15.6,0,Intel,Celeron Dual,2.0,4,0,1024.0,HDD,Intel, HD Graphics 500,linux,2.1,14492.0,100.45466986113651,Non-touch
+1136,MSI,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.4,109165.0,127.33567457123111,Non-touch
+1137,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,128.0,SSD,AMD, Radeon R7 M440,windows,2.3,26587.0,100.45466986113651,Non-touch
+1138,HP,Notebook,15.6,0,Intel,Core i7,1.8,16,0,512.0,SSD,Intel, UHD Graphics 620,windows,2.1,61752.0,141.21199808219862,Non-touch
+1139,Lenovo,Notebook,15.6,0,Intel,Core i7,2.5,8,0,500.0,HDD,Nvidia, GeForce 920MX,,2.2,33513.0,100.45466986113651,Non-touch
+1140,Asus,Notebook,15.6,0,Intel,Celeron Dual,1.6,4,0,500.0,HDD,Intel, HD Graphics,windows,2.2,19660.0,100.45466986113651,Non-touch
+1141,Dell,Ultrabook,13.3,1,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.2,142790.0,202.37276851499232,Touchscreen
+1142,Asus,Gaming,15.6,0,Intel,Core i7,2.6,8,0,1024.0,HDD,Nvidia, GeForce GTX 1060,windows,2.2,62284.0,141.21199808219862,Non-touch
+1143,Lenovo,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,,2.1,21205.0,100.45466986113651,Non-touch
+1144,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,AMD, Radeon R7 M445,windows,2.4,47366.0,141.21199808219862,Non-touch
+1145,Lenovo,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,Nvidia, GeForce 940MX,,2.2,37776.0,141.21199808219862,Non-touch
+1146,HP,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.9,30849.0,100.45466986113651,Non-touch
+1147,Lenovo,Notebook,15.6,0,AMD,E-Series 9000,2.2,4,0,500.0,HDD,AMD, Radeon R2 Graphics,windows,2.2,15931.0,100.45466986113651,Non-touch
+1148,Acer,Notebook,17.3,0,Intel,Core i3,2.0,8,0,1024.0,HDD,Nvidia, GeForce 940MX,windows,3.3,33513.0,106.11306214269258,Non-touch
+1149,Asus,Notebook,14.0,0,Intel,Core i3,2.4,4,0,256.0,SSD,Intel, HD Graphics 620,windows,2.0,40972.0,157.3505121487356,Non-touch
+1150,Asus,Gaming,15.6,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,2.2,130483.0,141.21199808219862,Non-touch
+1151,Lenovo,Notebook,15.6,0,Intel,Core i7,2.5,4,0,1024.0,Hybrid,Intel, HD Graphics 520,windows,2.3,43956.0,141.21199808219862,Non-touch
+1152,Apple,Ultrabook,12.0,0,Intel,Core M,1.2,8,0,512.0,Flash Storage,Intel, HD Graphics 515,macos,0.9,68145.0,202.37276851499232,Non-touch
+1153,Asus,Notebook,15.6,0,Intel,Core i7,2.8,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.2,93187.0,141.21199808219862,Non-touch
+1154,MSI,Gaming,17.3,0,Intel,Core i7,2.6,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.4,103842.0,127.33567457123111,Non-touch
+1155,Dell,2 in 1 Convertible,15.6,1,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.2,53227.0,141.21199808219862,Touchscreen
+1156,Asus,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.9,103843.0,127.33567457123111,Non-touch
+1157,Lenovo,Gaming,15.6,0,Intel,Core i7,2.6,16,0,512.0,SSD,Nvidia, GeForce GTX 960,windows,3.3,69530.0,141.21199808219862,Non-touch
+1158,Acer,Netbook,11.6,0,Intel,Celeron Dual,1.5,2,0,32.0,SSD,Intel, HD Graphics,other,1.3,9271.0,135.0942111925629,Non-touch
+1159,MSI,Gaming,15.6,0,Intel,Core i7,2.6,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 970M,windows,1.9,114732.0,141.21199808219862,Non-touch
+1160,HP,Notebook,15.6,0,Intel,Core i3,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.1,34632.0,100.45466986113651,Non-touch
+1161,Acer,Notebook,17.3,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Nvidia, GeForce 940MX,windows,3.3,31861.0,106.11306214269258,Non-touch
+1162,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,windows,2.2,39960.0,141.21199808219862,Non-touch
+1163,Lenovo,Notebook,17.3,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Intel, HD Graphics 620,,2.8,28718.0,106.11306214269258,Non-touch
+1164,HP,Notebook,14.0,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,1.5,54931.0,157.3505121487356,Non-touch
+1165,Lenovo,Gaming,15.6,0,Intel,Core i7,2.6,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 960<U+039C>,windows,2.6,67772.0,141.21199808219862,Non-touch
+1166,HP,Workstation,15.6,0,Intel,Core i7,2.5,8,0,256.0,SSD,AMD, FirePro W4190M,windows,1.9,79654.0,141.21199808219862,Non-touch
+1167,Acer,2 in 1 Convertible,14.0,1,Intel,Core i7,1.3,8,0,256.0,SSD,Intel, HD Graphics 615,windows,1.2,61219.0,157.3505121487356,Touchscreen
+1168,Lenovo,Notebook,15.6,0,Intel,Core i7,2.6,8,0,256.0,SSD,Intel, HD Graphics 520,windows,2.3,81465.0,141.21199808219862,Non-touch
+1169,MSI,Gaming,15.6,0,Intel,Core i7,2.6,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.2,78647.0,141.21199808219862,Non-touch
+1170,Lenovo,Notebook,14.0,0,Intel,Core i5,2.3,8,0,180.0,SSD,Intel, HD Graphics 520,windows,1.7,63883.0,157.3505121487356,Non-touch
+1171,HP,Notebook,15.6,0,AMD,A12-Series 9720P,2.7,6,0,1024.0,HDD,AMD, Radeon 530,windows,2.1,28185.0,141.21199808219862,Non-touch
+1172,Dell,Ultrabook,12.5,1,Intel,Core i5,2.4,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.3,91288.0,176.23257360658386,Touchscreen
+1173,HP,Notebook,13.3,0,Intel,Pentium Dual,1.5,4,0,32.0,Flash Storage,Intel, HD Graphics 515,other,1.3,32767.0,202.37276851499232,Non-touch
+1174,Dell,2 in 1 Convertible,15.0,1,Intel,Core i3,2.4,4,0,500.0,HDD,Intel, HD Graphics 620,windows,2.1,27120.0,146.86047800548656,Touchscreen
+1175,Acer,Notebook,15.6,0,AMD,A8-Series 7410,2.2,4,0,500.0,HDD,AMD, Radeon R5,windows,2.4,20619.0,100.45466986113651,Non-touch
+1176,Asus,Notebook,15.6,0,Intel,Pentium Quad,1.6,4,0,1024.0,HDD,Intel, HD Graphics 405,windows,2.7,16464.0,100.45466986113651,Non-touch
+1177,Dell,Notebook,15.6,0,Intel,Pentium Quad,1.6,4,0,500.0,HDD,Intel, HD Graphics,linux,2.2,20965.0,100.45466986113651,Non-touch
+1178,Dell,Ultrabook,13.3,1,Intel,Core i7,2.7,8,0,256.0,SSD,Intel, HD Graphics 620,windows,1.3,78695.0,202.37276851499232,Touchscreen
+1179,Dell,Notebook,15.6,0,Intel,Core i5,2.5,4,0,1024.0,HDD,Intel, HD Graphics 520,linux,2.2,27805.0,100.45466986113651,Non-touch
+1180,Lenovo,Gaming,15.6,1,Intel,Core i7,2.6,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 960M,windows,2.6,54825.0,141.21199808219862,Touchscreen
+1181,HP,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,,1.9,18434.0,100.45466986113651,Non-touch
+1182,MSI,Gaming,15.6,0,Intel,Core i7,2.8,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 1050,windows,2.2,61219.0,141.21199808219862,Non-touch
+1183,Asus,Gaming,17.3,0,Intel,Core i7,2.8,8,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.7,85195.0,127.33567457123111,Non-touch
+1184,Lenovo,Netbook,12.5,1,Intel,Core i7,2.5,16,0,512.0,SSD,Intel, HD Graphics 520,windows,1.3,87912.0,176.23257360658386,Touchscreen
+1185,Razer,Gaming,14.0,0,Intel,Core i7,2.8,16,0,1024.0,SSD,Nvidia, GeForce GTX 1060,windows,2.0,186427.0,157.3505121487356,Non-touch
+1186,Dell,Ultrabook,13.3,0,Intel,Core i5,1.6,4,0,256.0,SSD,AMD, Radeon 530,windows,1.4,43602.0,165.6321180513006,Non-touch
+1187,Dell,Notebook,15.6,1,Intel,Core i3,2.4,8,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.3,24989.0,100.45466986113651,Touchscreen
+1188,HP,Netbook,12.5,0,Intel,Core i5,2.3,4,0,128.0,SSD,Intel, HD Graphics 520,windows,2.4,85195.0,125.36742798669837,Non-touch
+1189,MSI,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1060,windows,2.7,85141.0,127.33567457123111,Non-touch
+1190,Apple,Ultrabook,11.6,0,Intel,Core i5,1.6,4,0,256.0,Flash Storage,Intel, HD Graphics 6000,macos,1.1,51096.0,135.0942111925629,Non-touch
+1191,HP,Notebook,15.6,0,Intel,Core i3,2.0,4,0,1024.0,HDD,Intel, HD Graphics 520,windows,2.1,25468.0,141.21199808219862,Non-touch
+1192,HP,Ultrabook,14.0,0,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.5,117120.0,202.37276851499232,Non-touch
+1193,Dell,Notebook,15.6,0,Intel,Core i5,2.3,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.2,39267.0,100.45466986113651,Non-touch
+1194,Acer,Notebook,15.6,0,Intel,Core i5,2.5,8,1024,256.0,Hybrid,Nvidia, GeForce GTX 950M,windows,2.4,42571.0,141.21199808219862,Non-touch
+1195,MSI,Gaming,15.6,0,Intel,Core i7,2.6,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 960M,windows,2.3,62284.0,141.21199808219862,Non-touch
+1196,Dell,Notebook,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,AMD, Radeon R7 M445,windows,2.4,34035.0,141.21199808219862,Non-touch
+1197,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.4,87219.0,202.37276851499232,Touchscreen
+1198,Lenovo,Notebook,13.3,0,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,1.4,79867.0,165.6321180513006,Non-touch
+1199,Lenovo,Notebook,15.6,0,AMD,A12-Series 9720P,3.6,6,0,256.0,SSD,AMD, Radeon 530,windows,2.2,31839.0,141.21199808219862,Non-touch
+1200,Asus,Ultrabook,13.3,0,Intel,Core i7,2.5,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.5,68198.0,165.6321180513006,Non-touch
+1201,Acer,Notebook,15.6,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,linux,2.4,19277.0,100.45466986113651,Non-touch
+1202,Dell,2 in 1 Convertible,17.3,1,Intel,Core i7,2.7,16,0,512.0,SSD,Nvidia, GeForce 940MX,windows,2.8,95851.0,127.33567457123111,Touchscreen
+1203,HP,Notebook,14.0,0,Intel,Core i5,2.3,4,0,256.0,SSD,Intel, HD Graphics 520,windows,1.5,58607.0,157.3505121487356,Non-touch
+1204,Lenovo,Ultrabook,15.6,0,Intel,Core i7,2.7,6,0,256.0,SSD,Nvidia, GeForce 920M,windows,1.5,44276.0,141.21199808219862,Non-touch
+1205,Dell,Notebook,14.0,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,1.6,46620.0,111.93520355955211,Non-touch
+1206,Dell,Notebook,15.6,0,Intel,Core i7,2.7,8,0,256.0,SSD,Nvidia, GeForce GT 940MX,linux,2.0,47686.0,141.21199808219862,Non-touch
+1207,Asus,Gaming,15.6,0,Intel,Core i7,2.6,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,2.3,123876.0,141.21199808219862,Non-touch
+1208,Acer,Notebook,15.6,0,Intel,Celeron Dual,2.0,4,0,500.0,HDD,Intel, HD Graphics 500,windows,2.1,17742.0,100.45466986113651,Non-touch
+1209,Lenovo,Notebook,15.6,0,Intel,Core i5,2.5,8,0,256.0,SSD,Intel, HD Graphics 620,,2.3,30529.0,141.21199808219862,Non-touch
+1210,HP,Notebook,15.6,0,Intel,Core i7,2.6,6,0,1024.0,HDD,Nvidia, GeForce GTX 960M,windows,2.2,42571.0,141.21199808219862,Non-touch
+1211,Dell,2 in 1 Convertible,13.3,1,Intel,Core i5,1.2,8,0,256.0,SSD,Intel, HD Graphics 615,windows,1.2,96597.0,202.37276851499232,Touchscreen
+1212,Dell,Notebook,15.6,0,Intel,Pentium Quad,1.6,4,0,500.0,HDD,Intel, HD Graphics,linux,2.2,17263.0,100.45466986113651,Non-touch
+1213,Asus,Gaming,15.6,0,Intel,Core i7,2.6,8,1024,256.0,Hybrid,Nvidia, GeForce GTX 960M,windows,2.6,48432.0,141.21199808219862,Non-touch
+1214,HP,Notebook,15.6,0,AMD,A6-Series 9220,2.5,4,0,500.0,HDD,AMD, Radeon R4 Graphics,windows,1.9,21259.0,100.45466986113651,Non-touch
+1215,Dell,2 in 1 Convertible,15.6,1,Intel,Core i7,2.7,16,0,512.0,SSD,Intel, HD Graphics 620,windows,2.1,62817.0,141.21199808219862,Touchscreen
+1216,Acer,Notebook,15.6,0,Intel,Core i5,2.5,4,0,256.0,SSD,Nvidia, GeForce 940MX,windows,2.2,36816.0,141.21199808219862,Non-touch
+1217,Dell,Ultrabook,13.3,1,Intel,Core i5,2.4,8,0,256.0,SSD,Intel, HD Graphics 520,linux,1.2,58555.0,202.37276851499232,Touchscreen
+1218,Lenovo,Notebook,15.6,0,Intel,Core i3,2.3,6,0,128.0,SSD,Nvidia, GeForce 920MX,windows,2.4,30316.0,141.21199808219862,Non-touch
+1219,Lenovo,Notebook,14.0,0,Intel,Core i5,2.3,8,0,256.0,SSD,Intel, HD Graphics 520,windows,1.9,57116.0,157.3505121487356,Non-touch
+1220,Dell,Notebook,15.6,0,Intel,Pentium Quad,1.6,4,0,500.0,HDD,Intel, HD Graphics,windows,2.2,23656.0,100.45466986113651,Non-touch
+1221,Asus,Notebook,15.6,0,Intel,Celeron Dual,1.1,4,0,1024.0,HDD,Intel, HD Graphics 500,windows,2.0,18062.0,100.45466986113651,Non-touch
+1222,Asus,Gaming,17.3,0,Intel,Core i7,2.6,16,1024,128.0,Hybrid,Nvidia, GeForce GTX 970M,windows,4.0,101232.0,127.33567457123111,Non-touch
+1223,Dell,Notebook,15.6,0,Intel,Core i3,2.0,4,0,500.0,HDD,Intel, HD Graphics 520,windows,2.3,26107.0,100.45466986113651,Non-touch
+1224,Lenovo,Notebook,15.6,0,Intel,Core i7,2.5,8,0,1024.0,Hybrid,AMD, Radeon R5 M330,windows,2.3,47686.0,141.21199808219862,Non-touch
+1225,MSI,Gaming,15.6,0,Intel,Core i7,2.6,8,1024,128.0,Hybrid,Nvidia, GeForce GTX 960M,windows,2.4,65481.0,141.21199808219862,Non-touch
+1226,Acer,Gaming,17.3,0,Intel,Core i7,2.8,16,1024,256.0,Hybrid,Nvidia, GeForce GTX 1070,windows,4.2,138475.0,127.33567457123111,Non-touch
+1227,Lenovo,Gaming,15.6,0,Intel,Core i5,2.5,8,0,1024.0,HDD,Nvidia, GeForce GTX 1050,windows,2.4,43636.0,141.21199808219862,Non-touch
+1228,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i5,2.3,4,0,128.0,SSD,Intel, HD Graphics 520,windows,1.8,44383.0,157.3505121487356,Touchscreen
+1229,Samsung,2 in 1 Convertible,12.3,1,Samsung,Cortex A72&A53,2.0,4,0,32.0,Flash Storage,ARM, Mali T860 MP4,other,1.2,35112.0,202.37276851499232,Touchscreen
+1230,HP,Notebook,15.6,0,Intel,Core i5,2.5,4,0,500.0,HDD,Intel, HD Graphics 620,windows,1.9,25841.0,100.45466986113651,Non-touch
+1231,Asus,Ultrabook,13.3,0,Intel,Core M,0.9,8,0,512.0,SSD,Intel, HD Graphics 515,windows,1.2,38841.0,165.6321180513006,Non-touch
+1232,Dell,Notebook,15.6,0,Intel,Core i3,2.4,6,0,1024.0,HDD,Intel, HD Graphics 620,windows,2.3,24456.0,100.45466986113651,Non-touch
+1233,Acer,Notebook,15.6,0,Intel,Celeron Dual,1.6,4,0,500.0,HDD,Intel, HD Graphics 400,linux,2.4,15398.0,100.45466986113651,Non-touch
+1234,Apple,Ultrabook,12.0,0,Intel,Core M,1.1,8,0,256.0,Flash Storage,Intel, HD Graphics 5300,macos,0.9,61965.0,202.37276851499232,Non-touch
+1235,Dell,Notebook,15.6,0,Intel,Celeron Dual,1.6,2,0,500.0,HDD,Intel, HD Graphics,windows,2.2,20193.0,100.45466986113651,Non-touch
+1236,Lenovo,Notebook,15.6,0,Intel,Core i7,2.6,8,0,1024.0,HDD,Nvidia, GeForce GTX 960M,windows,2.6,47899.0,141.21199808219862,Non-touch
+1237,HP,Notebook,15.6,0,AMD,A9-Series 9410,2.9,6,0,1024.0,Hybrid,AMD, Radeon R7 M440,windows,2.0,29303.0,141.21199808219862,Non-touch
+1238,Dell,Notebook,15.6,0,Intel,Core i7,2.7,8,0,1024.0,HDD,AMD, Radeon R5 M430,linux,2.3,42943.0,100.45466986113651,Non-touch
+1239,HP,Netbook,11.6,0,Intel,Celeron Dual,1.6,2,0,32.0,Flash Storage,Intel, HD Graphics 400,windows,1.2,11136.0,135.0942111925629,Non-touch
+1240,Asus,Notebook,15.6,0,Intel,Core i7,2.5,4,0,500.0,HDD,Nvidia, GeForce 920M,windows,2.2,38379.0,100.45466986113651,Non-touch
+1241,Lenovo,2 in 1 Convertible,14.0,1,Intel,Core i7,2.5,4,0,128.0,SSD,Intel, HD Graphics 520,windows,1.8,33993.0,157.3505121487356,Touchscreen
+1242,Lenovo,2 in 1 Convertible,13.3,1,Intel,Core i7,2.5,16,0,512.0,SSD,Intel, HD Graphics 520,windows,1.3,79867.0,202.37276851499232,Touchscreen
+1243,Lenovo,Notebook,14.0,0,Intel,Celeron Dual,1.6,2,0,64.0,Flash Storage,Intel, HD Graphics,windows,1.5,12201.0,111.93520355955211,Non-touch
+1244,HP,Notebook,15.6,0,Intel,Core i7,2.5,6,0,1024.0,HDD,AMD, Radeon R5 M330,windows,2.2,40706.0,100.45466986113651,Non-touch
